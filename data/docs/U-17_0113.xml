@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0113</title>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="mn">Michael Nadig</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0113</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0113</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Vor Heinrich Wienner, Schultheiss zu Brugg, und dem Gericht daselbst, vergabt Frau Anna Ysenbartin dem Kloster Königsfelden, vertreten durch Walther von Uppenfar, alles, was sie an Eigen oder Erblehen besitzt.</summary>
+                <msItem>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="28.2"/>
+                        <height unit="cm" quantity="13"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="2.6"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1330-06-24">24. Juni 1330</origDate>
+                  <origPlace ref="">[Brugg]</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0113">
+            <msDesc>
+              <msIdentifier corresp="KB_1-AA_0428">
+                <idno>StAAG AA/0428, fol. 54r-55r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0113">
+            <msDesc>
+              <msIdentifier corresp="KB_1-AA_0428">
+                <idno>StAAG AA/0428, fol. 101r-101v</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Schenkung</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="6372" lry="4852" xml:id="facs_1">
+      <graphic url="U-17_0113_r.tiff.jpg" width="6372" height="4852"/>
+      <zone points="561,552 4583,552 4583,1891 561,1891" rendition="TextRegion" xml:id="facs_1_region_1494402897018_211">
+        <zone points="692,666 4513,699 4513,749 692,716" rendition="Line" xml:id="facs_1_line_1494402903038_212"/>
+        <zone points="702,762 4461,776 4461,826 702,812" rendition="Line" xml:id="facs_1_line_1494402906021_213"/>
+        <zone points="711,853 4433,877 4433,927 711,903" rendition="Line" xml:id="facs_1_line_1494402909003_214"/>
+        <zone points="708,940 4458,968 4458,1018 708,990" rendition="Line" xml:id="facs_1_line_1494402913125_215"/>
+        <zone points="676,1054 4389,1064 4389,1114 676,1104" rendition="Line" xml:id="facs_1_line_1494402916192_216"/>
+        <zone points="711,1148 4447,1134 4447,1184 711,1198" rendition="Line" xml:id="facs_1_line_1494402919915_217"/>
+        <zone points="697,1261 4429,1237 4429,1287 697,1311" rendition="Line" xml:id="facs_1_line_1494402923033_218"/>
+        <zone points="711,1331 4471,1326 4495,1394 735,1399" rendition="Line" xml:id="facs_1_line_1494402926287_219"/>
+        <zone points="683,1439 4354,1434 4354,1484 683,1489" rendition="Line" xml:id="facs_1_line_1494402929339_220"/>
+        <zone points="565,1540 4264,1531 4264,1581 565,1590" rendition="Line" xml:id="facs_1_line_1494402933106_221"/>
+        <zone points="755,1652 4472,1647 4472,1697 755,1702" rendition="Line" xml:id="facs_1_line_1494402936504_222"/>
+        <zone points="660,1752 3164,1757 3164,1807 660,1802" rendition="Line" xml:id="facs_1_line_1494402939057_223"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_2">
+      <graphic url="U-17_0113_v.tiff.jpg" width="7360" height="4912"/>
+      <zone points="3246,981 3903,981 3903,1196 3246,1196" rendition="TextRegion" xml:id="facs_2_region_1546596569108_590" subtype="uber_2">
+        <zone points="3300,1070 3890,1042 3892,1092 3302,1120" rendition="Line" xml:id="facs_2_line_1546596573517_593"/>
+      </zone>
+      <zone points="3540,1208 4309,1208 4309,1431 3540,1431" rendition="TextRegion" xml:id="facs_2_region_1546596576625_598" subtype="Dorsual_Sigle">
+        <zone points="3556,1342 4277,1334 4277,1384 3556,1392" rendition="Line" xml:id="facs_2_line_1546596579898_601"/>
+      </zone>
+    <zone points="4095,986 4248,986 4248,1113 4095,1113" rendition="TextRegion" xml:id="facs_2_region_1546596592425_614" subtype="Zahl">
+        <zone points="4108,1049 4212,1049 4212,1099 4108,1099" rendition="Line" xml:id="facs_2_line_1546596595148_617"/>
+      </zone>
+      <zone points="4081,889 4354,889 4354,980 4081,980" rendition="TextRegion" xml:id="facs_2_region_1546596586950_606" subtype="Dorsual_Jahreszahl-Vier">
+        <zone points="4108,924 4348,920 4349,970 4109,974" rendition="Line" xml:id="facs_2_line_1546596589391_609"/>
+      </zone>
+      <zone points="1823,480 3173,480 3173,838 1823,838" rendition="TextRegion" xml:id="facs_2_region_1546596373033_566" subtype="Dorsual_StAAG">
+        <zone points="1878,646 3117,654 3117,704 1878,696" rendition="Line" xml:id="facs_2_line_1546596376015_569"/>
+      </zone>
+      <zone points="1882,1109 2536,1109 2536,1527 1882,1527" rendition="TextRegion" xml:id="facs_2_region_1546596379163_574" subtype="Dorsual_StAAG-Stempel">
+        <zone points="1944,1235 2486,1259 2484,1309 1942,1285" rendition="Line" xml:id="facs_2_line_1546596383189_577"/>
+        <zone points="1987,1355 2417,1402 2411,1452 1981,1405" rendition="Line" xml:id="facs_2_line_1546596385643_582"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0113_r"/>
+      <p facs="#facs_1_region_1494402897018_211">
+        <lb facs="#facs_1_line_1494402903038_212" n="N001"/>Ich<reg>,</reg> <persName ref="per020813">Heinrich Wienner<reg>,</reg> schultheisse ze Brugge</persName>
+                <reg>,</reg> <reg type="star">✳</reg> tuͦn chunt <reg type="star">✳</reg> allen den<reg>,</reg> die disen brief ansehent<reg>,</reg> lesent oder hoͤrent lesen nu oder
+        <lb facs="#facs_1_line_1494402906021_213" n="N002"/>har nach<reg>,</reg> <reg type="star">✳</reg> das fùr mich kâm<reg>,</reg> da ich sas ingerihtes wis an miner <choice>
+                    <abbr>hˀ</abbr>
+                    <expan>her</expan>
+                </choice>ren stat<reg>,</reg> der <orgName ref="org000088">
+                    <choice>
+                        <abbr>hˀ</abbr>
+                        <expan>her</expan>
+                    </choice>tzogen von <reg type="star">✳</reg> Osterich</orgName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per021314">froͧ Anne Ysen<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1494402909003_214" n="N003" break="no"/>bartin</persName> mit <persName ref="per021454">Heinrich</persName>
+                <reg>,</reg> der ir bruͦders <persName ref="per021456">Johans<reg>,</reg> des smides<reg>,</reg> seligen</persName>
+                <reg>,</reg> sun was<reg>,</reg> <reg type="star">✳</reg> der ir mit <reg type="star">✳</reg> urteild ze vogt geben wart<reg>,</reg> <reg type="star">✳</reg> und
+        <lb facs="#facs_1_line_1494402913125_215" n="N004"/>gab uf <persName ref="per019945">Walther von <reg type="star">✳</reg> Uppenfar</persName>
+                <reg>,</reg> <reg type="star">✳</reg> der oͧch die selben gabe emphieng an <orgName ref="org002627">miner frowen <reg type="star">✳</reg> <reg type="star">✳</reg> der epthissenn und des conventz
+        <lb facs="#facs_1_line_1494402916192_216" n="N005"/>stat ze Chungesfeld</orgName>
+                <reg>,</reg> <reg type="star">✳</reg> lidig und ler<reg>,</reg> was si hetti von eigen und von erbe<reg>,</reg> <reg type="star">✳</reg> und das selbe guͦt niemer anzesprechenne <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1494402919915_217" n="N006"/>weder an geistlichem noch an weltlichem gerichte<reg>,</reg> <reg type="star">✳</reg> und geviel oͧch mit gesamnoter ùrteild<reg>,</reg> das du gabe dur recht wol
+        <lb facs="#facs_1_line_1494402923033_218" n="N007"/>kraft moͤht han nu und her nach<reg>.</reg> <reg type="star">✳</reg> und des ze einem offenne urchùnde und gezùgsami der dinge<reg>,</reg> so da vor geschri<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice>
+        <lb facs="#facs_1_line_1494402926287_219" n="N008"/>stant<reg>,</reg> gib ich<reg>,</reg> der vorgnante <persName ref="per020813">Heinrich Wienner<reg>,</reg> schultheisse ze Brugge</persName>
+                <reg>,</reg> disen brief<reg>,</reg> besigelt mit minem eigenen ingesigel<reg>.</reg> <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1494402929339_220" n="N009"/>dis geschach und dirre brief wart gegeben<reg>,</reg> <reg type="star">✳</reg> do ze gegen waren die erben lùte<reg>,</reg> die hie nach geschriben stant: <reg type="star">✳</reg> <persName ref="per013070">Johans
+        <lb facs="#facs_1_line_1494402933106_221" n="N010"/>Bûlli</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per019195">Ruͦdolf Vinseler</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per021313">Heinrich von Hotwile</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per019948">Johans <reg type="star">✳</reg> von Hotwile</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per019196">Ruͤde<choice>
+                        <abbr>gˀ</abbr>
+                        <expan>ger</expan>
+                    </choice> <reg type="star">✳</reg> Rot</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per019946">Ruͦdi Hirseli</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per021036">Johans zer Mùli</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per021466">
+                    <choice>
+                        <abbr>Joh̄</abbr>
+                        <expan>Johans</expan>
+                    </choice>
+        <lb facs="#facs_1_line_1494402936504_222" n="N011"/>Bluͦmo</persName>
+                <reg>,</reg> <reg type="star">✳</reg> <persName ref="per021315">Ruͤde<choice>
+                        <abbr>gˀ</abbr>
+                        <expan>ger</expan>
+                    </choice> Schetwin</persName> <reg type="star">✳</reg> und anderr erberr lùte gnuͦg<reg>,</reg> <reg type="star">✳</reg> do man zalte <date when="1330-06-24">von <reg type="star">✳</reg> Christes gebùrt drùcehenhundert
+        <lb facs="#facs_1_line_1494402939057_223" n="N012"/>jare<reg>,</reg> dar nach in dem drizigostem jare<reg>,</reg> an sant Johans tag ze sungiht</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0113_v"/>
+      <p facs="#facs_2_region_1546596569108_590" rend="dorsual_04_uber_2">
+        <lb facs="#facs_2_line_1546596573517_593" n="N001"/>
+                <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice> Isenbartinen guͦt</p>
+      <p facs="#facs_2_region_1546596576625_598" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1546596579898_601" n="N001"/>K <reg type="star">✳</reg> T <reg type="star">✳</reg> 68 <reg type="star">✳</reg>
+            </p>
+    <p facs="#facs_2_region_1546596592425_614" rend="dorsual_25_zahl">
+        <lb facs="#facs_2_line_1546596595148_617" n="N001"/>
+                <reg type="star">✳</reg> j <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1546596586950_606" rend="dorsual_30_jahreszahl_4">
+        <lb facs="#facs_2_line_1546596589391_609" n="N001"/>1330 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1546596373033_566" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1546596376015_569" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 113</p>
+      <p facs="#facs_2_region_1546596379163_574" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1546596383189_577" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1546596385643_582" n="N002"/>AARGAU</p>
+      </body>
+  </text>
+</TEI>

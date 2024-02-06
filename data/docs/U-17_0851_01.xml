@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0851/01</title>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="fh">Fabian Henggeler</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="mn">Michael Nadig</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0851/01</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0851/01</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt">Liste und Rechnung mit verschiedenen Beträgen</summary>
+                <msItem>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Papier</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="33"/>
+                        <height unit="cm" quantity="22.3"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="0.0"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" from="1500-01-01" to="1525-12-30">Anfang 16. Jh.</origDate>
+                  <origPlace ref="">o.O.</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Verzeichnis</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="4912" lry="7360" xml:id="facs_1">
+      <graphic url="U-17_0851_01_r.jpg" width="4912" height="7360"/>
+      <zone points="630,1495 2071,1495 2071,1921 630,1921" rendition="TextRegion" xml:id="facs_1_region_1591597361073_59" subtype="Dorsual_StAAG">
+        <zone points="703,1698 2043,1691 2043,1741 703,1748" rendition="Line" xml:id="facs_1_line_1591597364027_62"/>
+      </zone>
+      <zone points="893,2157 1485,2157 1485,2520 893,2520" rendition="TextRegion" xml:id="facs_1_region_1591597370231_68" subtype="Dorsual_StAAG-Stempel">
+        <zone points="924,2287 1429,2287 1429,2337 924,2337" rendition="Line" xml:id="facs_1_line_1591597373166_71"/>
+        <zone points="974,2404 1382,2391 1383,2441 975,2454" rendition="Line" xml:id="facs_1_line_1591597374907_76"/>
+      </zone>
+      <zone points="1165,3345 1641,3345 1641,3507 1165,3507" rendition="TextRegion" xml:id="facs_1_region_1591597381988_82">
+        <zone points="1611,3457 1201,3448 1202,3398 1612,3407" rendition="Line" xml:id="facs_1_line_1591597385273_85"/>
+      </zone>
+      <zone points="1300,3089 1942,3089 1942,3472 1300,3472" rendition="TextRegion" xml:id="facs_1_region_1591597388527_90" subtype="Dorsual_Sigle">
+        <zone points="1907,3272 1372,3245 1374,3195 1909,3222" rendition="Line" xml:id="facs_1_line_1591597391988_93"/>
+      </zone>
+      <zone points="2180,1490 3675,1490 3675,4473 2180,4473" rendition="TextRegion" xml:id="facs_1_region_1524123846705_2">
+        <zone points="2336,1726 2397,1724 2458,1722 2519,1720 2581,1720 2642,1718 2703,1718 2765,1716 2826,1716 2887,1714 2949,1713 3010,1712 3071,1710 3132,1706 3194,1702 3255,1699 3316,1694 3378,1689 3439,1682 3500,1674 3562,1664 3562,1592 3500,1602 3439,1610 3378,1617 3316,1622 3255,1627 3194,1630 3132,1634 3071,1638 3010,1640 2949,1641 2887,1642 2826,1644 2765,1644 2703,1646 2642,1646 2581,1648 2519,1648 2458,1650 2397,1652 2336,1654" rendition="Line" xml:id="facs_1_region_1524123846705_2l1"/>
+        <zone points="2390,1828 2416,1826 2443,1824 2470,1823 2497,1822 2524,1822 2550,1822 2577,1822 2604,1821 2631,1820 2658,1818 2658,1746 2631,1748 2604,1749 2577,1750 2550,1750 2524,1750 2497,1750 2470,1751 2443,1752 2416,1754 2390,1756" rendition="Line" xml:id="facs_1_region_1524123846705_2l2"/>
+        <zone points="2328,1978 2371,1976 2415,1973 2458,1971 2502,1967 2545,1964 2589,1960 2632,1956 2676,1953 2719,1949 2763,1945 2806,1940 2850,1935 2893,1931 2937,1927 2980,1924 3024,1921 3067,1917 3111,1914 3154,1912 3198,1910 3198,1838 3154,1840 3111,1842 3067,1845 3024,1849 2980,1852 2937,1855 2893,1859 2850,1863 2806,1868 2763,1873 2719,1877 2676,1881 2632,1884 2589,1888 2545,1892 2502,1895 2458,1899 2415,1901 2371,1904 2328,1906" rendition="Line" xml:id="facs_1_region_1524123846705_2l3"/>
+        <zone points="2370,2148 2302,2148 2302,2105 2370,2105 2439,2103 2507,2101 2576,2099 2644,2095 2713,2091 2781,2087 2799,2085 2799,2128 2781,2130 2713,2134 2644,2138 2576,2142 2507,2144 2439,2146" rendition="Line" xml:id="facs_1_line_1542404866216_2"/>
+        <zone points="2772,2060 2798,2063 2824,2065 2850,2067 2876,2072 2876,2029 2850,2024 2824,2022 2798,2020 2772,2017" rendition="Line" xml:id="facs_1_region_1524123846705_2l4"/>
+        <zone points="2799,2128 2799,2085 2850,2083 2918,2079 2987,2074 3055,2071 3124,2065 3192,2063 3261,2060 3329,2056 3398,2053 3466,2052 3535,2051 3603,2049 3672,2049 3672,2092 3603,2092 3535,2094 3466,2095 3398,2096 3329,2099 3261,2103 3192,2106 3124,2108 3055,2114 2987,2117 2918,2122 2850,2126" rendition="Line" xml:id="facs_1_line_1542404866215_1"/>
+        <zone points="2352,2254 2409,2256 2467,2254 2525,2254 2583,2252 2641,2249 2698,2244 2756,2240 2814,2236 2872,2231 2930,2227 2987,2222 3045,2217 3103,2213 3161,2208 3219,2205 3276,2202 3334,2200 3392,2198 3450,2198 3508,2198 3508,2131 3450,2131 3392,2131 3334,2133 3276,2135 3219,2138 3161,2141 3103,2146 3045,2150 2987,2155 2930,2160 2872,2164 2814,2169 2756,2173 2698,2177 2641,2182 2583,2185 2525,2187 2467,2187 2409,2189 2352,2187" rendition="Line" xml:id="facs_1_region_1524123846705_2l6"/>
+        <zone points="2326,2359 2388,2357 2451,2354 2513,2351 2576,2348 2639,2345 2701,2341 2764,2337 2826,2334 2889,2330 2952,2327 3014,2322 3077,2319 3139,2315 3202,2311 3265,2309 3327,2305 3390,2302 3452,2299 3515,2295 3578,2293 3578,2223 3515,2225 3452,2229 3390,2232 3327,2235 3265,2239 3202,2241 3139,2245 3077,2249 3014,2252 2952,2257 2889,2260 2826,2264 2764,2267 2701,2271 2639,2275 2576,2278 2513,2281 2451,2284 2388,2287 2326,2289" rendition="Line" xml:id="facs_1_region_1524123846705_2l7"/>
+        <zone points="2311,2474 2558,2443 2613,2440 2667,2436 2722,2434 2776,2430 2831,2426 2885,2424 2940,2421 2994,2418 3049,2414 3103,2412 3158,2409 3212,2406 3267,2404 3321,2402 3376,2400 3430,2398 3485,2398 3539,2396 3594,2394 3594,2333 3539,2335 3485,2337 3430,2337 3376,2339 3321,2341 3267,2343 3212,2345 3158,2348 3103,2351 3049,2353 2994,2357 2940,2360 2885,2363 2831,2365 2776,2369 2722,2373 2667,2375 2613,2379 2558,2382 2311,2413" rendition="Line" xml:id="facs_1_region_1524123846705_2l8"/>
+        <zone points="2346,2550 2409,2548 2472,2545 2535,2541 2599,2537 2662,2532 2725,2528 2789,2524 2852,2519 2915,2516 2979,2511 3042,2506 3105,2502 3168,2498 3232,2494 3295,2491 3358,2488 3422,2485 3485,2482 3548,2482 3612,2480 3612,2419 3548,2421 3485,2421 3422,2424 3358,2427 3295,2430 3232,2433 3168,2437 3105,2441 3042,2445 2979,2450 2915,2455 2852,2458 2789,2463 2725,2467 2662,2471 2599,2476 2535,2480 2472,2484 2409,2487 2346,2489" rendition="Line" xml:id="facs_1_region_1524123846705_2l9"/>
+        <zone points="2322,2846 2381,2842 2440,2838 2500,2833 2559,2830 2619,2824 2678,2821 2737,2816 2797,2812 2856,2808 2916,2804 2975,2799 3034,2795 3094,2789 3153,2784 3213,2779 3272,2775 3331,2769 3391,2764 3450,2760 3510,2754 3510,2694 3450,2700 3391,2704 3331,2709 3272,2715 3213,2719 3153,2724 3094,2729 3034,2735 2975,2739 2916,2744 2856,2748 2797,2752 2737,2756 2678,2761 2619,2764 2559,2770 2500,2773 2440,2778 2381,2782 2322,2786" rendition="Line" xml:id="facs_1_region_1524123846705_2l10"/>
+        <zone points="2337,2896 2538,2902 2580,2902 2621,2901 2663,2900 2705,2898 2746,2897 2788,2893 2829,2892 2871,2890 2913,2886 2954,2883 2996,2880 3037,2877 3079,2874 3121,2871 3162,2869 3204,2866 3245,2862 3287,2859 3329,2856 3329,2796 3287,2799 3245,2802 3204,2806 3162,2809 3121,2811 3079,2814 3037,2817 2996,2820 2954,2823 2913,2826 2871,2830 2829,2832 2788,2833 2746,2837 2705,2838 2663,2840 2621,2841 2580,2842 2538,2842 2337,2836" rendition="Line" xml:id="facs_1_region_1524123846705_2l11"/>
+        <zone points="2300,3088 2352,3083 2405,3079 2458,3076 2511,3073 2564,3071 2616,3070 2669,3068 2722,3068 2775,3068 2828,3070 2880,3070 2933,3072 2986,3072 3039,3074 3092,3076 3144,3078 3197,3080 3250,3081 3303,3082 3575,3031 3575,2959 3303,3010 3250,3009 3197,3008 3144,3006 3092,3004 3039,3002 2986,3000 2933,3000 2880,2998 2828,2998 2775,2996 2722,2996 2669,2996 2616,2998 2564,2999 2511,3001 2458,3004 2405,3007 2352,3011 2300,3016" rendition="Line" xml:id="facs_1_region_1524123846705_2l13"/>
+        <zone points="2366,3175 2391,3177 2416,3179 2441,3179 2466,3177 2491,3177 2516,3175 2541,3173 2566,3171 2591,3169 2616,3166 2641,3165 2666,3163 2691,3163 2716,3161 2741,3162 2766,3163 2791,3165 2816,3169 2816,3105 2791,3101 2766,3099 2741,3098 2716,3097 2691,3099 2666,3099 2641,3101 2616,3102 2591,3105 2566,3107 2541,3109 2516,3111 2491,3113 2466,3113 2441,3115 2416,3115 2391,3113 2366,3111" rendition="Line" xml:id="facs_1_region_1524123846705_2l14"/>
+        <zone points="2394,3281 2447,3275 2500,3271 2553,3267 2606,3265 2660,3262 2713,3259 2766,3257 2819,3255 2872,3253 2926,3252 2979,3250 3032,3249 3085,3247 3138,3245 3192,3241 3245,3239 3298,3237 3351,3232 3404,3228 3458,3221 3458,3157 3404,3164 3351,3168 3298,3173 3245,3175 3192,3177 3138,3181 3085,3183 3032,3185 2979,3186 2926,3188 2872,3189 2819,3191 2766,3193 2713,3195 2660,3198 2606,3201 2553,3203 2500,3207 2447,3211 2394,3217" rendition="Line" xml:id="facs_1_region_1524123846705_2l15"/>
+        <zone points="2242,3472 2306,3465 2370,3459 2434,3452 2498,3447 2562,3441 2626,3435 2690,3430 2754,3426 2818,3422 2882,3418 2946,3416 3010,3414 3074,3412 3138,3412 3202,3412 3266,3412 3330,3414 3394,3416 3458,3418 3522,3422 3522,3350 3458,3346 3394,3344 3330,3342 3266,3340 3202,3340 3138,3340 3074,3340 3010,3342 2946,3344 2882,3346 2818,3350 2754,3354 2690,3358 2626,3363 2562,3369 2498,3375 2434,3380 2370,3387 2306,3393 2242,3400" rendition="Line" xml:id="facs_1_region_1524123846705_2l16"/>
+        <zone points="2366,3791 2424,3784 2482,3777 2541,3772 2599,3767 2658,3761 2716,3758 2774,3755 2833,3750 2891,3748 2950,3744 3008,3741 3066,3739 3125,3735 3183,3731 3242,3727 3300,3723 3358,3718 3417,3714 3475,3708 3534,3701 3534,3631 3475,3638 3417,3644 3358,3648 3300,3653 3242,3657 3183,3661 3125,3665 3066,3669 3008,3671 2950,3674 2891,3678 2833,3680 2774,3685 2716,3688 2658,3691 2599,3697 2541,3702 2482,3707 2424,3714 2366,3721" rendition="Line" xml:id="facs_1_region_1524123846705_2l17"/>
+        <zone points="2370,3883 2434,3877 2499,3871 2563,3865 2628,3859 2693,3854 2757,3851 2822,3848 2886,3845 2951,3842 3016,3839 3080,3837 3145,3835 3209,3833 3274,3831 3338,3827 3403,3825 3468,3821 3532,3817 3597,3814 3662,3807 3662,3744 3597,3751 3532,3754 3468,3758 3403,3762 3338,3764 3274,3768 3209,3770 3145,3772 3080,3774 3016,3776 2951,3779 2886,3782 2822,3785 2757,3788 2693,3791 2628,3796 2563,3802 2499,3808 2434,3814 2370,3820" rendition="Line" xml:id="facs_1_region_1524123846705_2l18"/>
+        <zone points="2398,3983 2423,3979 2448,3976 2473,3972 2498,3968 2523,3964 2548,3962 2573,3959 2598,3955 2623,3952 2648,3949 2673,3946 2698,3944 2723,3942 2748,3940 2773,3937 2798,3935 2823,3934 2848,3932 2873,3929 2898,3929 2898,3866 2873,3866 2848,3869 2823,3871 2798,3872 2773,3874 2748,3877 2723,3879 2698,3881 2673,3883 2648,3886 2623,3889 2598,3892 2573,3896 2548,3899 2523,3901 2498,3905 2473,3909 2448,3913 2423,3916 2398,3920" rendition="Line" xml:id="facs_1_region_1524123846705_2l19"/>
+        <zone points="2362,4094 2400,4090 2438,4086 2477,4083 2515,4078 2554,4075 2592,4071 2630,4068 2669,4063 2707,4059 2746,4056 2784,4053 2822,4052 2861,4050 2899,4047 2938,4046 2976,4044 3014,4044 3053,4044 3091,4044 3130,4044 3130,3972 3091,3972 3053,3972 3014,3972 2976,3972 2938,3974 2899,3975 2861,3978 2822,3980 2784,3981 2746,3984 2707,3987 2669,3991 2630,3996 2592,3999 2554,4003 2515,4006 2477,4011 2438,4014 2400,4018 2362,4022" rendition="Line" xml:id="facs_1_region_1524123846705_2l20"/>
+        <zone points="2366,4196 2404,4194 2443,4194 2482,4192 2521,4190 2560,4188 2598,4186 2637,4184 2676,4182 2715,4179 2754,4178 2792,4176 2831,4172 2870,4171 2909,4167 2948,4166 2986,4163 3025,4162 3064,4158 3103,4157 3142,4154 3142,4082 3103,4085 3064,4086 3025,4090 2986,4091 2948,4094 2909,4095 2870,4099 2831,4100 2792,4104 2754,4106 2715,4107 2676,4110 2637,4112 2598,4114 2560,4116 2521,4118 2482,4120 2443,4122 2404,4122 2366,4124" rendition="Line" xml:id="facs_1_region_1524123846705_2l21"/>
+        <zone points="2364,4312 2414,4308 2465,4306 2516,4303 2567,4300 2618,4297 2668,4295 2719,4293 2770,4292 2821,4289 2872,4286 2922,4286 2973,4282 3024,4281 3075,4279 3126,4278 3176,4276 3227,4274 3278,4273 3329,4271 3380,4270 3380,4198 3329,4199 3278,4201 3227,4202 3176,4204 3126,4206 3075,4207 3024,4209 2973,4210 2922,4214 2872,4214 2821,4217 2770,4220 2719,4221 2668,4223 2618,4225 2567,4228 2516,4231 2465,4234 2414,4236 2364,4240" rendition="Line" xml:id="facs_1_region_1524123846705_2l22"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="4912" lry="7360" xml:id="facs_2">
+      <graphic url="U-17_0851_01_v.jpg" width="4912" height="7360"/>
+      <zone points="745,1626 2127,1626 2127,2275 745,2275" rendition="TextRegion" xml:id="facs_2_region_1524123910326_3" subtype="Sammelschicht_vor">
+        <zone points="851,1832 1121,1821 1146,1823 1171,1825 1196,1827 1222,1831 1247,1834 1272,1837 1297,1841 1322,1845 2094,1831 2094,1746 1322,1760 1297,1756 1272,1752 1247,1749 1222,1746 1196,1742 1171,1740 1146,1738 1121,1736 851,1747" rendition="Line" xml:id="facs_2_region_1524123910326_3l1"/>
+        <zone points="892,1927 935,1932 979,1939 1023,1944 1067,1949 1111,1952 1154,1956 1198,1959 1242,1962 1286,1965 1330,1965 1373,1967 1417,1967 1461,1967 1505,1966 1549,1966 1592,1965 1636,1965 1680,1963 1724,1961 1768,1959 1768,1871 1724,1873 1680,1875 1636,1877 1592,1877 1549,1878 1505,1878 1461,1879 1417,1879 1373,1879 1330,1877 1286,1877 1242,1874 1198,1871 1154,1868 1111,1864 1067,1861 1023,1856 979,1851 935,1844 892,1839" rendition="Line" xml:id="facs_2_region_1524123910326_3l3"/>
+        <zone points="868,2086 917,2088 967,2088 1017,2090 1067,2092 1117,2092 1166,2094 1216,2096 1266,2097 1316,2098 1366,2100 1415,2102 1465,2102 1515,2102 1565,2102 1615,2100 1664,2099 1714,2096 1764,2094 1814,2089 1864,2084 1864,1994 1814,1999 1764,2004 1714,2006 1664,2009 1615,2010 1565,2012 1515,2012 1465,2012 1415,2012 1366,2010 1316,2008 1266,2007 1216,2006 1166,2004 1117,2002 1067,2002 1017,2000 967,1998 917,1998 868,1996" rendition="Line" xml:id="facs_2_region_1524123910326_3l4"/>
+      </zone>
+      <zone points="813,2940 1757,2940 1757,3499 813,3499" rendition="TextRegion" xml:id="facs_2_region_1524123911750_4" subtype="Dorsual_StAAG-Stempel">
+        <zone points="1056,3231 1082,3234 1108,3236 1135,3238 1161,3239 1188,3241 1214,3241 1240,3243 1267,3243 1293,3243 1320,3243 1346,3243 1372,3243 1399,3243 1425,3245 1452,3245 1478,3245 1504,3245 1531,3245 1557,3246 1584,3247 1584,3172 1557,3171 1531,3170 1504,3170 1478,3170 1452,3170 1425,3170 1399,3168 1372,3168 1346,3168 1320,3168 1293,3168 1267,3168 1240,3168 1214,3166 1188,3166 1161,3164 1135,3163 1108,3161 1082,3159 1056,3156" rendition="Line" xml:id="facs_2_region_1524123911750_4l1"/>
+        <zone points="1112,3339 1138,3341 1164,3342 1190,3344 1216,3345 1242,3345 1268,3347 1294,3347 1321,3347 1347,3347 1373,3348 1399,3349 1425,3349 1451,3349 1477,3351 1504,3351 1504,3276 1477,3276 1451,3274 1425,3274 1399,3274 1373,3273 1347,3272 1321,3272 1294,3272 1268,3272 1242,3270 1216,3270 1190,3269 1164,3267 1138,3266 1112,3264" rendition="Line" xml:id="facs_2_region_1524123911750_4l2"/>
+      </zone>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0851_01_r"/>
+      <p facs="#facs_1_region_1591597361073_59">
+        <lb facs="#facs_1_line_1591597364027_62" n="N001"/>
+                <choice>
+                    <abbr>Konigsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 851 <add place="inline" hand="other hand">/ 01</add>
+            </p>
+      <p facs="#facs_1_region_1591597370231_68">
+        <lb facs="#facs_1_line_1591597373166_71" n="N001"/>Staatsarchiv
+        <lb facs="#facs_1_line_1591597374907_76" n="N002"/>AARGAU</p>
+      <p facs="#facs_1_region_1591597381988_82">
+        <lb facs="#facs_1_line_1591597385273_85" n="N001"/>sine dato <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_1_region_1591597388527_90">
+        <lb facs="#facs_1_line_1591597391988_93" n="N001"/>K <reg type="star">✳</reg> T <reg type="star">✳</reg> 50 <add place="inline" hand="other hand">b <reg type="star">✳</reg> <reg type="star">✳</reg>
+                </add>
+            </p>
+      <p facs="#facs_1_region_1524123846705_2">
+        <lb facs="#facs_1_region_1524123846705_2l1" n="N001"/>
+                <choice>
+                    <abbr>Dē</abbr>
+                    <expan>Dem</expan>
+                </choice> lûtpries<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> uff <placeName ref="loc011668">Stouff</placeName> <measure>ɉ 
+        <lb facs="#facs_1_region_1524123846705_2l2" n="N002"/>wachs</measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l3" n="N003"/>
+                <choice>
+                    <abbr>it₎</abbr>
+                    <expan>item</expan>
+                </choice> <measure>ij vasznachthuͤnner</measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_line_1542404866216_2" n="N004"/>
+                <persName ref="per027683">Blu<choice>
+                        <abbr>mē</abbr>
+                        <expan>men</expan>
+                    </choice>gers</persName>
+        <lb facs="#facs_1_region_1524123846705_2l4" n="N005"/>
+                <add place="above">husz</add>
+        <lb facs="#facs_1_line_1542404866215_1" n="N006"/>hatt geben<measure> vj <choice>
+                        <abbr>f₎</abbr>
+                        <expan>fiertel</expan>
+                    </choice> <choice>
+                        <abbr>krn̄</abbr>
+                        <expan>kernen</expan>
+                    </choice>
+                </measure>
+                <reg>,</reg>
+        <lb facs="#facs_1_region_1524123846705_2l6" n="N007"/>ist abgeloͤst und uff <persName ref="per017662">Hanns
+        <lb facs="#facs_1_region_1524123846705_2l7" n="N008"/>
+                    <choice>
+                        <sic>
+                            <choice>
+                                <abbr>Brum̄er</abbr>
+                                <expan>Brunner</expan>
+                            </choice>
+                        </sic>
+                        <corr>Brunner</corr>
+                    </choice>
+                </persName> wide<choice>
+                    <abbr>rū</abbr>
+                    <expan>rum</expan>
+                </choice> umb <measure>x </measure>
+        <lb facs="#facs_1_region_1524123846705_2l8" n="N009"/>an geleitt<reg>,</reg> sol <choice>
+                    <abbr>mā</abbr>
+                    <expan>man</expan>
+                </choice> darnach
+        <lb facs="#facs_1_region_1524123846705_2l9" n="N010"/>fra<choice>
+                    <abbr>gon̄</abbr>
+                    <expan>gonn</expan>
+                </choice>
+                <reg>,</reg> wie es darumb stand<reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l10" n="N011"/>
+                <choice>
+                    <abbr>it₎</abbr>
+                    <expan>item</expan>
+                </choice> es is gerechnott usz dem
+        <lb facs="#facs_1_region_1524123846705_2l11" n="N012"/>jarzytt bisz <date when="0001-05-15">
+                    <choice>
+                        <abbr>idꝰ</abbr>
+                        <expan>idus</expan>
+                    </choice> may</date>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l13" n="N013"/>luͦt an <choice>
+                    <abbr>krn̄</abbr>
+                    <expan>kernen</expan>
+                </choice> <measure>xx <hi rend="sup">
+                        <choice>
+                            <abbr>mt</abbr>
+                            <expan>mütt</expan>
+                        </choice>
+                    </hi>
+                </measure>
+                <reg>,</reg> <measure>iiɉ <choice>
+                        <abbr>f₎</abbr>
+                        <expan>fiertel</expan>
+                    </choice>
+                </measure>
+                <reg>,</reg>
+        <lb facs="#facs_1_region_1524123846705_2l14" n="N014"/>
+                <measure>iij <choice>
+                        <abbr>im̄e</abbr>
+                        <expan>imme</expan>
+                    </choice>
+                </measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l15" n="N015"/>an ro<choice>
+                    <abbr>g₎</abbr>
+                    <expan>gen</expan>
+                </choice> <measure>ij <hi rend="sup">
+                        <choice>
+                            <abbr>mt</abbr>
+                            <expan>mütt</expan>
+                        </choice>
+                    </hi>
+                </measure>
+                <reg>,</reg> <measure>iij <choice>
+                        <abbr>f₎</abbr>
+                        <expan>fiertel</expan>
+                    </choice>
+                </measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l16" n="N016"/>an gellt <measure>iij </measure> <measure>iij  ₰</measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l17" n="N017"/>
+                <comment comment="Handwechsel.">sumaͤ</comment> sù<choice>
+                    <abbr>maˀ</abbr>
+                    <expan>maͤrum</expan>
+                </choice> so ain lüppries<choice>
+                    <abbr>t₎</abbr>
+                    <expan>ter</expan>
+                </choice>
+        <lb facs="#facs_1_region_1524123846705_2l18" n="N018"/>hatt us dem jartzittbuͤch ungefarlich
+        <lb facs="#facs_1_region_1524123846705_2l19" n="N019"/>iber schlagenn
+        <lb facs="#facs_1_region_1524123846705_2l20" n="N020"/>an <choice>
+                    <abbr>knˀ</abbr>
+                    <expan>kernen</expan>
+                </choice> <measure>lxj <choice>
+                        <abbr>m<hi rend="sup">t</hi>
+                        </abbr>
+                        <expan>mütt</expan>
+                    </choice>
+                </measure> <measure>iij <choice>
+                        <abbr>f₎</abbr>
+                        <expan>fiertel</expan>
+                    </choice>
+                </measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l21" n="N021"/>an ro<choice>
+                    <abbr>g₎</abbr>
+                    <expan>gen</expan>
+                </choice> <measure>vj <choice>
+                        <abbr>m<hi rend="sup">t</hi>
+                        </abbr>
+                        <expan>mütt</expan>
+                    </choice>
+                </measure> <measure>iij <choice>
+                        <abbr>f₎</abbr>
+                        <expan>fiertel</expan>
+                    </choice>
+                </measure>
+                <reg>.</reg>
+        <lb facs="#facs_1_region_1524123846705_2l22" n="N022"/>an geltt <measure>xv <choice>
+                        <abbr>lib̄</abbr>
+                        <expan>pfund</expan>
+                    </choice>
+                </measure> <measure>iij </measure> <measure>ij ħ</measure>
+                <reg>.</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0851_01_v"/>
+      <p facs="#facs_2_region_1524123910326_3" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_region_1524123910326_3l1" n="N001"/>
+                <del rend="strikethrough">
+                    <choice>
+                        <abbr>it₎</abbr>
+                        <expan>item</expan>
+                    </choice> <persName ref="per017663">Frannzs</persName> hatt geben àn
+        <lb facs="#facs_2_region_1524123910326_3l3" n="N002"/>oͤll <measure>lxiiij màsz</measure>
+        <lb facs="#facs_2_region_1524123910326_3l4" n="N003"/>
+                    <unclear>
+                        <choice>
+                            <abbr>dt₎</abbr>
+                            <expan>dedit</expan>
+                        </choice>
+                    </unclear> <choice>
+                        <abbr>im̄</abbr>
+                        <expan>imm</expan>
+                    </choice> xx iiij <unclear>
+                        <choice>
+                            <abbr>br₎</abbr>
+                            <expan>brief</expan>
+                        </choice>
+                    </unclear>
+                </del>
+            </p>
+      <p facs="#facs_2_region_1524123911750_4" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_region_1524123911750_4l1" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_region_1524123911750_4l2" n="N002"/>AARGAU</p>
+    </body>
+  </text>
+</TEI>

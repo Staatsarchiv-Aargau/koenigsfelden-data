@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0621</title>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="mn">Michael Nadig</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0621</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0621</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt">Thüring von Ringoltingen, Vogt zu Baden, schlichtet mit Hans Wildmann und Niklaus Fricker einen Streit zwischen Heini Müller von Schinznach und den Frauen von Königsfelden wegen eines Heuzehnten zu Schinznach, den Heini Müller um 90 Gulden gekauft hat und den gleichzeitig das Kloster Königsfelden beansprucht. Die Schiedsherren urteilen, dass Heini Müller den Heuzehnten gegen 70 Gulden Entschädigung dem Kloster Königsfelden überlassen soll, da der Zehnt der Kirche zu Schinznach zugehört.</summary>
+                <msItem>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="30.8"/>
+                        <height unit="cm" quantity="21.4"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="0.0"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1443-02-04">04. Februar 1443</origDate>
+                  <origPlace ref="">o.O.</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Konflikt</term>
+          <term>Vergleich</term>
+          <term>Zehnt</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_1">
+      <graphic url="U-17_0621_r.jpg" width="7360" height="4912"/>
+      <zone points="1631,556 5223,556 5223,2743 1631,2743" rendition="TextRegion" xml:id="facs_1_region_1521235102137_33">
+        <zone points="1660,766 1830,762 2000,758 2170,756 2341,754 2511,754 2681,754 2852,754 3022,754 3192,756 3363,758 3533,760 3703,762 3873,766 4044,768 4214,772 4384,777 4555,782 4725,786 4895,792 5066,798 5066,750 4895,744 4725,738 4555,734 4384,729 4214,724 4044,720 3873,718 3703,714 3533,712 3363,710 3192,708 3022,706 2852,706 2681,706 2511,706 2341,706 2170,708 2000,710 1830,714 1660,718" rendition="Line" xml:id="facs_1_region_1521235102137_33l1"/>
+        <zone points="1768,818 1932,818 2096,818 2260,818 2424,816 2588,818 2752,818 2916,818 3080,820 3244,820 3409,822 3573,824 3737,828 3901,830 4065,834 4229,838 4393,842 4557,847 4721,852 4885,858 5050,864 5050,816 4885,810 4721,804 4557,799 4393,794 4229,790 4065,786 3901,782 3737,780 3573,776 3409,774 3244,772 3080,772 2916,770 2752,770 2588,770 2424,768 2260,770 2096,770 1932,770 1768,770" rendition="Line" xml:id="facs_1_region_1521235102137_33l2"/>
+        <zone points="1800,883 1961,883 2123,881 2285,881 2447,881 2609,881 2771,883 2933,883 3095,885 3257,887 3419,889 3580,891 3742,895 3904,897 4066,901 4228,905 4390,908 4552,913 4714,917 4876,922 5038,927 5038,881 4876,876 4714,871 4552,867 4390,862 4228,859 4066,855 3904,851 3742,849 3580,845 3419,843 3257,841 3095,839 2933,837 2771,837 2609,835 2447,835 2285,835 2123,835 1961,837 1800,837" rendition="Line" xml:id="facs_1_region_1521235102137_33l3"/>
+        <zone points="1774,947 1938,947 2102,947 2266,947 2430,947 2595,949 2759,949 2923,951 3087,951 3251,953 3416,955 3580,957 3744,960 3908,963 4072,965 4237,969 4401,971 4565,975 4729,979 4893,983 5058,987 5058,941 4893,937 4729,933 4565,929 4401,925 4237,923 4072,919 3908,917 3744,914 3580,911 3416,909 3251,907 3087,905 2923,905 2759,903 2595,903 2430,901 2266,901 2102,901 1938,901 1774,901" rendition="Line" xml:id="facs_1_region_1521235102137_33l4"/>
+        <zone points="1774,1015 1940,1015 2106,1015 2272,1015 2438,1015 2604,1015 2770,1017 2936,1017 3102,1019 3268,1021 3434,1023 3600,1025 3766,1029 3932,1031 4098,1035 4264,1039 4430,1042 4596,1047 4762,1051 4928,1055 5094,1059 5094,1013 4928,1009 4762,1005 4596,1001 4430,996 4264,993 4098,989 3932,985 3766,983 3600,979 3434,977 3268,975 3102,973 2936,971 2770,971 2604,969 2438,969 2272,969 2106,969 1940,969 1774,969" rendition="Line" xml:id="facs_1_region_1521235102137_33l5"/>
+        <zone points="1766,1079 1930,1077 2094,1077 2258,1077 2422,1079 2587,1079 2751,1081 2915,1083 3079,1085 3243,1087 3408,1090 3572,1093 3736,1097 3900,1099 4064,1103 4229,1107 4393,1111 4557,1115 4721,1119 4885,1123 5050,1127 5050,1081 4885,1077 4721,1073 4557,1069 4393,1065 4229,1061 4064,1057 3900,1053 3736,1051 3572,1047 3408,1044 3243,1041 3079,1039 2915,1037 2751,1035 2587,1033 2422,1033 2258,1031 2094,1031 1930,1031 1766,1033" rendition="Line" xml:id="facs_1_region_1521235102137_33l6"/>
+        <zone points="1792,1144 1957,1144 2123,1144 2289,1144 2455,1146 2621,1148 2786,1150 2952,1152 3118,1154 3284,1156 3450,1160 3615,1164 3781,1168 3947,1172 4113,1176 4279,1180 4444,1184 4610,1190 4776,1194 4942,1200 5108,1204 5108,1156 4942,1152 4776,1146 4610,1142 4444,1136 4279,1132 4113,1128 3947,1124 3781,1120 3615,1116 3450,1112 3284,1108 3118,1106 2952,1104 2786,1102 2621,1100 2455,1098 2289,1096 2123,1096 1957,1096 1792,1096" rendition="Line" xml:id="facs_1_region_1521235102137_33l7"/>
+        <zone points="1796,1210 1962,1212 2128,1212 2294,1212 2461,1214 2627,1216 2793,1218 2960,1220 3126,1222 3292,1226 3459,1228 3625,1232 3791,1236 3957,1240 4124,1244 4290,1248 4456,1252 4623,1257 4789,1262 4955,1266 5122,1272 5122,1224 4955,1218 4789,1214 4623,1209 4456,1204 4290,1200 4124,1196 3957,1192 3791,1188 3625,1184 3459,1180 3292,1178 3126,1174 2960,1172 2793,1170 2627,1168 2461,1166 2294,1164 2128,1164 1962,1164 1796,1162" rendition="Line" xml:id="facs_1_region_1521235102137_33l8"/>
+        <zone points="1784,1277 1952,1277 2120,1277 2289,1279 2457,1281 2626,1283 2794,1285 2962,1287 3131,1290 3299,1293 3468,1297 3636,1301 3804,1304 3973,1308 4141,1311 4310,1317 4478,1320 4646,1325 4815,1327 4983,1332 5152,1335 5152,1290 4983,1287 4815,1282 4646,1280 4478,1275 4310,1272 4141,1266 3973,1263 3804,1259 3636,1256 3468,1252 3299,1248 3131,1245 2962,1242 2794,1240 2626,1238 2457,1236 2289,1234 2120,1232 1952,1232 1784,1232" rendition="Line" xml:id="facs_1_region_1521235102137_33l9"/>
+        <zone points="1806,1343 1970,1343 2134,1343 2298,1343 2462,1343 2626,1345 2790,1347 2954,1349 3118,1353 3282,1355 3446,1359 3610,1363 3774,1367 3938,1371 4102,1375 4266,1379 4430,1383 4594,1387 4758,1391 4922,1394 5086,1397 5086,1352 4922,1349 4758,1346 4594,1342 4430,1338 4266,1334 4102,1330 3938,1326 3774,1322 3610,1318 3446,1314 3282,1310 3118,1308 2954,1304 2790,1302 2626,1300 2462,1298 2298,1298 2134,1298 1970,1298 1806,1298" rendition="Line" xml:id="facs_1_region_1521235102137_33l10"/>
+        <zone points="1802,1410 1966,1410 2130,1410 2295,1412 2459,1412 2624,1414 2788,1416 2952,1419 3117,1422 3281,1426 3446,1428 3610,1432 3774,1436 3939,1440 4103,1443 4268,1447 4432,1452 4596,1454 4761,1458 4925,1462 5090,1466 5090,1418 4925,1414 4761,1410 4596,1406 4432,1404 4268,1399 4103,1395 3939,1392 3774,1388 3610,1384 3446,1380 3281,1378 3117,1374 2952,1371 2788,1368 2624,1366 2459,1364 2295,1364 2130,1362 1966,1362 1802,1362" rendition="Line" xml:id="facs_1_region_1521235102137_33l11"/>
+        <zone points="1806,1478 1970,1478 2135,1478 2299,1478 2464,1480 2629,1482 2793,1484 2958,1486 3122,1490 3287,1492 3452,1496 3616,1500 3781,1504 3945,1508 4110,1512 4275,1516 4439,1520 4604,1524 4768,1526 4933,1530 5098,1532 5098,1484 4933,1482 4768,1478 4604,1476 4439,1472 4275,1468 4110,1464 3945,1460 3781,1456 3616,1452 3452,1448 3287,1444 3122,1442 2958,1438 2793,1436 2629,1434 2464,1432 2299,1430 2135,1430 1970,1430 1806,1430" rendition="Line" xml:id="facs_1_region_1521235102137_33l12"/>
+        <zone points="1822,1546 1984,1546 2146,1544 2308,1546 2470,1546 2633,1548 2795,1551 2957,1554 3119,1557 3281,1560 3444,1564 3606,1568 3768,1573 3930,1576 4092,1580 4255,1584 4417,1588 4579,1592 4741,1594 4903,1598 5066,1600 5066,1552 4903,1550 4741,1546 4579,1544 4417,1540 4255,1536 4092,1532 3930,1528 3768,1525 3606,1520 3444,1516 3281,1512 3119,1509 2957,1506 2795,1503 2633,1500 2470,1498 2308,1498 2146,1496 1984,1498 1822,1498" rendition="Line" xml:id="facs_1_region_1521235102137_33l13"/>
+        <zone points="1806,1612 1971,1612 2136,1612 2301,1614 2466,1614 2631,1617 2796,1620 2961,1622 3126,1626 3291,1630 3456,1633 3621,1636 3786,1640 3951,1644 4116,1648 4281,1652 4446,1656 4611,1660 4776,1664 4941,1666 5106,1670 5106,1621 4941,1617 4776,1615 4611,1611 4446,1607 4281,1603 4116,1599 3951,1595 3786,1591 3621,1587 3456,1584 3291,1581 3126,1577 2961,1573 2796,1571 2631,1568 2466,1565 2301,1565 2136,1563 1971,1563 1806,1563" rendition="Line" xml:id="facs_1_region_1521235102137_33l14"/>
+        <zone points="1816,1681 1981,1681 2147,1679 2313,1681 2478,1681 2644,1683 2810,1685 2975,1689 3141,1691 3307,1695 3473,1699 3638,1703 3804,1707 3970,1711 4135,1715 4301,1719 4467,1722 4632,1725 4798,1729 4964,1731 5130,1733 5130,1687 4964,1685 4798,1683 4632,1679 4467,1676 4301,1673 4135,1669 3970,1665 3804,1661 3638,1657 3473,1653 3307,1649 3141,1645 2975,1643 2810,1639 2644,1637 2478,1635 2313,1635 2147,1633 1981,1635 1816,1635" rendition="Line" xml:id="facs_1_region_1521235102137_33l15"/>
+        <zone points="1836,1745 2000,1745 2165,1745 2330,1745 2494,1747 2659,1749 2824,1751 2988,1753 3153,1757 3318,1759 3483,1763 3647,1767 3812,1771 3977,1775 4141,1779 4306,1785 4471,1789 4635,1793 4800,1797 4965,1801 5130,1807 5130,1761 4965,1755 4800,1751 4635,1747 4471,1743 4306,1739 4141,1733 3977,1729 3812,1725 3647,1721 3483,1717 3318,1713 3153,1711 2988,1707 2824,1705 2659,1703 2494,1701 2330,1699 2165,1699 2000,1699 1836,1699" rendition="Line" xml:id="facs_1_region_1521235102137_33l16"/>
+        <zone points="1820,1810 1984,1810 2149,1812 2314,1812 2479,1814 2644,1816 2809,1818 2974,1820 3139,1822 3304,1826 3469,1829 3633,1832 3798,1836 3963,1841 4128,1846 4293,1850 4458,1854 4623,1860 4788,1865 4953,1870 5118,1876 5118,1827 4953,1821 4788,1816 4623,1811 4458,1805 4293,1801 4128,1797 3963,1792 3798,1787 3633,1783 3469,1780 3304,1777 3139,1773 2974,1771 2809,1769 2644,1767 2479,1765 2314,1763 2149,1763 1984,1761 1820,1761" rendition="Line" xml:id="facs_1_region_1521235102137_33l17"/>
+        <zone points="1798,1873 1965,1873 2133,1875 2300,1877 2468,1879 2636,1881 2803,1883 2971,1887 3138,1889 3306,1893 3474,1897 3641,1900 3809,1904 3976,1909 4144,1913 4312,1916 4479,1920 4647,1925 4814,1929 4982,1933 5150,1937 5150,1892 4982,1888 4814,1884 4647,1880 4479,1875 4312,1871 4144,1868 3976,1864 3809,1859 3641,1855 3474,1852 3306,1848 3138,1844 2971,1842 2803,1838 2636,1836 2468,1834 2300,1832 2133,1830 1965,1828 1798,1828" rendition="Line" xml:id="facs_1_region_1521235102137_33l18"/>
+        <zone points="1820,1933 1986,1935 2153,1937 2319,1939 2486,1941 2653,1945 2819,1947 2986,1949 3152,1953 3319,1957 3486,1961 3652,1963 3819,1967 3985,1971 4152,1975 4319,1981 4485,1985 4652,1989 4818,1994 4985,1999 5152,2003 5152,1958 4985,1954 4818,1949 4652,1944 4485,1940 4319,1936 4152,1930 3985,1926 3819,1922 3652,1918 3486,1916 3319,1912 3152,1908 2986,1904 2819,1902 2653,1900 2486,1896 2319,1894 2153,1892 1986,1890 1820,1888" rendition="Line" xml:id="facs_1_region_1521235102137_33l19"/>
+        <zone points="1822,2004 1987,2004 2152,2004 2318,2006 2483,2008 2649,2010 2814,2012 2979,2016 3145,2020 3310,2024 3476,2028 3641,2032 3806,2036 3972,2042 4137,2046 4303,2051 4468,2056 4633,2060 4799,2064 4964,2068 5130,2072 5130,2024 4964,2020 4799,2016 4633,2012 4468,2008 4303,2003 4137,1998 3972,1994 3806,1988 3641,1984 3476,1980 3310,1976 3145,1972 2979,1968 2814,1964 2649,1962 2483,1960 2318,1958 2152,1956 1987,1956 1822,1956" rendition="Line" xml:id="facs_1_region_1521235102137_33l20"/>
+        <zone points="1832,2068 1997,2068 2162,2070 2327,2073 2492,2076 2657,2078 2822,2081 2987,2084 3152,2088 3317,2092 3482,2096 3647,2100 3812,2104 3977,2108 4142,2112 4307,2117 4472,2122 4637,2127 4802,2132 4967,2136 5132,2142 5132,2094 4967,2088 4802,2084 4637,2079 4472,2074 4307,2069 4142,2064 3977,2060 3812,2056 3647,2052 3482,2048 3317,2044 3152,2040 2987,2036 2822,2033 2657,2030 2492,2028 2327,2025 2162,2022 1997,2020 1832,2020" rendition="Line" xml:id="facs_1_region_1521235102137_33l21"/>
+        <zone points="1808,2131 1975,2133 2143,2135 2311,2137 2479,2139 2647,2143 2815,2145 2983,2149 3151,2153 3319,2157 3487,2161 3654,2165 3822,2170 3990,2175 4158,2179 4326,2183 4494,2188 4662,2193 4830,2197 4998,2202 5166,2207 5166,2162 4998,2157 4830,2152 4662,2148 4494,2143 4326,2138 4158,2134 3990,2130 3822,2125 3654,2120 3487,2116 3319,2112 3151,2108 2983,2104 2815,2100 2647,2098 2479,2094 2311,2092 2143,2090 1975,2088 1808,2086" rendition="Line" xml:id="facs_1_region_1521235102137_33l22"/>
+        <zone points="1814,2193 1981,2195 2149,2198 2316,2201 2484,2203 2652,2207 2819,2209 2987,2213 3154,2217 3322,2221 3490,2225 3657,2229 3825,2233 3992,2237 4160,2243 4328,2247 4495,2251 4663,2257 4830,2261 4998,2267 5166,2271 5166,2226 4998,2222 4830,2216 4663,2212 4495,2206 4328,2202 4160,2198 3992,2192 3825,2188 3657,2184 3490,2180 3322,2176 3154,2172 2987,2168 2819,2164 2652,2162 2484,2158 2316,2156 2149,2153 1981,2150 1814,2148" rendition="Line" xml:id="facs_1_region_1521235102137_33l23"/>
+        <zone points="1834,2260 1998,2262 2163,2266 2328,2268 2493,2271 2658,2274 2822,2278 2987,2282 3152,2285 3317,2289 3482,2292 3646,2298 3811,2302 3976,2306 4141,2310 4306,2314 4470,2318 4635,2323 4800,2327 4965,2332 5130,2336 5130,2288 4965,2284 4800,2279 4635,2275 4470,2270 4306,2266 4141,2262 3976,2258 3811,2254 3646,2250 3482,2244 3317,2241 3152,2237 2987,2234 2822,2230 2658,2226 2493,2223 2328,2220 2163,2218 1998,2214 1834,2212" rendition="Line" xml:id="facs_1_region_1521235102137_33l24"/>
+        <zone points="1854,2336 2021,2336 2188,2336 2355,2336 2522,2338 2690,2340 2857,2343 3024,2346 3191,2350 3358,2354 3526,2359 3693,2364 3860,2368 4027,2374 4194,2378 4362,2383 4529,2388 4696,2392 4863,2396 5030,2398 5198,2402 5198,2353 5030,2349 4863,2347 4696,2343 4529,2339 4362,2334 4194,2329 4027,2325 3860,2319 3693,2315 3526,2310 3358,2305 3191,2301 3024,2297 2857,2294 2690,2291 2522,2289 2355,2287 2188,2287 2021,2287 1854,2287" rendition="Line" xml:id="facs_1_region_1521235102137_33l25"/>
+        <zone points="1834,2399 1997,2399 2161,2399 2325,2401 2489,2403 2653,2405 2816,2407 2980,2411 3144,2413 3308,2418 3472,2423 3635,2427 3799,2431 3963,2436 4127,2441 4291,2446 4454,2451 4618,2455 4782,2459 4946,2463 5110,2467 5110,2421 4946,2417 4782,2413 4618,2409 4454,2405 4291,2400 4127,2395 3963,2390 3799,2385 3635,2381 3472,2377 3308,2372 3144,2367 2980,2365 2816,2361 2653,2359 2489,2357 2325,2355 2161,2353 1997,2353 1834,2353" rendition="Line" xml:id="facs_1_region_1521235102137_33l26"/>
+        <zone points="1830,2469 1995,2467 2160,2467 2326,2467 2491,2468 2657,2469 2822,2473 2987,2475 3153,2479 3318,2483 3484,2487 3649,2493 3814,2497 3980,2501 4145,2507 4311,2511 4476,2517 4641,2521 4807,2525 4972,2529 5138,2533 5138,2487 4972,2483 4807,2479 4641,2475 4476,2471 4311,2465 4145,2461 3980,2455 3814,2451 3649,2447 3484,2441 3318,2437 3153,2433 2987,2429 2822,2427 2657,2423 2491,2422 2326,2421 2160,2421 1995,2421 1830,2423" rendition="Line" xml:id="facs_1_region_1521235102137_33l27"/>
+        <zone points="1824,2534 1989,2534 2155,2534 2320,2534 2486,2536 2651,2538 2817,2540 2982,2542 3148,2546 3313,2550 3479,2554 3644,2558 3810,2562 3975,2567 4141,2572 4306,2576 4472,2582 4637,2587 4803,2592 4968,2597 5134,2602 5134,2554 4968,2549 4803,2544 4637,2539 4472,2534 4306,2528 4141,2524 3975,2519 3810,2514 3644,2510 3479,2506 3313,2502 3148,2498 2982,2494 2817,2492 2651,2490 2486,2488 2320,2486 2155,2486 1989,2486 1824,2486" rendition="Line" xml:id="facs_1_region_1521235102137_33l28"/>
+        <zone points="1838,2602 1866,2604 1894,2604 1922,2604 1950,2602 1978,2602 2006,2602 2034,2602 2062,2602 2062,2553 2034,2553 2006,2553 1978,2553 1950,2553 1922,2555 1894,2555 1866,2555 1838,2553" rendition="Line" xml:id="facs_1_region_1521235102137_33l29"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_2">
+      <graphic url="U-17_0621_v.jpg" width="7360" height="4912"/>
+      <zone points="3623,1448 4093,1448 4093,1582 3623,1582" rendition="TextRegion" xml:id="facs_2_region_1562675059807_2065" subtype="Fricker">
+        <zone points="3652,1501 4064,1507 4063,1557 3651,1551" rendition="Line" xml:id="facs_2_line_1562675069471_2078"/>
+      </zone>
+      <zone points="2911,1573 4132,1573 4132,2035 2911,2035" rendition="TextRegion" xml:id="facs_2_region_1562675033090_2047" subtype="Dorsual_Regesta">
+        <zone points="2989,1698 4018,1679 4019,1729 2990,1748" rendition="Line" xml:id="facs_2_line_1562675051360_2052"/>
+        <zone points="3165,1821 3865,1796 3867,1846 3167,1871" rendition="Line" xml:id="facs_2_line_1562675053346_2057"/>
+      </zone>
+      <zone points="3159,2461 3752,2461 3752,1920 3159,1920" rendition="TextRegion" xml:id="facs_2_region_1562675056803_2062" subtype="Dorsual_Sigle">
+        <zone points="3419,2170 3673,2159 3675,2209 3421,2220" rendition="Line" xml:id="facs_2_line_1562675063553_2068"/>
+        <zone points="3199,2353 3707,2342 3708,2392 3200,2403" rendition="Line" xml:id="facs_2_line_1562675065538_2073"/>
+      </zone>
+    <zone points="2928,1352 3191,1352 3191,1449 2928,1449" rendition="TextRegion" xml:id="facs_2_region_1562675008653_2027" subtype="Dorsual_Jahreszahl-Drei">
+        <zone points="2984,1387 3156,1387 3156,1437 2984,1437" rendition="Line" xml:id="facs_2_line_1562675021268_2040"/>
+      </zone>
+      <zone points="2866,378 4200,378 4200,675 2866,675" rendition="TextRegion" xml:id="facs_2_region_1562674987989_2015" subtype="Dorsual_StAAG">
+        <zone points="2948,547 4123,523 4124,573 2949,597" rendition="Line" xml:id="facs_2_line_1562674994290_2019"/>
+      </zone>
+      <zone points="2987,1000 3481,1000 3481,1287 2987,1287" rendition="TextRegion" xml:id="facs_2_region_1562675007018_2024" subtype="Dorsual_StAAG-Stempel">
+        <zone points="3009,1086 3471,1090 3471,1140 3009,1136" rendition="Line" xml:id="facs_2_line_1562675015235_2030"/>
+        <zone points="3061,1176 3393,1176 3393,1226 3061,1226" rendition="Line" xml:id="facs_2_line_1562675017437_2035"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0621_r"/>
+      <p facs="#facs_1_region_1521235102137_33">
+        <lb facs="#facs_1_region_1521235102137_33l1" n="N001"/>Ich<reg>,</reg> <persName ref="per000897">Thùring von Ringoltin<choice>
+                        <abbr>gē</abbr>
+                        <expan>gen</expan>
+                    </choice>
+                    <reg>,</reg> der zit vogt ze Baden</persName>
+                <reg>,</reg> be<choice>
+                    <abbr>ken̄</abbr>
+                    <expan>kenn</expan>
+                </choice> offenlich mitt disem brieff<reg>,</reg> als <persName ref="per015272">Heini Mùller von Schintznach</persName> ein hoͤw
+        <lb facs="#facs_1_region_1521235102137_33l2" n="N002"/>zechen<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> ze <placeName ref="loc009758">Schintznach</placeName> gekoufft und <choice>
+                    <abbr>in̄</abbr>
+                    <expan>inn</expan>
+                </choice>gehept hàt<reg>,</reg> <reg type="star">✳</reg> do aber die<orgName ref="org002627"> erwirdigen<reg>,</reg> geistli<choice>
+                        <abbr>chn̄</abbr>
+                        <expan>chen</expan>
+                    </choice> frowen<reg>,</reg> eptissin und convent ze Kùngs<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l3" n="N003" break="no"/>felden</orgName>
+                <reg>,</reg> <reg type="star">✳</reg> min lieben frowen<reg>,</reg> <reg type="star">✳</reg> meinten<reg>,</reg> derselb zechend gehorte ir kil<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> ze <placeName ref="loc011762">Schintznach</placeName> zuͦ und <persName ref="per015272">Heini Mùller</persName> hett den unbillich <choice>
+                    <abbr>in̄</abbr>
+                    <expan>inn</expan>
+                </choice>
+                <reg>,</reg>
+        <lb facs="#facs_1_region_1521235102137_33l4" n="N004"/>sun<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> soͤlt davon stân<reg>,</reg> ir kil<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> und sy daran unbekùm<choice>
+                    <abbr>bˀt</abbr>
+                    <expan>bert</expan>
+                </choice> lassen und inen das<reg>,</reg> so er da<choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice>
+                <reg>,</reg> sidmaln die kilch <reg type="star">✳</reg> zuͦ irn han<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> ko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> wer<reg>,</reg>
+        <lb facs="#facs_1_region_1521235102137_33l5" n="N005"/>ingeno<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> hett<reg>,</reg> abkeren<reg>.</reg> <reg type="star">✳</reg> dawi<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> aber <persName ref="per015272">Heini Mùller</persName>
+                <reg>,</reg> jetz<choice>
+                    <abbr>gen̄t</abbr>
+                    <expan>genant</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> und mitt im und von si<choice>
+                    <abbr>nē</abbr>
+                    <expan>nen</expan>
+                </choice> we<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice> mi<choice>
+                    <abbr>nˀ</abbr>
+                    <expan>ner</expan>
+                </choice> <orgName ref="org001943">
+                    <choice>
+                        <abbr>hˀn</abbr>
+                        <expan>herren</expan>
+                    </choice> von Valkenstein</orgName> bottschaft<reg>,</reg>
+        <lb facs="#facs_1_region_1521235102137_33l6" n="N006"/>den er zuͦgehoͤrt<reg>,</reg> <reg type="star">✳</reg> meinten<reg>,</reg> <reg type="star">✳</reg> er hett den ge<choice>
+                    <abbr>nēp</abbr>
+                    <expan>nemp</expan>
+                </choice>
+                <choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice> zechen<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> umb <measure>nùntzig guldin</measure> erkoufft nach lut eins kouffbriefs<reg>,</reg> darù<choice>
+                    <abbr>bˀ</abbr>
+                    <expan>ber</expan>
+                </choice> geben<reg>,</reg>
+        <lb facs="#facs_1_region_1521235102137_33l7" n="N007"/>und sin vorfarn und er hetten den <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice> aller gewer recht und len<choice>
+                    <abbr>gˀ</abbr>
+                    <expan>ger</expan>
+                </choice>
+                <reg>,</reg> <choice>
+                    <abbr>den̄</abbr>
+                    <expan>denn</expan>
+                </choice> je<choice>
+                    <abbr>mā</abbr>
+                    <expan>man</expan>
+                </choice> verdencken moͤcht<reg>,</reg> un<choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>spro<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> <choice>
+                    <abbr>in̄</abbr>
+                    <expan>inn</expan>
+                </choice>gehept<reg>,</reg> <reg type="star">✳</reg> getruw<choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice>
+        <lb facs="#facs_1_region_1521235102137_33l8" n="N008"/>ouch<reg>,</reg> soͤlichs und sun<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> die gewer soͤlt <choice>
+                    <abbr>in̄</abbr>
+                    <expan>inn</expan>
+                </choice> daby schirmen und min frowen <choice>
+                    <abbr>in̄</abbr>
+                    <expan>inn</expan>
+                </choice> by dem zechen<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> nach <choice>
+                    <abbr>in̄</abbr>
+                    <expan>inn</expan>
+                </choice>halt soͤlichs harkomens bliben
+        <lb facs="#facs_1_region_1521235102137_33l9" n="N009"/>lassen<reg>.</reg> <reg type="star">✳</reg> soͤlicher sach und zweyung sind die ob<choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genanten</expan>
+                </choice> beydteil uff eim frùntli<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> tag<reg>,</reg> den sy <choice>
+                    <abbr>den̄</abbr>
+                    <expan>denn</expan>
+                </choice> mitt einan<choice>
+                    <abbr>dˀn</abbr>
+                    <expan>dern</expan>
+                </choice> uff hùtti<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice> tag ze <placeName ref="loc007695">Kùngs<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l10" n="N010" break="no"/>feld</placeName> gehal<choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice> habent<reg>,</reg> <reg type="star">✳</reg> uff mich<reg>,</reg> ob<choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genanten</expan>
+                </choice> <persName ref="per000897">Thùring von Ringoltin<choice>
+                        <abbr>gē</abbr>
+                        <expan>gen</expan>
+                    </choice>
+                </persName>
+                <reg>,</reg> ko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> und hand mir zuͦge<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> mitt namen min <orgName ref="org002627">frowen von Kùngs<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l11" n="N011" break="no"/>feld</orgName> <persName ref="per015273">Hansen Wildman</persName> und der an<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> teil <persName ref="per011201">Niclausen Fricker<reg>,</reg> schri<choice>
+                        <abbr>bˀ</abbr>
+                        <expan>ber</expan>
+                    </choice> ze Brugg</persName>
+                <reg>,</reg> also was wir dryg <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> der merteil un<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> uns <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> ich<reg>,</reg> ob
+        <lb facs="#facs_1_region_1521235102137_33l12" n="N012"/>die zwen sich glich zweyen wurden<reg>,</reg> usser soͤli<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> ir sachen sprechen und wie wir sy da<choice>
+                    <abbr>rub̄</abbr>
+                    <expan>rumb</expan>
+                </choice> entschei<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> wur<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice>
+                <reg>,</reg> das soͤlten und woͤlten <reg type="star">✳</reg>
+        <lb facs="#facs_1_region_1521235102137_33l13" n="N013"/>sy beydteil fùr sich<reg>,</reg> ir er<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> und nachkomen und mengkli<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> von ir wegen stêt halten und dawi<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> nie<choice>
+                    <abbr>mˀ</abbr>
+                    <expan>mer</expan>
+                </choice> komen<reg>,</reg> re<choice>
+                    <abbr>dē</abbr>
+                    <expan>den</expan>
+                </choice>
+                <reg>,</reg> wer<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> noch tûn
+        <lb facs="#facs_1_region_1521235102137_33l14" n="N014"/>
+                <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice>al<reg>,</reg> indhein wise<reg>,</reg> <reg type="star">✳</reg> hand ouch die sach also uffge<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> und das<reg>,</reg> als jetz stât<reg>,</reg> zetuͦnd gelopt und <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>spro<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> nach notdurft<reg>.</reg> <reg type="star">✳</reg> und also han ich<reg>,</reg> ob<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l15" n="N015" break="no"/>
+                <choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genan</expan>
+                </choice>
+                <choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> <persName ref="per000897">Thùring von Ringoltin<choice>
+                        <abbr>gē</abbr>
+                        <expan>gen</expan>
+                    </choice>
+                </persName>
+                <reg>,</reg> wand sich die zwen<reg>,</reg> mir zuͦgeben<reg>,</reg> in irm spre<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> glich zweyten<reg>,</reg> <reg type="star">✳</reg> die sach und soͤlich ir zwey<choice>
+                    <abbr>ūg</abbr>
+                    <expan>ung</expan>
+                </choice> usge<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l16" n="N016" break="no"/>spro<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> in<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> masz<reg>,</reg> als hernach stàt<reg>.</reg> <reg type="star">✳</reg> mittna<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice>
+                <reg>,</reg> das der obgemeldet zechend der kil<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> ze <placeName ref="loc011762">Schintznach</placeName> und mi<choice>
+                    <abbr>nē</abbr>
+                    <expan>nen</expan>
+                </choice> <orgName ref="org002627">fro<choice>
+                        <abbr>wē</abbr>
+                        <expan>wen</expan>
+                    </choice> von Kùngsfeld</orgName>
+        <lb facs="#facs_1_region_1521235102137_33l17" n="N017"/>zuͦ der kil<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice> hinfùr allweg zuͦgehoͤren<reg>,</reg> ha<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice>
+                <reg>,</reg> nutzen und niessen soͤllent<reg>,</reg> <reg type="star">✳</reg> und sol <persName ref="per015272">Heini Mùller</persName> den sel<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> mi<choice>
+                    <abbr>nē</abbr>
+                    <expan>nen</expan>
+                </choice> fro<choice>
+                    <abbr>wē</abbr>
+                    <expan>wen</expan>
+                </choice> den kouffbrieff<reg>,</reg> den
+        <lb facs="#facs_1_region_1521235102137_33l18" n="N018"/>er umb den zechen<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> gehept hàt<reg>,</reg> hinusz geben<reg>,</reg> hand davon tuͦn und hinfùr er<reg>,</reg> sin er<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> noch niemand von ir we<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice> dhein vor<choice>
+                    <abbr>dˀung</abbr>
+                    <expan>derung</expan>
+                </choice>
+                <reg>,</reg> rech<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l19" n="N019" break="no"/>
+                <choice>
+                    <abbr>tūg</abbr>
+                    <expan>tung</expan>
+                </choice> noch ansprâch nie<choice>
+                    <abbr>mˀ</abbr>
+                    <expan>mer</expan>
+                </choice> mer daran noch zuͦ haben noch gewinnen <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice>al<reg>,</reg> indhein wise<reg>,</reg> sun<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> min <orgName ref="org002627">frowen von Kùngsfeld</orgName>
+                <reg>,</reg> ir nachko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice>
+                <reg>,</reg>
+        <lb facs="#facs_1_region_1521235102137_33l20" n="N020"/>ir gotzhus <reg type="star">✳</reg> und namlich die kilchen ze <placeName ref="loc011762">Schintznach</placeName> daran gantz ungesumpt und unbekùm<choice>
+                    <abbr>bˀt</abbr>
+                    <expan>bert</expan>
+                </choice> lassen<reg>,</reg> jetz und in kùnfti<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice> zi<choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice>
+                <reg>.</reg> und da<choice>
+                    <abbr>rub̄</abbr>
+                    <expan>rumb</expan>
+                </choice>
+        <lb facs="#facs_1_region_1521235102137_33l21" n="N021"/>und wi<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> sond im min <orgName ref="org002627">frowen von Kùngsfeld</orgName> ge<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> <measure>sibentzig guldin</measure> <reg type="star">✳</reg> und die sond sy und ir nachko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> im<reg>,</reg> <choice>
+                    <abbr>dē</abbr>
+                    <expan>dem</expan>
+                </choice>sel<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> <persName ref="per015272">Hei<choice>
+                        <abbr>nī</abbr>
+                        <expan>nin</expan>
+                    </choice> Mùller</persName>
+                <reg>,</reg> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice>
+                <reg>,</reg> ob
+        <lb facs="#facs_1_region_1521235102137_33l22" n="N022"/>er nitt wêr<reg>,</reg> si<choice>
+                    <abbr>nē</abbr>
+                    <expan>nen</expan>
+                </choice> er<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> guͤtlich und ân alle fùrwort und inzùg usrich<choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice> und bezaln zuͦ vier jarziln<reg>,</reg> namlich zuͦ den vier nechstko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice>
+                <reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l23" n="N023" break="no"/>den unser frowen der lichtmis tagen<reg>,</reg> zuͦ der ersten drin jegklichem <measure>zwentzig guldin und zum letsten zechen guldin</measure>
+                <reg>,</reg> <reg type="star">✳</reg> alles nach
+        <lb facs="#facs_1_region_1521235102137_33l24" n="N024"/>da<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> disz briefs nechstkomend<reg>.</reg> und hiemitt soͤllent sy beydteil umb soͤlich obgemelt ir sach und zwey<choice>
+                    <abbr>ūg</abbr>
+                    <expan>ung</expan>
+                </choice> guͤtlich <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>richt und vêr<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l25" n="N025" break="no"/>slicht sin <reg type="star">✳</reg> und dewed<choice>
+                    <abbr>rˀ</abbr>
+                    <expan>rer</expan>
+                </choice> teil dem an<choice>
+                    <abbr>dˀn</abbr>
+                    <expan>dern</expan>
+                </choice> deshal<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> nùtzit fùro zuͦ vor<choice>
+                    <abbr>dˀn</abbr>
+                    <expan>dern</expan>
+                </choice>
+                <reg>,</reg> bekùm<choice>
+                    <abbr>bˀn</abbr>
+                    <expan>bern</expan>
+                </choice> noch verbun<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice>
+                <reg>,</reg> we<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> umb ingeno<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> nut<choice>
+                    <abbr>zūg</abbr>
+                    <expan>zung</expan>
+                </choice> noch
+        <lb facs="#facs_1_region_1521235102137_33l26" n="N026"/>an<choice>
+                    <abbr>dˀs</abbr>
+                    <expan>ders</expan>
+                </choice> <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice>al<reg>,</reg> indhein wise<reg>,</reg> alles unge<choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>lich<reg>.</reg> und des ze wa<choice>
+                    <abbr>rē</abbr>
+                    <expan>rem</expan>
+                </choice> urkùnd han ich<reg>,</reg> ob<choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genan</expan>
+                </choice>
+                <choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> <persName ref="per000897">Thùring von Ringoltin<choice>
+                        <abbr>gē</abbr>
+                        <expan>gen</expan>
+                    </choice>
+                </persName>
+                <reg>,</reg> min insigel<reg>,</reg>
+        <lb facs="#facs_1_region_1521235102137_33l27" n="N027"/>wand sy beydteil soͤlichs mins spruchs brieff begerten<reg>,</reg> offenlich gehenckt an diser briefen<reg>,</reg> zwen gelich<reg>,</reg> doch mir und mi<choice>
+                    <abbr>nē</abbr>
+                    <expan>nen</expan>
+                </choice> er<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice>
+        <lb facs="#facs_1_region_1521235102137_33l28" n="N028"/>än scha<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice>
+                <reg>,</reg> die ge<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> sind uff <date when="1443-02-04">mentag nach unser lieben frowen tag <choice>
+                        <abbr>dˀ</abbr>
+                        <expan>der</expan>
+                    </choice> liechtmis<reg>,</reg> nach Cristi gebùrt vierzechenhun<choice>
+                        <abbr>dˀt</abbr>
+                        <expan>dert</expan>
+                    </choice> vierzigund<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1521235102137_33l29" n="N029" break="no"/>drù jàr</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0621_v"/>
+      <p facs="#facs_2_region_1562675059807_2065" rend="dorsual_12_fricker">
+        <lb facs="#facs_2_line_1562675069471_2078" n="N001"/>Schintznach</p>
+      <p facs="#facs_2_region_1562675033090_2047" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1562675051360_2052" n="N001"/>wist vòm hoͤw zen<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice>
+        <lb facs="#facs_2_line_1562675053346_2057" n="N002"/>zuͦ Schintznach <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1562675056803_2062" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1562675063553_2068" n="N001"/>K
+        <lb facs="#facs_2_line_1562675065538_2073" n="N002"/>O <reg type="star">✳</reg> 16</p>
+    <p facs="#facs_2_region_1562675008653_2027" rend="dorsual_29_jahreszahl_3">
+        <lb facs="#facs_2_line_1562675021268_2040" n="N001"/>443</p>
+      <p facs="#facs_2_region_1562674987989_2015" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1562674994290_2019" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 621</p>
+      <p facs="#facs_2_region_1562675007018_2024" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1562675015235_2030" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1562675017437_2035" n="N002"/>AARGAU</p>
+      </body>
+  </text>
+</TEI>

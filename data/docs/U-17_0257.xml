@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0257</title>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="saeg">Salome Egloff</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0257</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0257</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Herzog Albrecht II. von Österreich nimmt das Kloster Königsfelden unter seinen Schutz und wiederholt die frühere Verleihung bestimmter Gnaden.</summary>
+                <msItem>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="27.7"/>
+                        <height unit="cm" quantity="16.6"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="3.2"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1354-11-06">06. November 1354</origDate>
+                  <origPlace ref="">Brugg</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0257">
+            <msDesc>
+              <msIdentifier corresp="KB_2-AA_0429">
+                <idno>StAAG AA/0429, fol. 5v-6r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0257">
+            <msDesc>
+              <msIdentifier corresp="KB_2-AA_0429">
+                <idno>StAAG AA/0429, fol. 41v-42r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Bestätigung</term>
+          <term>Privileg</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="6493" lry="4851" xml:id="facs_1">
+      <graphic url="U-17_0257_r.jpg" width="6493" height="4851"/>
+      <zone points="1457,534 4485,534 4485,1933 1457,1933" rendition="TextRegion" xml:id="facs_1_region_1501227025959_194">
+        <zone points="1540,655 4310,641 4310,691 1540,705" rendition="Line" xml:id="facs_1_line_1501227030290_195"/>
+        <zone points="1573,709 2882,697 4287,715 4286,765 2882,747 1573,759" rendition="Line" xml:id="facs_1_line_1501227033705_196"/>
+        <zone points="1576,786 2888,783 4277,792 4277,842 2888,833 1576,836" rendition="Line" xml:id="facs_1_line_1501227037002_197"/>
+        <zone points="1552,854 3090,854 4266,845 4266,895 3090,904 1552,904" rendition="Line" xml:id="facs_1_line_1501227039857_198"/>
+        <zone points="1564,925 2754,916 3410,904 4290,928 4289,978 3410,954 2755,966 1564,975" rendition="Line" xml:id="facs_1_line_1501227044169_199"/>
+        <zone points="1572,993 2675,978 3330,978 4308,999 4307,1049 3330,1028 2675,1028 1573,1043" rendition="Line" xml:id="facs_1_line_1501227050545_200"/>
+        <zone points="1573,1070 2866,1061 3303,1049 4281,1073 4280,1123 3303,1099 2867,1111 1573,1120" rendition="Line" xml:id="facs_1_line_1501227054889_201"/>
+        <zone points="1588,1138 3807,1132 4277,1153 4275,1203 3806,1182 1588,1188" rendition="Line" xml:id="facs_1_line_1501227059489_202"/>
+        <zone points="1562,1209 2527,1227 3222,1200 4269,1209 4269,1259 3223,1250 2527,1277 1561,1259" rendition="Line" xml:id="facs_1_line_1501227063673_203"/>
+        <zone points="1558,1283 2941,1289 3895,1274 4349,1277 4349,1327 3895,1324 2941,1339 1558,1333" rendition="Line" xml:id="facs_1_line_1501227068010_204"/>
+        <zone points="1565,1343 2862,1369 3370,1349 4275,1351 4275,1401 3371,1399 2862,1419 1564,1393" rendition="Line" xml:id="facs_1_line_1501227073409_205"/>
+        <zone points="1568,1414 2627,1426 3220,1423 4357,1434 4357,1484 3220,1473 2627,1476 1567,1464" rendition="Line" xml:id="facs_1_line_1501227077745_206"/>
+        <zone points="1562,1482 2891,1500 4286,1503 4286,1553 2891,1550 1561,1532" rendition="Line" xml:id="facs_1_line_1501227081225_207"/>
+        <zone points="1562,1556 2636,1588 3255,1574 4289,1577 4289,1627 3255,1624 2636,1638 1561,1606" rendition="Line" xml:id="facs_1_line_1501227085266_208"/>
+        <zone points="1553,1639 2414,1665 3235,1645 4189,1648 4189,1698 3235,1695 2414,1715 1552,1689" rendition="Line" xml:id="facs_1_line_1501227090281_209"/>
+        <zone points="1571,1701 2675,1722 3537,1716 4331,1719 4331,1769 3537,1766 2675,1772 1570,1751" rendition="Line" xml:id="facs_1_line_1501227096017_210"/>
+        <zone points="1543,1799 4221,1799 4221,1849 1543,1849" rendition="Line" xml:id="facs_1_line_1501227099417_211"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="6610" lry="4838" xml:id="facs_2">
+      <graphic url="U-17_0257_v.jpg" width="6610" height="4838"/>
+      <zone points="2150,2283 2516,2283 2516,2399 2150,2399" rendition="TextRegion" xml:id="facs_2_region_1578669775472_7277" subtype="Doppel">
+        <zone points="2163,2314 2487,2309 2488,2359 2164,2364" rendition="Line" xml:id="facs_2_line_1578669781472_7281"/>
+      </zone>
+      <zone points="3108,1850 3355,1850 3355,2106 3108,2106" rendition="TextRegion" xml:id="facs_2_region_1578669734746_7244" subtype="Dorsual_Textualis">
+        <zone points="3156,1978 3335,1987 3333,2037 3154,2028" rendition="Line" xml:id="facs_2_line_1578669739298_7252"/>
+      </zone>
+      <zone points="2590,1417 3958,1417 3958,1789 2590,1789" rendition="TextRegion" xml:id="facs_2_region_1578669748403_7259" subtype="Dorsual_Regesta">
+        <zone points="2628,1602 3879,1556 3881,1606 2630,1652" rendition="Line" xml:id="facs_2_line_1578669751240_7262"/>
+      </zone>
+      <zone points="1694,2157 3000,2157 3000,2425 1694,2425" rendition="TextRegion" xml:id="facs_2_region_1578669785062_7286" subtype="Sammelschicht_vor">
+        <zone points="1743,2246 2923,2248 2923,2298 1743,2296" rendition="Line" xml:id="facs_2_line_1578669789884_7289"/>
+        <zone points="1739,2312 2148,2312 2148,2362 1739,2362" rendition="Line" xml:id="facs_2_line_1578669791962_7294"/>
+      </zone>
+      <zone points="2619,1711 2892,1711 2892,1888 2619,1888" rendition="TextRegion" xml:id="facs_2_region_1578669732985_7241" subtype="Dorsual_Nummer">
+        <zone points="2640,1794 2867,1797 2866,1847 2639,1844" rendition="Line" xml:id="facs_2_line_1578669737375_7247"/>
+      </zone>
+      <zone points="2732,985 3238,985 3238,1299 2732,1299" rendition="TextRegion" xml:id="facs_2_region_1578669702654_7206" subtype="Dorsual_StAAG-Stempel">
+        <zone points="2777,1061 3201,1104 3195,1154 2771,1111" rendition="Line" xml:id="facs_2_line_1578669707157_7214"/>
+        <zone points="2815,1156 3145,1183 3141,1233 2811,1206" rendition="Line" xml:id="facs_2_line_1578669708839_7219"/>
+      </zone>
+      <zone points="1967,402 3034,402 3034,747 1967,747" rendition="TextRegion" xml:id="facs_2_region_1578669700962_7203" subtype="StAAG_modern">
+        <zone points="2026,519 2959,546 2958,596 2025,569" rendition="Line" xml:id="facs_2_line_1578669705136_7209"/>
+      </zone>
+      <zone points="3970,1022 4686,1022 4686,1754 3970,1754" rendition="TextRegion" xml:id="facs_2_region_1578669716225_7228" subtype="StAAG_modern">
+        <zone points="4026,1282 4483,1265 4485,1315 4028,1332" rendition="Line" xml:id="facs_2_line_1578669719297_7231"/>
+        <zone points="4247,1516 4619,1581 4610,1630 4238,1565" rendition="Line" xml:id="facs_2_line_1578669720850_7236"/>
+      </zone>
+      <zone points="3635,2394 4726,2394 4726,2102 3635,2102" rendition="TextRegion" xml:id="facs_2_region_1578669757255_7268" subtype="StAAG_modern">
+        <zone points="3696,2251 4182,2223 4504,2245 4718,2212 4726,2261 4506,2295 4182,2273 3699,2301" rendition="Line" xml:id="facs_2_line_1578669762082_7271"/>
+      </zone>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0257_r"/>
+      <p facs="#facs_1_region_1501227025959_194">
+        <lb facs="#facs_1_line_1501227030290_195" n="N001"/>Wiͤr<reg>,</reg> <persName ref="per000347">Al<choice>
+                        <abbr>br̄</abbr>
+                        <expan>brecht</expan>
+                    </choice>
+                    <reg>,</reg> <reg type="star">✳</reg> von gots gnaden <choice>
+                        <abbr>hˀ</abbr>
+                        <expan>her</expan>
+                    </choice>tzog ze Oste<choice>
+                        <abbr>rˀ</abbr>
+                        <expan>rich</expan>
+                    </choice>
+                    <reg>,</reg> ze Steyr und ze <choice>
+                        <abbr>Kˀn</abbr>
+                        <expan>Kern</expan>
+                    </choice>den</persName>
+                <reg>,</reg> tuͤn chunt<reg>,</reg> <reg type="star">✳</reg> das wiͤr das <orgName ref="org002627">kloster ze
+        <lb facs="#facs_1_line_1501227033705_196" n="N002"/>Kùnigsvel<choice>
+                        <abbr>dn̄</abbr>
+                        <expan>den</expan>
+                    </choice>
+                    <reg>,</reg> <reg type="star">✳</reg> Sand Chlarnͤ orden</orgName>
+                <reg>,</reg> un<choice>
+                    <abbr>sˀ</abbr>
+                    <expan>ser</expan>
+                </choice> stiftung in unser sun<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> genad und scherm genomen ha<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> und
+        <lb facs="#facs_1_line_1501227037002_197" n="N003"/>neman ouch <reg type="star">✳</reg> also <reg type="star">✳</reg> daz wiͤr welln<reg>,</reg> <reg type="star">✳</reg> daz si und iͤr klos<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> <reg type="star">✳</reg> furbas <reg type="star">✳</reg> ewichlich <reg type="star">✳</reg> unbeschedigt <reg type="star">✳</reg> und ungemuͤt
+        <lb facs="#facs_1_line_1501227039857_198" n="N004"/>sein suln <reg type="star">✳</reg> von al<choice>
+                    <abbr>ln̄</abbr>
+                    <expan>len</expan>
+                </choice> un<choice>
+                    <abbr>sˀn</abbr>
+                    <expan>sern</expan>
+                </choice> <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>wesern<reg>,</reg> <reg type="star">✳</reg> vogten <reg type="star">✳</reg> und amptluten <reg type="star">✳</reg> und oͧch von aller menichlich <reg type="star">✳</reg> mit fuͤ<choice>
+                    <abbr>rūg</abbr>
+                    <expan>rung</expan>
+                </choice>
+                <reg>,</reg>
+        <lb facs="#facs_1_line_1501227044169_199" n="N005"/>mit nachtsel<choice>
+                    <abbr>dn̄</abbr>
+                    <expan>den</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> mit gastung <reg type="star">✳</reg> und ouch mit al<choice>
+                    <abbr>ln̄</abbr>
+                    <expan>len</expan>
+                </choice> an<choice>
+                    <abbr>dˀn</abbr>
+                    <expan>dern</expan>
+                </choice> dinsten<reg>,</reg> <reg type="star">✳</reg> wie diͤ gnant sind<reg>,</reg> wiͤr wel<choice>
+                    <abbr>ln̄</abbr>
+                    <expan>len</expan>
+                </choice> ouch
+        <lb facs="#facs_1_line_1501227050545_200" n="N006"/>daz si und alle iren guͤ<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice>
+                <reg>,</reg> so si itzo hant <reg type="star">✳</reg> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> <choice>
+                    <abbr>hˀ</abbr>
+                    <expan>her</expan>
+                </choice>nach recht und redlich <reg type="star">✳</reg> gewinnent <reg type="star">✳</reg> in al<choice>
+                    <abbr>ln̄</abbr>
+                    <expan>len</expan>
+                </choice> unsern
+        <lb facs="#facs_1_line_1501227054889_201" n="N007"/>gebieten <reg type="star">✳</reg> ha<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> sulln <reg type="star">✳</reg> alle gemaine recht <reg type="star">✳</reg> an holtz<reg>,</reg> <reg type="star">✳</reg> an veld<reg>,</reg> <reg type="star">✳</reg> an wunne <reg type="star">✳</reg> und an weyde<reg>,</reg> <reg type="star">✳</reg> daz ze
+        <lb facs="#facs_1_line_1501227059489_202" n="N008"/>niessen und ze ha<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> alz ouch dem gemeinlich <reg type="star">✳</reg> an<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> lute<reg>,</reg> <reg type="star">✳</reg> niessent und hant<reg>.</reg> <reg type="star">✳</reg> ouch welln <reg type="star">✳</reg> wiͤr <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice>
+        <lb facs="#facs_1_line_1501227063673_203" n="N009"/>emphel<choice>
+                    <abbr>hn̄</abbr>
+                    <expan>hen</expan>
+                </choice> ouch gar <choice>
+                    <abbr>ernstl̄</abbr>
+                    <expan>ernstlich</expan>
+                </choice> <reg type="star">✳</reg> allen un<choice>
+                    <abbr>sˀn</abbr>
+                    <expan>sern</expan>
+                </choice> <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>wesern<reg>,</reg> amptluten und ouch vogten<reg>,</reg> <reg type="star">✳</reg> diͤ wiͤr itzo ha<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice>
+        <lb facs="#facs_1_line_1501227068010_204" n="N010"/>
+                <choice>
+                    <abbr>hˀ</abbr>
+                    <expan>her</expan>
+                </choice>nach gewinnen<reg>,</reg> <reg type="star">✳</reg> daz si daz vor<choice>
+                    <abbr>gn̄̄</abbr>
+                    <expan>genanten</expan>
+                </choice> <orgName ref="org002627">klos<choice>
+                        <abbr>tˀ</abbr>
+                        <expan>ter</expan>
+                    </choice> <reg type="star">✳</reg> ze Kunigsvel<choice>
+                        <abbr>dn̄</abbr>
+                        <expan>den</expan>
+                    </choice>
+                </orgName> <reg type="star">✳</reg> und allz iͤr guͤt<reg>,</reg> so darzu gehört<reg>,</reg> in irn
+        <lb facs="#facs_1_line_1501227073409_205" n="N011"/>ge<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>tru</expan>
+                </choice>wen scherm und hute ha<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> <reg type="star">✳</reg> und wenn si des notdurftig sin in dhainen sa<choice>
+                    <abbr>chn̄</abbr>
+                    <expan>chen</expan>
+                </choice>
+                <reg>,</reg> daz dù in dem
+        <lb facs="#facs_1_line_1501227077745_206" n="N012"/>alz fuderlich und alz <choice>
+                    <abbr>ernstl̄</abbr>
+                    <expan>ernstlich</expan>
+                </choice> daz peste und daz wêgiste <reg type="star">✳</reg> geraten und beholffen sin<reg>,</reg> alz ob ez un<choice>
+                    <abbr>sˀ</abbr>
+                    <expan>ser</expan>
+                </choice>
+        <lb facs="#facs_1_line_1501227081225_207" n="N013"/>aigenlich guͤt an trêff und zuͤ gehörte<reg>,</reg> wiͤr welln ouch gar ernstlich <reg type="star">✳</reg> bey un<choice>
+                    <abbr>sˀn</abbr>
+                    <expan>sern</expan>
+                </choice> hulden<reg>,</reg> <reg type="star">✳</reg> daz man
+        <lb facs="#facs_1_line_1501227085266_208" n="N014"/>diͤ vorgeschri<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> stukch <reg type="star">✳</reg> stête halte und ouch volfuͤr <reg type="star">✳</reg> und wer dez nicht têt<reg>,</reg> <reg type="star">✳</reg> daz wêr gentzlich <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1501227090281_209" n="N015"/>wi<choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> unser gnad und un<choice>
+                    <abbr>sˀ</abbr>
+                    <expan>ser</expan>
+                </choice> hulde <reg type="star">✳</reg> und des ze urchund ge<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> wiͤr disen briͤf besigel<choice>
+                    <abbr>tn̄</abbr>
+                    <expan>ten</expan>
+                </choice> mit
+        <lb facs="#facs_1_line_1501227096017_210" n="N016"/>un<choice>
+                    <abbr>sˀm</abbr>
+                    <expan>serm</expan>
+                </choice> insigel<reg>,</reg> <reg type="star">✳</reg> der ge<choice>
+                    <abbr>bn̄</abbr>
+                    <expan>ben</expan>
+                </choice> ist ze <placeName ref="loc000195">Pruk in Argowͤ</placeName>
+                <reg>,</reg> <reg type="star">✳</reg> do man zalt <date when="1354-06-11">von Krists gepurd dreutze<choice>
+                        <abbr>hn̄</abbr>
+                        <expan>hen</expan>
+                    </choice>
+        <lb facs="#facs_1_line_1501227099417_211" n="N017"/>hun<choice>
+                        <abbr>dˀt</abbr>
+                        <expan>dert</expan>
+                    </choice> jar<reg>,</reg> darnach in dem viͤr und fumftzigistem jar<reg>,</reg> <reg type="star">✳</reg> an donrstag nach aller heili<choice>
+                        <abbr>gn̄</abbr>
+                        <expan>gen</expan>
+                    </choice> tag<reg>.</reg>
+                </date>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0257_v"/>
+      <p facs="#facs_2_region_1578669775472_7277" rend="dorsual_06_doppel">
+        <lb facs="#facs_2_line_1578669781472_7281" n="N001"/>fryheit xvij</p>
+      <p facs="#facs_2_region_1578669734746_7244" rend="dorsual_15_textualis">
+        <lb facs="#facs_2_line_1578669739298_7252" n="N001"/>f ij</p>
+      <p facs="#facs_2_region_1578669748403_7259" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1578669751240_7262" n="N001"/>hertzog Albrechts fryheytt</p>
+      <p facs="#facs_2_region_1578669785062_7286" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1578669789884_7289" n="N001"/>die gemeinsami <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice> holtz <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> velt mit <choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice>
+        <lb facs="#facs_2_line_1578669791962_7294" n="N002"/>
+                <choice>
+                    <abbr>hˀ</abbr>
+                    <expan>her</expan>
+                </choice>schaft lûten</p>
+      <p facs="#facs_2_region_1578669732985_7241" rend="dorsual_24_nummer">
+        <lb facs="#facs_2_line_1578669737375_7247" n="N001"/>
+                <choice>
+                    <abbr>Nͦ<reg type="star">✳</reg>
+                    </abbr>
+                    <expan>Numero</expan>
+                </choice> 37 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1578669702654_7206" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1578669707157_7214" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1578669708839_7219" n="N002"/>AARGAU</p>
+      <p facs="#facs_2_region_1578669700962_7203" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1578669705136_7209" n="N001"/>
+                <choice>
+                    <abbr>Kgsfeld<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 257</p>
+      <p facs="#facs_2_region_1578669716225_7228" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1578669719297_7231" n="N001"/>
+                <choice>
+                    <abbr>Kgsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice>
+        <lb facs="#facs_2_line_1578669720850_7236" n="N002"/>257</p>
+      <p facs="#facs_2_region_1578669757255_7268" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1578669762082_7271" n="N001"/>herausgefallen 7/9 95</p>
+    </body>
+  </text>
+</TEI>

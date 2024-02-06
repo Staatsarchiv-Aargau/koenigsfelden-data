@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0377</title>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="hm">Helena Müller</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="fh">Fabian Henggeler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0377</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0377</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Bischof Heinrich von Konstanz bescheinigt, dass das Kloster Königsfelden die Verpflichtung der Abgabe der ersten Früchte von der oberen Kirche zu Waldshut und deren Mutterkirche zu Stunzingen, die dem Kloster inkorporiert worden sind, an das Konstanzer Hochstift mit 300 Gulden abgelöst habe.</summary>
+                <msItem>
+                  <textLang>Latein</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="33.2"/>
+                        <height unit="cm" quantity="18.3"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="2.5"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1378-08-03">03. August 1378</origDate>
+                  <origPlace ref="">Klingnau</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0377">
+            <msDesc>
+              <msIdentifier corresp="KB_1-AA_0428">
+                <idno>StAAG AA/0428, fol. 93v-94r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Bestätigung</term>
+          <term>Ablösung</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_1">
+      <graphic url="U-17_0377_r.jpg" width="7360" height="4912"/>
+      <zone points="1555,711 5371,711 5371,2648 1555,2648" rendition="TextRegion" xml:id="facs_1_region_1498474995890_1">
+        <zone points="1687,918 5256,914 5256,964 1687,968" rendition="Line" xml:id="facs_1_line_1498475022285_3"/>
+        <zone points="1803,1004 5187,983 5187,1033 1803,1054" rendition="Line" xml:id="facs_1_line_1498475026824_4"/>
+        <zone points="1771,1084 5245,1063 5245,1113 1771,1134" rendition="Line" xml:id="facs_1_line_1498475031256_5"/>
+        <zone points="1762,1189 5222,1158 5222,1208 1762,1239" rendition="Line" xml:id="facs_1_line_1498475047216_7"/>
+        <zone points="1735,1271 5201,1247 5201,1297 1735,1321" rendition="Line" xml:id="facs_1_line_1498475051208_8"/>
+        <zone points="1766,1357 5215,1336 5215,1386 1766,1407" rendition="Line" xml:id="facs_1_line_1498475054664_9"/>
+        <zone points="1728,1439 5297,1425 5297,1475 1728,1489" rendition="Line" xml:id="facs_1_line_1498475058240_10"/>
+        <zone points="1769,1518 2744,1511 3057,1532 3658,1549 5190,1511 5191,1561 3658,1599 3055,1582 2743,1561 1769,1568" rendition="Line" xml:id="facs_1_line_1498475069232_11"/>
+        <zone points="1773,1604 3195,1621 4251,1621 5249,1614 5249,1664 4251,1671 3195,1671 1772,1654" rendition="Line" xml:id="facs_1_line_1498475074561_12"/>
+        <zone points="1766,1700 2603,1693 3354,1724 4233,1713 5238,1689 5239,1739 4234,1763 3353,1774 2602,1743 1766,1750" rendition="Line" xml:id="facs_1_line_1498475080953_13"/>
+        <zone points="1744,1768 2777,1779 3520,1803 5219,1765 5220,1815 3520,1853 2776,1829 1744,1818" rendition="Line" xml:id="facs_1_line_1498475086944_14"/>
+        <zone points="1770,1881 2427,1850 2754,1871 3096,1871 3826,1885 5190,1864 5191,1914 3826,1935 3096,1921 2753,1921 2427,1900 1772,1931" rendition="Line" xml:id="facs_1_line_1498475096304_15"/>
+        <zone points="1764,1970 2355,1943 3011,1967 3915,1970 5169,1950 5170,2000 3915,2020 3010,2017 2355,1993 1766,2020" rendition="Line" xml:id="facs_1_line_1498475104153_16"/>
+        <zone points="1750,2060 2503,2032 3176,2049 3946,2066 5197,2036 5198,2086 3946,2116 3175,2099 2503,2082 1752,2110" rendition="Line" xml:id="facs_1_line_1498475110688_17"/>
+        <zone points="1762,2121 2627,2114 3625,2145 4620,2141 5164,2117 5166,2167 4621,2191 3624,2195 2626,2164 1762,2171" rendition="Line" xml:id="facs_1_line_1498475117241_18"/>
+        <zone points="1762,2217 2493,2214 3313,2241 3970,2252 5193,2217 5194,2267 3970,2302 3312,2291 2492,2264 1762,2267" rendition="Line" xml:id="facs_1_line_1498475124664_19"/>
+        <zone points="1758,2317 2538,2296 3282,2337 4041,2344 5165,2303 5167,2353 4042,2394 3281,2387 2537,2346 1759,2367" rendition="Line" xml:id="facs_1_line_1498475131288_20"/>
+        <zone points="1758,2409 2910,2392 2911,2442 1759,2459" rendition="Line" xml:id="facs_1_line_1498475134832_21"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_2">
+      <graphic url="U-17_0377_v.jpg" width="7360" height="4912"/>
+      <zone points="3513,2195 3962,2195 3962,489 3513,489" rendition="TextRegion" xml:id="facs_2_region_1578589271346_2042" subtype="Fricker">
+        <zone points="3660,2128 3627,523 3677,522 3710,2127" rendition="Line" xml:id="facs_2_line_1578589302238_2046"/>
+        <zone points="3735,2115 3714,1138 3714,540 3764,540 3764,1138 3785,2114" rendition="Line" xml:id="facs_2_line_1578589306527_2051"/>
+        <zone points="3817,2139 3805,559 3855,559 3867,2139" rendition="Line" xml:id="facs_2_line_1578589309042_2056"/>
+      </zone>
+      <zone points="1293,1231 2641,1231 2641,1875 1293,1875" rendition="TextRegion" xml:id="facs_2_region_1578589193198_1956" subtype="Dorsual_Regesta">
+        <zone points="1378,1386 2630,1344 2632,1394 1380,1436" rendition="Line" xml:id="facs_2_line_1578589196442_1959"/>
+        <zone points="1391,1484 2544,1456 2545,1506 1392,1534" rendition="Line" xml:id="facs_2_line_1578589198749_1964"/>
+        <zone points="1432,1585 2640,1554 2641,1604 1433,1635" rendition="Line" xml:id="facs_2_line_1578589201357_1969"/>
+        <zone points="1439,1710 2589,1666 2591,1716 1441,1760" rendition="Line" xml:id="facs_2_line_1578589203584_1974"/>
+        <zone points="2122,1799 2582,1784 2583,1834 2123,1849" rendition="Line" xml:id="facs_2_line_1578589205178_1979"/>
+      </zone>
+      <zone points="1936,2417 2540,2417 2540,2054 1936,2054" rendition="TextRegion" xml:id="facs_2_region_1578589231104_2003" subtype="Dorsual_Sigle">
+        <zone points="1976,2300 2500,2272 2502,2322 1978,2350" rendition="Line" xml:id="facs_2_line_1578589235485_2011"/>
+      </zone>
+      <zone points="2172,2009 2322,2009 2322,2122 2172,2122" rendition="TextRegion" xml:id="facs_2_region_1594125983532_735" subtype="Zahl">
+        <zone points="2187,2057 2300,2057 2300,2107 2187,2107" rendition="Line" xml:id="facs_2_line_1594125986017_738"/>
+      </zone>
+      <zone points="3635,2444 3742,2444 3742,2572 3635,2572" rendition="TextRegion" xml:id="facs_2_region_1578589321780_2065" subtype="Zahl">
+        <zone points="3651,2500 3736,2504 3734,2554 3649,2550" rendition="Line" xml:id="facs_2_line_1578589324879_2068"/>
+      </zone>
+      <zone points="2932,711 3226,711 3226,561 2932,561" rendition="TextRegion" xml:id="facs_2_region_1578588931435_1941" subtype="Dorsual_Jahreszahl-Drei">
+        <zone points="2979,635 3218,635 3218,685 2979,685" rendition="Line" xml:id="facs_2_line_1578588936483_1949"/>
+      </zone>
+      <zone points="1728,2015 1993,2015 1993,1843 1728,1843" rendition="TextRegion" xml:id="facs_2_region_1578589209700_1984" subtype="Dorsual_Jahreszahl-Vier">
+        <zone points="1758,1920 1976,1915 1977,1965 1759,1970" rendition="Line" xml:id="facs_2_line_1578589212402_1987"/>
+      </zone>
+      <zone points="1533,527 2662,527 2662,890 1533,890" rendition="TextRegion" xml:id="facs_2_region_1578588929727_1938" subtype="Dorsual_StAAG">
+        <zone points="1582,703 2642,700 2642,750 1582,753" rendition="Line" xml:id="facs_2_line_1578588934472_1944"/>
+      </zone>
+      <zone points="2694,1717 3227,1717 3227,1410 2694,1410" rendition="TextRegion" xml:id="facs_2_region_1578589241764_2018" subtype="Dorsual_StAAG-Stempel">
+        <zone points="2732,1519 3185,1509 3186,1559 2733,1569" rendition="Line" xml:id="facs_2_line_1578589244437_2021"/>
+        <zone points="2768,1615 3149,1603 3150,1653 2769,1665" rendition="Line" xml:id="facs_2_line_1578589246356_2026"/>
+      </zone>
+      <zone points="4539,1505 5455,1505 5455,1137 4539,1137" rendition="TextRegion" xml:id="facs_2_region_1578589257217_2034" subtype="StAAG_modern">
+        <zone points="4605,1353 5383,1321 5385,1371 4607,1403" rendition="Line" xml:id="facs_2_line_1578589260143_2037"/>
+      </zone>
+      <zone points="2154,2220 2252,2220 2252,2118 2154,2118" rendition="TextRegion" xml:id="facs_2_region_1578589220095_1994" subtype="Speziell">
+        <zone points="2159,2157 2234,2154 2236,2204 2161,2207" rendition="Line" xml:id="facs_2_line_1578589227931_1998"/>
+      </zone>
+      <zone points="4489,2687 3767,2687 3767,2482 4489,2482" rendition="TextRegion" xml:id="facs_2_region_1578589367269_2082" subtype="Unleserlich">
+        <zone points="4458,2582 4166,2581 3812,2613 3808,2563 4164,2531 4458,2532" rendition="Line" xml:id="facs_2_line_1578589371700_2085"/>
+      </zone>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0377_r"/>
+      <p facs="#facs_1_region_1498474995890_1">
+        <lb facs="#facs_1_line_1498475022285_3" n="N001"/>Nos <persName ref="per004915">Hainricus dei et <choice>
+                        <abbr>aplīce</abbr>
+                        <expan>apostolice</expan>
+                    </choice> sedis <choice>
+                        <abbr>gr̄a</abbr>
+                        <expan>gratia</expan>
+                    </choice> <choice>
+                        <abbr>epūs</abbr>
+                        <expan>episcopus</expan>
+                    </choice> Con<choice>
+                        <abbr>stan̄</abbr>
+                        <expan>stantiensis</expan>
+                    </choice>
+                </persName> notum facimus tenore <choice>
+                    <abbr>p̄n</abbr>
+                    <expan>presen</expan>
+                </choice>cium uni<choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>
+                <choice>
+                    <abbr>s₎</abbr>
+                    <expan>sis</expan>
+                </choice>
+                <reg>,</reg> <choice>
+                    <abbr>qđ</abbr>
+                    <expan>quod</expan>
+                </choice> cum <choice>
+                    <abbr>auc̃te</abbr>
+                    <expan>auctoritate</expan>
+                </choice>
+        <lb facs="#facs_1_line_1498475026824_4" n="N002"/>
+                <choice>
+                    <abbr>aplīca</abbr>
+                    <expan>apostolica</expan>
+                </choice> <reg type="star">✳</reg> iuxta <choice>
+                    <abbr>for̃m</abbr>
+                    <expan>formam</expan>
+                </choice> <choice>
+                    <abbr>cō</abbr>
+                    <expan>com</expan>
+                </choice>missionis nobis a <persName ref="per012262">
+                    <choice>
+                        <abbr>sc̄is</abbr>
+                        <expan>sanctis</expan>
+                    </choice>simo in <choice>
+                        <abbr>xp̄o</abbr>
+                        <expan>Christo</expan>
+                    </choice> <choice>
+                        <abbr>pr̄e</abbr>
+                        <expan>patre</expan>
+                    </choice> ac <choice>
+                        <abbr>dn̄o</abbr>
+                        <expan>domino</expan>
+                    </choice> <reg type="star">✳</reg> domino Gregorio digna dei <choice>
+                        <abbr>ꝓ</abbr>
+                        <expan>pro</expan>
+                    </choice>vi<choice>
+                        <abbr>deñ</abbr>
+                        <expan>dentia</expan>
+                    </choice> <choice>
+                        <abbr>p̃p</abbr>
+                        <expan>pape</expan>
+                    </choice> <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1498475031256_5" n="N003"/>
+                    <reg type="star">✳</reg>XI<hi rend="sup">mo</hi>
+                </persName> <reg type="star">✳</reg> <choice>
+                    <abbr>fc̄e</abbr>
+                    <expan>facte</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> <orgName ref="org006604">
+                    <choice>
+                        <abbr>ecc̄iam</abbr>
+                        <expan>ecclesiam</expan>
+                    </choice> <choice>
+                        <abbr>ꝑ</abbr>
+                        <expan>par</expan>
+                    </choice>
+                    <choice>
+                        <abbr>roch̄</abbr>
+                        <expan>rochialem</expan>
+                    </choice> su<choice>
+                        <abbr>ꝑi</abbr>
+                        <expan>peri</expan>
+                    </choice>orem opidi Waltzhuͦt <choice>
+                        <abbr>nr̄e</abbr>
+                        <expan>nostre</expan>
+                    </choice> Con<choice>
+                        <abbr>stan̄</abbr>
+                        <expan>stantiensis</expan>
+                    </choice> dyo<choice>
+                        <abbr>cꝭ</abbr>
+                        <expan>cesis</expan>
+                    </choice>
+                </orgName> <reg type="star">✳</reg> cum <orgName ref="org005846">
+                    <choice>
+                        <abbr>ecc̄ia</abbr>
+                        <expan>ecclesia</expan>
+                    </choice> Stunzingen</orgName>
+                <reg>,</reg> <choice>
+                    <abbr>q̃</abbr>
+                    <expan>qua</expan>
+                </choice>rum una matrix et alia
+        <lb facs="#facs_1_line_1498475047216_7" n="N004"/>sibi filialis existit<reg>,</reg> <reg type="star">✳</reg> reli<choice>
+                    <abbr>gꝭ</abbr>
+                    <expan>giosis</expan>
+                </choice> in <choice>
+                    <abbr>xp̄o</abbr>
+                    <expan>Christo</expan>
+                </choice> <orgName ref="org002627">
+                    <choice>
+                        <abbr>abb̄tis</abbr>
+                        <expan>abbatis</expan>
+                    </choice>se et conventui <choice>
+                        <abbr>mon̄ii</abbr>
+                        <expan>monasterii</expan>
+                    </choice> Campiregis ordinis <choice>
+                        <abbr>Sc̄e</abbr>
+                        <expan>Sancte</expan>
+                    </choice> Clare <choice>
+                        <abbr>dc̄e</abbr>
+                        <expan>dicte</expan>
+                    </choice> <choice>
+                        <abbr>nr̄e</abbr>
+                        <expan>nostre</expan>
+                    </choice> dyo<choice>
+                        <abbr>cꝭ</abbr>
+                        <expan>cesis</expan>
+                    </choice>
+                </orgName>
+        <lb facs="#facs_1_line_1498475051208_8" n="N005"/>incor<choice>
+                    <abbr>ꝑa</abbr>
+                    <expan>pora</expan>
+                </choice>
+                <choice>
+                    <abbr>vˀi</abbr>
+                    <expan>veri</expan>
+                </choice>mus ac mense <choice>
+                    <abbr>ip̄a</abbr>
+                    <expan>ipsa</expan>
+                </choice>
+                <choice>
+                    <abbr>rū</abbr>
+                    <expan>rum</expan>
+                </choice> monialium uni<choice>
+                    <abbr>vˀi</abbr>
+                    <expan>veri</expan>
+                </choice>mus<reg>,</reg> <reg type="star">✳</reg> nobis <choice>
+                    <abbr>qͦƺ</abbr>
+                    <expan>quoque</expan>
+                </choice> <reg type="star">✳</reg> de iure et <choice>
+                    <abbr>cō</abbr>
+                    <expan>con</expan>
+                </choice>suetudine <orgName ref="org000056">
+                    <choice>
+                        <abbr>ecc̄ie</abbr>
+                        <expan>ecclesie</expan>
+                    </choice> <choice>
+                        <abbr>nr̄e</abbr>
+                        <expan>nostre</expan>
+                    </choice> Con<choice>
+                        <abbr>stan̄</abbr>
+                        <expan>stantiensis</expan>
+                    </choice>
+                </orgName>
+        <lb facs="#facs_1_line_1498475054664_9" n="N006"/>de talibus <choice>
+                    <abbr>ecc̄iis</abbr>
+                    <expan>ecclesiis</expan>
+                </choice> <choice>
+                    <abbr>pʼ</abbr>
+                    <expan>pri</expan>
+                </choice>mi fructus debeantur <reg type="star">✳</reg> et <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>solvi consue<choice>
+                    <abbr>vˀint</abbr>
+                    <expan>verint</expan>
+                </choice>
+                <reg>.</reg> <reg type="star">✳</reg> recognoscimus et <choice>
+                    <abbr>p̄n</abbr>
+                    <expan>presen</expan>
+                </choice>tibus confite<choice>
+                    <abbr>m̃</abbr>
+                    <expan>mur</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝙ</abbr>
+                    <expan>quod</expan>
+                </choice> nobis
+        <lb facs="#facs_1_line_1498475058240_10" n="N007"/>
+                <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice> <choice>
+                    <abbr>abb̄tis</abbr>
+                    <expan>abbatis</expan>
+                </choice>sam et conventum <reg type="star">✳</reg> <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄i</abbr>
+                    <expan>dicti</expan>
+                </choice> <choice>
+                    <abbr>mon̄ii</abbr>
+                    <expan>monasterii</expan>
+                </choice> <choice>
+                    <abbr>noīe</abbr>
+                    <expan>nomine</expan>
+                </choice> <choice>
+                    <abbr>dc̄o</abbr>
+                    <expan>dicto</expan>
+                </choice>rum <choice>
+                    <abbr>pʼ</abbr>
+                    <expan>pri</expan>
+                </choice>mo<choice>
+                    <abbr>rū</abbr>
+                    <expan>rum</expan>
+                </choice> fructuum<reg>,</reg> <reg type="star">✳</reg> cum etiam <choice>
+                    <abbr>nr̄a</abbr>
+                    <expan>nostra</expan>
+                </choice> <choice>
+                    <abbr>ecc̄ia</abbr>
+                    <expan>ecclesia</expan>
+                </choice> <choice>
+                    <abbr>ꝓp</abbr>
+                    <expan>prop</expan>
+                </choice>
+                <choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> varios even<choice>
+                    <abbr>tꝰ</abbr>
+                    <expan>tus</expan>
+                </choice>
+        <lb facs="#facs_1_line_1498475069232_11" n="N008"/>mole debitorum <choice>
+                    <abbr>fuˀit</abbr>
+                    <expan>fuerit</expan>
+                </choice> <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>gravata<reg>,</reg> <reg type="star">✳</reg> <measure>tricenti floreni</measure> in <choice>
+                    <abbr>ꝓmp</abbr>
+                    <expan>promp</expan>
+                </choice>ta et <choice>
+                    <abbr>nuˀa</abbr>
+                    <expan>numera</expan>
+                </choice>ta pec<choice>
+                    <abbr>cūia</abbr>
+                    <expan>cunia</expan>
+                </choice> sunt <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>soluti<reg>,</reg> <reg type="star">✳</reg> de quibus quidem
+        <lb facs="#facs_1_line_1498475074561_12" n="N009"/>
+                <measure>tricentis florenis</measure> <choice>
+                    <abbr>dc̄am</abbr>
+                    <expan>dictam</expan>
+                </choice> <reg type="star">✳</reg> <orgName ref="org000056">
+                    <choice>
+                        <abbr>ecc̄iam</abbr>
+                        <expan>ecclesiam</expan>
+                    </choice> <choice>
+                        <abbr>nr̄am</abbr>
+                        <expan>nostram</expan>
+                    </choice> <choice>
+                        <abbr>Const̄</abbr>
+                        <expan>Constantiensem</expan>
+                    </choice>
+                </orgName> ex<choice>
+                    <abbr>onˀa</abbr>
+                    <expan>onera</expan>
+                </choice>vimus <reg type="star">✳</reg> in redditibus <choice>
+                    <abbr>ā</abbr>
+                    <expan>an</expan>
+                </choice>nuis <measure>trium karrata<choice>
+                        <abbr>ꝝ</abbr>
+                        <expan>rum</expan>
+                    </choice> seu plau<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1498475080953_13" n="N010" break="no"/>strorum vini</measure>
+                <reg>,</reg> que prius sin<choice>
+                    <abbr>gl̄is</abbr>
+                    <expan>gulis</expan>
+                </choice> annis <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>solvimus <choice>
+                    <abbr>noīe</abbr>
+                    <expan>nomine</expan>
+                </choice> <choice>
+                    <abbr>dc̄e</abbr>
+                    <expan>dicte</expan>
+                </choice> <choice>
+                    <abbr>nr̄e</abbr>
+                    <expan>nostre</expan>
+                </choice> <choice>
+                    <abbr>ecc̄ie</abbr>
+                    <expan>ecclesie</expan>
+                </choice> <reg type="star">✳</reg> <persName ref="per014327">Conrado <choice>
+                        <abbr>dc̄o</abbr>
+                        <expan>dicto</expan>
+                    </choice> Rùllen civi Con<choice>
+                        <abbr>stant̄</abbr>
+                        <expan>stantiensi</expan>
+                    </choice>
+                </persName>
+        <lb facs="#facs_1_line_1498475086944_14" n="N011"/>de bonis <choice>
+                    <abbr>nr̄e</abbr>
+                    <expan>nostre</expan>
+                </choice> <choice>
+                    <abbr>ecc̄ie</abbr>
+                    <expan>ecclesie</expan>
+                </choice> <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄e</abbr>
+                    <expan>dicte</expan>
+                </choice>
+                <reg>.</reg> <reg type="star">✳</reg> qua<choice>
+                    <abbr>ꝓp</abbr>
+                    <expan>prop</expan>
+                </choice>
+                <choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> simi<choice>
+                    <abbr>l̄r</abbr>
+                    <expan>liter</expan>
+                </choice> recognoscimus et <choice>
+                    <abbr>p̄n</abbr>
+                    <expan>presen</expan>
+                </choice>tibus etiam confitemur<reg>,</reg> <choice>
+                    <abbr>ꝙ</abbr>
+                    <expan>quod</expan>
+                </choice> cedente <choice>
+                    <abbr>vl̄</abbr>
+                    <expan>vel</expan>
+                </choice> decedente
+        <lb facs="#facs_1_line_1498475096304_15" n="N012"/>vicario<reg>,</reg> qui pro tempore <choice>
+                    <abbr>dc̄e</abbr>
+                    <expan>dicte</expan>
+                </choice> <choice>
+                    <abbr>ecc̄ie</abbr>
+                    <expan>ecclesie</expan>
+                </choice> fuerit<reg>,</reg> <reg type="star">✳</reg> abbatissa et conventus <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄e</abbr>
+                    <expan>dicte</expan>
+                </choice> <reg type="star">✳</reg> ea vice ad solu<choice>
+                    <abbr>tōem</abbr>
+                    <expan>tionem</expan>
+                </choice> <choice>
+                    <abbr>dc̄o</abbr>
+                    <expan>dicto</expan>
+                </choice>rum <choice>
+                    <abbr>pʼ</abbr>
+                    <expan>pri</expan>
+                </choice>morum
+        <lb facs="#facs_1_line_1498475104153_16" n="N013"/>fructuum <choice>
+                    <abbr>nob̄</abbr>
+                    <expan>nobis</expan>
+                </choice> et suc<choice>
+                    <abbr>c̄o</abbr>
+                    <expan>cesso</expan>
+                </choice>ribus <choice>
+                    <abbr>nr̄is</abbr>
+                    <expan>nostris</expan>
+                </choice> <choice>
+                    <abbr>nō</abbr>
+                    <expan>non</expan>
+                </choice> tenentur<reg>,</reg> nec artari debent<reg>,</reg> <reg type="star">✳</reg> cum<reg>,</reg> ut <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>fertur<reg>,</reg> <choice>
+                    <abbr>dc̄a</abbr>
+                    <expan>dicta</expan>
+                </choice> peccunia nobis <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1498475110688_17" n="N014"/>
+                <choice>
+                    <abbr>ꝓ</abbr>
+                    <expan>pro</expan>
+                </choice> <choice>
+                    <abbr>dc̄is</abbr>
+                    <expan>dictis</expan>
+                </choice> primis fructibus <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>soluta in eviden<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice> utilita<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice> <choice>
+                    <abbr>dc̄e</abbr>
+                    <expan>dicte</expan>
+                </choice> <choice>
+                    <abbr>nr̄e</abbr>
+                    <expan>nostre</expan>
+                </choice> <choice>
+                    <abbr>ecc̄ie</abbr>
+                    <expan>ecclesie</expan>
+                </choice> et eius <choice>
+                    <abbr>ncc̄i</abbr>
+                    <expan>neccessi</expan>
+                </choice>ta<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice>
+                <reg>,</reg> ut <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>
+                <choice>
+                    <abbr>fˀ</abbr>
+                    <expan>fer</expan>
+                </choice>tur<reg>,</reg> sit <choice>
+                    <abbr>cō</abbr>
+                    <expan>con</expan>
+                </choice>
+                <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>sa<reg>,</reg>
+        <lb facs="#facs_1_line_1498475117241_18" n="N015"/>facientes <choice>
+                    <abbr>dc̄is</abbr>
+                    <expan>dictis</expan>
+                </choice> abbatisse et conventui et <choice>
+                    <abbr>ip̄a</abbr>
+                    <expan>ipsa</expan>
+                </choice>rum <choice>
+                    <abbr>mon̄io</abbr>
+                    <expan>monasterio</expan>
+                </choice> <choice>
+                    <abbr>ꝓ</abbr>
+                    <expan>pro</expan>
+                </choice> nobis<reg>,</reg> <choice>
+                    <abbr>nr̄is</abbr>
+                    <expan>nostris</expan>
+                </choice> suc<choice>
+                    <abbr>c̄o</abbr>
+                    <expan>cesso</expan>
+                </choice>ribus <reg type="star">✳</reg> ac <choice>
+                    <abbr>nr̄a</abbr>
+                    <expan>nostra</expan>
+                </choice> <orgName ref="org000056">
+                    <choice>
+                        <abbr>ecc̄ia</abbr>
+                        <expan>ecclesia</expan>
+                    </choice> Con<choice>
+                        <abbr>stꝭ</abbr>
+                        <expan>stantiensis</expan>
+                    </choice>
+                </orgName> <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄a</abbr>
+                    <expan>dicta</expan>
+                </choice>
+        <lb facs="#facs_1_line_1498475124664_19" n="N016"/>de primis fructibus su<choice>
+                    <abbr>p̃</abbr>
+                    <expan>pra</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄e</abbr>
+                    <expan>dicte</expan>
+                </choice> ecclesie <reg type="star">✳</reg> refuta<choice>
+                    <abbr>tōem</abbr>
+                    <expan>tionem</expan>
+                </choice> plenariam et pactum de ul<choice>
+                    <abbr>tˀius</abbr>
+                    <expan>terius</expan>
+                </choice> <choice>
+                    <abbr>nō</abbr>
+                    <expan>non</expan>
+                </choice> petendo<reg>.</reg> <reg type="star">✳</reg> <reg type="star">✳</reg> <reg type="star">✳</reg> datum et
+        <lb facs="#facs_1_line_1498475131288_20" n="N017"/>actum in castro <choice>
+                    <abbr>nr̄o</abbr>
+                    <expan>nostro</expan>
+                </choice> <placeName ref="loc013580">Clingnow</placeName> sub sigillo <choice>
+                    <abbr>nr̄o</abbr>
+                    <expan>nostro</expan>
+                </choice> <choice>
+                    <abbr>ep̄a</abbr>
+                    <expan>episcopa</expan>
+                </choice>li<reg>,</reg> <reg type="star">✳</reg> <date when="1378-08-03">anno <choice>
+                        <abbr>dn̄i</abbr>
+                        <expan>domini</expan>
+                    </choice> mil<choice>
+                        <abbr>l̄i</abbr>
+                        <expan>lesi</expan>
+                    </choice>mo <reg type="star">✳</reg> cccͦ lxxͦ octavo<reg>,</reg> <reg type="star">✳</reg> <choice>
+                        <abbr>tˀ</abbr>
+                        <expan>ter</expan>
+                    </choice>tia die
+        <lb facs="#facs_1_line_1498475134832_21" n="N018"/>mensis augusti<reg>,</reg> indi<choice>
+                        <abbr>cōn</abbr>
+                        <expan>cione</expan>
+                    </choice> prima</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0377_v"/>
+      <p facs="#facs_2_region_1578589271346_2042" rend="dorsual_12_fricker">
+        <lb facs="#facs_2_line_1578589302238_2046" n="N001"/>dz die ersten frùcht der ober kilchen ze Waldshuͦt <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> <choice>
+                    <abbr>dn̄</abbr>
+                    <expan>den</expan>
+                </choice>
+        <lb facs="#facs_2_line_1578589306527_2051" n="N002"/>ze Stunzingen <damage agent="faded ink">
+                    <gap/> </damage> gekoufet sint umb ccc
+        <lb facs="#facs_2_line_1578589309042_2056" n="N003"/>guldin <damage agent="faded ink">
+                    <gap/> </damage> da die eine guͦlten und die andern <damage agent="faded ink">
+                    <gap/> </damage>
+            </p>
+      <p facs="#facs_2_region_1578589193198_1956" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1578589196442_1959" n="N001"/>wist wie die erste frùcht <damage agent="faded ink">
+                    <supplied resp="ch">
+                        <gap/>kauft</supplied>
+                </damage>
+        <lb facs="#facs_2_line_1578589198749_1964" n="N002"/>sind von den bei<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> kilchen zuͦ
+        <lb facs="#facs_2_line_1578589201357_1969" n="N003"/>Oberwaltzhuͦt und St<damage agent="faded ink">
+                    <supplied resp="ch">
+                        <gap/>unzingen</supplied>
+                </damage>
+        <lb facs="#facs_2_line_1578589203584_1974" n="N004"/>
+                <choice>
+                    <abbr>vō</abbr>
+                    <expan>vom</expan>
+                </choice> bischoff <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Costentz <choice>
+                    <abbr>um̄</abbr>
+                    <expan>umb</expan>
+                </choice>
+        <lb facs="#facs_2_line_1578589205178_1979" n="N005"/>iij ͨ <choice>
+                    <abbr>g₎</abbr>
+                    <expan>guldin</expan>
+                </choice>
+            </p>
+      <p facs="#facs_2_region_1578589231104_2003" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1578589235485_2011" n="N001"/>K <reg type="star">✳</reg> T <reg type="star">✳</reg> 85 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1594125983532_735" rend="dorsual_25_zahl">
+        <lb facs="#facs_2_line_1594125986017_738" n="N001"/>7</p>
+      <p facs="#facs_2_region_1578589321780_2065" rend="dorsual_25_zahl">
+        <lb facs="#facs_2_line_1578589324879_2068" n="N001"/>vj</p>
+      <p facs="#facs_2_region_1578588931435_1941" rend="dorsual_29_jahreszahl_3">
+        <lb facs="#facs_2_line_1578588936483_1949" n="N001"/>378 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1578589209700_1984" rend="dorsual_30_jahreszahl_4">
+        <lb facs="#facs_2_line_1578589212402_1987" n="N001"/>1378</p>
+      <p facs="#facs_2_region_1578588929727_1938" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1578588934472_1944" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 377</p>
+      <p facs="#facs_2_region_1578589241764_2018" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1578589244437_2021" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1578589246356_2026" n="N002"/>AARGAU</p>
+      <p facs="#facs_2_region_1578589257217_2034" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1578589260143_2037" n="N001"/>
+                <choice>
+                    <abbr>Kgsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 377</p>
+      <p facs="#facs_2_region_1578589220095_1994" rend="dorsual_35_speziell">
+        <lb facs="#facs_2_line_1578589227931_1998" n="N001"/>
+                <unclear>
+                    <reg type="star">✳</reg>
+                </unclear>
+            </p>
+      <p facs="#facs_2_region_1578589367269_2082" rend="dorsual_36_unleserlich">
+        <lb facs="#facs_2_line_1578589371700_2085" n="N001"/>
+                <damage agent="faded ink">
+                    <gap/> </damage> <unclear>
+                    <reg type="star">✳</reg>
+                </unclear> <unclear>
+                    <reg type="star">✳</reg>
+                </unclear>
+            </p>
+    </body>
+  </text>
+</TEI>

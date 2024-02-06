@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0504</title>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="hm">Helena Müller</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="fh">Fabian Henggeler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0504</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0504</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Äbtissin Elisabeth und der Konvent von Königsfelden präsentieren dem Bischoff Otto von Konstanz an Stelle des Konrad Mursel von Aarau, der resigniert hat, als Leutpriester von Staufen den Magister Walther Fritag (Konzept).</summary>
+                <msItem>
+                  <textLang>Latein</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="25.5"/>
+                        <height unit="cm" quantity="15.6"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="0.0"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1416-06-30">30. Juni 1416</origDate>
+                  <origPlace ref="">Königsfelden</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Präsentationsrecht</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_1">
+      <graphic url="U-17_0504_r.0.jpg" width="7360" height="4912"/>
+      <zone points="3632,-501 3632,681 5165,681 5165,-501" rendition="TextRegion" xml:id="facs_1_region_1499170340800_48"/>
+      <zone points="414,805 5216,805 5216,2422 414,2422" rendition="TextRegion" xml:id="facs_1_region_1499170259645_38">
+        <zone points="936,1218 2224,1168 3853,1161 5347,1168 5347,1218 3853,1211 2225,1218 938,1268" rendition="Line" xml:id="facs_1_line_1499170268866_39"/>
+        <zone points="1044,1347 2179,1299 3119,1259 3740,1252 4202,1276 5168,1279 5168,1329 4201,1326 3739,1302 3120,1309 2181,1349 1046,1397" rendition="Line" xml:id="facs_1_line_1499170278250_40"/>
+        <zone points="1045,1489 1698,1428 2557,1380 2841,1353 3448,1353 5077,1374 5076,1424 3448,1403 2843,1403 2560,1430 1701,1478 1049,1539" rendition="Line" xml:id="facs_1_line_1499170287314_41"/>
+        <zone points="1068,1590 1856,1513 2403,1485 2761,1485 3135,1457 3138,1507 2763,1535 2404,1535 1859,1563 1072,1640" rendition="Line" xml:id="facs_1_line_1531136155578_14"/>
+        <zone points="2702,1419 3008,1401 3011,1451 2705,1469" rendition="Line" xml:id="facs_1_line_1542981094494_69"/>
+        <zone points="2820,1464 3115,1458 3116,1508 2821,1514" rendition="Line" xml:id="facs_1_line_1542981289126_102"/>
+        <zone points="2630,2265 3173,2237 3175,2287 2632,2315" rendition="Line" xml:id="facs_1_line_1531133791840_3"/>
+        <zone points="3175,1457 3837,1461 4410,1453 4999,1457 4999,1507 4410,1503 3837,1511 3175,1507" rendition="Line" xml:id="facs_1_line_1531136167948_15"/>
+        <zone points="1058,1698 1807,1620 2667,1590 4066,1549 5179,1563 5178,1613 4066,1599 2668,1640 1810,1670 1064,1748" rendition="Line" xml:id="facs_1_line_1499170310483_43"/>
+        <zone points="1048,1803 2042,1705 3017,1668 5149,1638 5150,1688 3018,1718 2045,1755 1052,1853" rendition="Line" xml:id="facs_1_line_1499170316314_44"/>
+        <zone points="989,1913 1938,1839 2784,1781 3609,1775 5005,1734 5006,1784 3610,1825 2786,1831 1941,1889 992,1963" rendition="Line" xml:id="facs_1_line_1499170323267_45"/>
+        <zone points="1062,2019 2067,1931 2954,1897 3694,1884 5069,1843 5070,1893 3695,1934 2955,1947 2070,1981 1066,2069" rendition="Line" xml:id="facs_1_line_1499170331003_46"/>
+        <zone points="1018,2131 1386,2090 1392,2140 1024,2181" rendition="Line" xml:id="facs_1_line_1531135935167_9"/>
+        <zone points="1321,2289 1660,2232 1668,2281 1329,2338" rendition="Line" xml:id="facs_1_line_1531133788304_2"/>
+        <zone points="1475,2078 2469,1998 3202,1965 4280,1961 5135,1941 5136,1991 4281,2011 3203,2015 2472,2048 1479,2128" rendition="Line" xml:id="facs_1_line_1531135948447_10"/>
+      </zone>
+      <zone points="1337,2954 1337,3320 1464,3320 1464,2954" rendition="TextRegion" xml:id="facs_1_region_1499170354159_50"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_2">
+      <graphic url="U-17_0504_v.jpg" width="7360" height="4912"/>
+      <zone points="4653,2966 5149,2966 5149,3371 4653,3371" rendition="TextRegion" xml:id="facs_2_region_1578570452640_1683" subtype="Dorsual_Textualis">
+        <zone points="5124,3223 4693,3153 4701,3104 5132,3174" rendition="Line" xml:id="facs_2_line_1578570456336_1686"/>
+      </zone>
+    <zone points="4780,1313 4240,1313 4240,2732 4780,2732" rendition="TextRegion" xml:id="facs_2_region_1606740655911_58" subtype="Dorsual_Regesta">
+        <zone points="4574,1360 4497,2637 4447,2634 4524,1357" rendition="Line" xml:id="facs_2_line_1606740661503_62"/>
+      </zone>
+      <zone points="2553,2287 3424,2287 3424,2922 2553,2922" rendition="TextRegion" xml:id="facs_2_region_1578570468700_1692" subtype="Dorsual_Sigle">
+        <zone points="2565,2734 3372,2737 3372,2787 2565,2784" rendition="Line" xml:id="facs_2_line_1578570472027_1695"/>
+      </zone>
+      <zone points="3978,1327 4451,1327 4451,2789 3978,2789" rendition="TextRegion" xml:id="facs_2_region_1606740706887_74" subtype="Datierung_Urkunde">
+        <zone points="4340,1439 4338,2723 4288,2723 4290,1439" rendition="Line" xml:id="facs_2_line_1606740721845_81"/>
+        <zone points="4093,2003 4133,2360 4083,2366 4043,2009" rendition="Line" xml:id="facs_2_line_1606740724050_86"/>
+      </zone>
+      <zone points="2407,1234 2964,1234 2964,1901 2407,1901" rendition="TextRegion" xml:id="facs_2_region_1578570367722_1637" subtype="Dorsual_Jahreszahl-Vier">
+        <zone points="2563,1245 2595,1806 2545,1809 2513,1248" rendition="Line" xml:id="facs_2_line_1578570371138_1640"/>
+      </zone>
+      <zone points="1957,1138 3378,1138 3378,820 1957,820" rendition="TextRegion" xml:id="facs_2_region_1578570350467_1616" subtype="Dorsual_StAAG">
+        <zone points="1995,982 3311,1042 3309,1092 1993,1032" rendition="Line" xml:id="facs_2_line_1578570353724_1619"/>
+      </zone>
+      <zone points="1487,2021 2265,2021 2265,1570 1487,1570" rendition="TextRegion" xml:id="facs_2_region_1578570357715_1624" subtype="Dorsual_StAAG-Stempel">
+        <zone points="1542,1764 2222,1751 2223,1801 1543,1814" rendition="Line" xml:id="facs_2_line_1578570361035_1627"/>
+        <zone points="1582,1898 2143,1879 2145,1929 1584,1948" rendition="Line" xml:id="facs_2_line_1578570364350_1632"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0504_r.0"/>
+      <p facs="#facs_1_region_1499170340800_48"/>
+      <p facs="#facs_1_region_1499170259645_38">
+        <lb facs="#facs_1_line_1499170268866_39" n="N001"/>
+                <persName ref="per005100">Re<choice>
+                        <abbr>vˀen</abbr>
+                        <expan>veren</expan>
+                    </choice>dis<choice>
+                        <abbr>sīo</abbr>
+                        <expan>simo</expan>
+                    </choice> in <choice>
+                        <abbr>xp̄o</abbr>
+                        <expan>Christo</expan>
+                    </choice> <choice>
+                        <abbr>pr̄i</abbr>
+                        <expan>patri</expan>
+                    </choice> ac <choice>
+                        <abbr>dn̄o</abbr>
+                        <expan>domino</expan>
+                    </choice> <choice>
+                        <abbr>dn̄o</abbr>
+                        <expan>domino</expan>
+                    </choice> Ottoni dei <choice>
+                        <abbr>gr̄a</abbr>
+                        <expan>gratia</expan>
+                    </choice> electo et <choice>
+                        <abbr>ꝯ</abbr>
+                        <expan>con</expan>
+                    </choice>
+                    <choice>
+                        <abbr>fˀ</abbr>
+                        <expan>fir</expan>
+                    </choice>mato Con<choice>
+                        <abbr>stan̄</abbr>
+                        <expan>stantiensi</expan>
+                    </choice>
+                </persName> <persName ref="per007207">soror Elysabeth <choice>
+                        <abbr>abb̄a</abbr>
+                        <expan>abbatissa</expan>
+                    </choice>
+                </persName>
+        <lb facs="#facs_1_line_1499170278250_40" n="N002"/>et <orgName ref="org002627">conven<choice>
+                        <abbr>tꝰ</abbr>
+                        <expan>tus</expan>
+                    </choice> monas<choice>
+                        <abbr>tˀii</abbr>
+                        <expan>terii</expan>
+                    </choice> in Kùngveld or<choice>
+                        <abbr>d̄is</abbr>
+                        <expan>dinis</expan>
+                    </choice> <choice>
+                        <abbr>Sc̄e</abbr>
+                        <expan>Sancte</expan>
+                    </choice> Clare<reg>,</reg> <choice>
+                        <abbr>dc̄e</abbr>
+                        <expan>dicte</expan>
+                    </choice> <choice>
+                        <abbr>Ꝯ</abbr>
+                        <expan>Con</expan>
+                    </choice>stan<choice>
+                        <abbr>tꝭ</abbr>
+                        <expan>tiensis</expan>
+                    </choice> dyo<choice>
+                        <abbr>cꝭ</abbr>
+                        <expan>cesis</expan>
+                    </choice>
+                </orgName>
+                <reg>,</reg> obe<choice>
+                    <abbr>dīaȝ</abbr>
+                    <expan>dientiam</expan>
+                </choice>
+                <reg>,</reg> debitam ac <choice>
+                    <abbr>dˀ</abbr>
+                    <expan>de</expan>
+                </choice>votam<reg>.</reg>
+        <lb facs="#facs_1_line_1499170287314_41" n="N003"/>pa<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice>nitati <choice>
+                    <abbr>vr̄e</abbr>
+                    <expan>vestre</expan>
+                </choice> ad <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>petuam vicariam <orgName ref="org004257">
+                    <choice>
+                        <abbr>ecc̄e</abbr>
+                        <expan>ecclesie</expan>
+                    </choice> in Stoͧffen</orgName> sitam citra oppi<choice>
+                    <abbr>dū</abbr>
+                    <expan>dum</expan>
+                </choice> <placeName ref="loc000482">Lentzburg</placeName> mense <choice>
+                    <abbr>nr̄e</abbr>
+                    <expan>nostre</expan>
+                </choice>
+        <lb facs="#facs_1_line_1531136155578_14" n="N004"/>
+                <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>ti<choice>
+                    <abbr>nē</abbr>
+                    <expan>nen</expan>
+                </choice>tem vacan<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice> <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice> libe<choice>
+                    <abbr>rā</abbr>
+                    <expan>ram</expan>
+                </choice> <choice>
+                    <abbr>rˀ</abbr>
+                    <expan>re</expan>
+                </choice>signa<choice>
+                    <abbr>t̄o</abbr>
+                    <expan>tio</expan>
+                </choice>nem
+        <lb facs="#facs_1_line_1542981094494_69" n="N005"/>
+                <persName ref="per014522">
+                    <add place="above">
+                        <choice>
+                            <abbr>dn̄i</abbr>
+                            <expan>domini</expan>
+                        </choice> <choice>
+                            <abbr>Cuͦrꝭ</abbr>
+                            <expan>Cuͦnradis</expan>
+                        </choice>
+                    </add>
+        <lb facs="#facs_1_line_1542981289126_102" n="N006"/>
+                    <del hand="strikethrough">Summer</del>
+        <lb facs="#facs_1_line_1531133791840_3" n="N007"/>
+                    <add place="bottom">Mursel</add>
+        <lb facs="#facs_1_line_1531136167948_15" n="N008"/>de Aro<hi rend="sup">w</hi> pri<choice>
+                        <abbr>dē</abbr>
+                        <expan>dem</expan>
+                    </choice> incurati</persName> <choice>
+                    <abbr>nūc</abbr>
+                    <expan>nunc</expan>
+                </choice> <persName ref="per014523">vi<choice>
+                        <abbr>rū</abbr>
+                        <expan>rum</expan>
+                    </choice> dis<choice>
+                        <abbr>cͤtum</abbr>
+                        <expan>cretum</expan>
+                    </choice>
+        <lb facs="#facs_1_line_1499170310483_43" n="N009"/>
+                    <choice>
+                        <abbr>mgr̄m</abbr>
+                        <expan>magistrum</expan>
+                    </choice> Walthe<choice>
+                        <abbr>rū</abbr>
+                        <expan>rum</expan>
+                    </choice> Fritag <choice>
+                        <abbr>pb̄rm</abbr>
+                        <expan>presbyterum</expan>
+                    </choice>
+                </persName> duxi<choice>
+                    <abbr>mꝰ</abbr>
+                    <expan>mus</expan>
+                </choice> presentan<choice>
+                    <abbr>dū</abbr>
+                    <expan>dum</expan>
+                </choice>
+                <reg>.</reg> rogan<choice>
+                    <abbr>tꝭ</abbr>
+                    <expan>tes</expan>
+                </choice> <choice>
+                    <abbr>ꝓ</abbr>
+                    <expan>pro</expan>
+                </choice> <choice>
+                    <abbr>ip̄o</abbr>
+                    <expan>ipso</expan>
+                </choice> ac <choice>
+                    <abbr>cū</abbr>
+                    <expan>cum</expan>
+                </choice> <choice>
+                    <abbr>ip̄o</abbr>
+                    <expan>ipso</expan>
+                </choice> humili<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice>
+                <reg>,</reg> <choice>
+                    <abbr>qt̄i</abbr>
+                    <expan>quatinus</expan>
+                </choice> <choice>
+                    <abbr>eū</abbr>
+                    <expan>eun</expan>
+                </choice>
+                <choice>
+                    <abbr>dē</abbr>
+                    <expan>dem</expan>
+                </choice>
+        <lb facs="#facs_1_line_1499170316314_44" n="N010"/>de cura <choice>
+                    <abbr>aīa</abbr>
+                    <expan>anima</expan>
+                </choice>
+                <choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> <choice>
+                    <abbr>ip̄i</abbr>
+                    <expan>ipsi</expan>
+                </choice>
+                <choice>
+                    <abbr>ꝰ</abbr>
+                    <expan>us</expan>
+                </choice> <choice>
+                    <abbr>ecc̄e</abbr>
+                    <expan>ecclesie</expan>
+                </choice> dig<choice>
+                    <abbr>nemī</abbr>
+                    <expan>nemini</expan>
+                </choice>
+                <reg>,</reg> solempni<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> investire ad <choice>
+                    <abbr>ꝯ</abbr>
+                    <expan>con</expan>
+                </choice>swe<choice>
+                    <abbr>tā</abbr>
+                    <expan>tam</expan>
+                </choice> et anti<choice>
+                    <abbr>quā</abbr>
+                    <expan>quam</expan>
+                </choice> preben<choice>
+                    <abbr>dā</abbr>
+                    <expan>dam</expan>
+                </choice>
+                <reg>,</reg> videli<choice>
+                    <abbr>cƺ</abbr>
+                    <expan>cet</expan>
+                </choice>
+        <lb facs="#facs_1_line_1499170323267_45" n="N011"/>
+                <measure>octo modio<choice>
+                        <abbr>ꝝ</abbr>
+                        <expan>rum</expan>
+                    </choice> <choice>
+                        <abbr>tʼ</abbr>
+                        <expan>tri</expan>
+                    </choice>tici</measure> ac obla<choice>
+                    <abbr>tōim</abbr>
+                    <expan>tionem</expan>
+                </choice> <choice>
+                    <abbr>rˀ</abbr>
+                    <expan>re</expan>
+                </choice>medio<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> anni<choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>sario<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> alia<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> <choice>
+                    <abbr>ꝓ</abbr>
+                    <expan>pro</expan>
+                </choice>ven<choice>
+                    <abbr>tōim</abbr>
+                    <expan>tionum</expan>
+                </choice> <choice>
+                    <abbr>cū</abbr>
+                    <expan>cum</expan>
+                </choice> acce<choice>
+                    <abbr>dn̄</abbr>
+                    <expan>den</expan>
+                </choice>ciis<reg>,</reg> que
+        <lb facs="#facs_1_line_1499170331003_46" n="N012"/>a subdi<choice>
+                    <abbr>tꝭ</abbr>
+                    <expan>tis</expan>
+                </choice> ei<choice>
+                    <abbr>ꝰ</abbr>
+                    <expan>us</expan>
+                </choice>
+                <choice>
+                    <abbr>d₎</abbr>
+                    <expan>dem</expan>
+                </choice> <choice>
+                    <abbr>ecc̄e</abbr>
+                    <expan>ecclesie</expan>
+                </choice> po<choice>
+                    <abbr>tˀunt</abbr>
+                    <expan>terunt</expan>
+                </choice> obvenire<reg>.</reg> in ho<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> evidentiam sigilla <choice>
+                    <abbr>nr̄a</abbr>
+                    <expan>nostra</expan>
+                </choice>
+                <reg>,</reg> videli<choice>
+                    <abbr>cƺ</abbr>
+                    <expan>cet</expan>
+                </choice> <choice>
+                    <abbr>abb̄e</abbr>
+                    <expan>abbatisse</expan>
+                </choice> et <choice>
+                    <abbr>ꝯ</abbr>
+                    <expan>con</expan>
+                </choice>ven<choice>
+                    <abbr>tꝰ</abbr>
+                    <expan>tus</expan>
+                </choice>
+        <lb facs="#facs_1_line_1531135935167_9" n="N013"/>duxi<choice>
+                    <abbr>mꝰ</abbr>
+                    <expan>mus</expan>
+                </choice>
+        <lb facs="#facs_1_line_1531133788304_2" n="N014"/>
+                <add place="below">
+                    <choice>
+                        <abbr>p̄n</abbr>
+                        <expan>presen</expan>
+                    </choice>ti<choice>
+                        <abbr>bꝰ</abbr>
+                        <expan>bus</expan>
+                    </choice>
+                </add>
+        <lb facs="#facs_1_line_1531135948447_10" n="N015"/>appendenda<reg>.</reg> da<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> loco <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>dicto <date when="1416-06-30">anno <choice>
+                        <abbr>dn̄i</abbr>
+                        <expan>domini</expan>
+                    </choice> mͦ ccccͦ xvj<reg>,</reg> in<choice>
+                        <abbr>f̃</abbr>
+                        <expan>fra</expan>
+                    </choice> octa<choice>
+                        <abbr>vā</abbr>
+                        <expan>vam</expan>
+                    </choice> <choice>
+                        <abbr>Pr̄i</abbr>
+                        <expan>Petri</expan>
+                    </choice> et Pauli <choice>
+                        <abbr>apl̄o</abbr>
+                        <expan>apostolo</expan>
+                    </choice>
+                    <choice>
+                        <abbr>ꝝ</abbr>
+                        <expan>rum</expan>
+                    </choice>
+                </date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_1_region_1499170354159_50"/>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0504_v"/>
+      <p facs="#facs_2_region_1578570452640_1683" rend="dorsual_15_textualis">
+        <lb facs="#facs_2_line_1578570456336_1686" n="N001"/>Stouffen</p>
+    <p facs="#facs_2_region_1606740655911_58" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1606740661503_62" n="N001"/>ein unùtze <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>sentatz <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1578570468700_1692" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1578570472027_1695" n="N001"/>K <reg type="star">✳</reg> T <reg type="star">✳</reg> 99 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1606740706887_74" rend="dorsual_28_datierung_urkunde">
+        <lb facs="#facs_2_line_1606740721845_81" n="N001"/>Petri et Pauli
+        <lb facs="#facs_2_line_1606740724050_86" n="N002"/>1416</p>
+      <p facs="#facs_2_region_1578570367722_1637" rend="dorsual_30_jahreszahl_4">
+        <lb facs="#facs_2_line_1578570371138_1640" n="N001"/>1<hi rend="underline">416</hi> <reg>.</reg>
+            </p>
+      <p facs="#facs_2_region_1578570350467_1616" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1578570353724_1619" n="N001"/>
+                <choice>
+                    <abbr>Konigsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 504</p>
+      <p facs="#facs_2_region_1578570357715_1624" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1578570361035_1627" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1578570364350_1632" n="N002"/>AARGAU</p>
+      </body>
+  </text>
+</TEI>

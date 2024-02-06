@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG AA/0428, fol. 6r</title>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="006r">StAAG AA/0428, fol. 6r</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG AA/0428 6r</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt"/>
+                <msItem>
+                  <filiation type="current">Abschrift aus Kopialbuch I, <idno xml:id="aa_0428">StAAG AA/0428, fol. 6r</idno>
+                                    </filiation>
+                  <note>leer</note>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="25"/>
+                        <height unit="cm" quantity="35"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1335-01-01">Ca. 1335</origDate>
+                  <origPlace ref=""/>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords/>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+        <surface ulx="0" uly="0" lrx="3328" lry="4992" xml:id="facs_15">
+      <graphic url="saa-0428_006r.jpg" width="3328" height="4992"/>
+      <zone points="2920,591 2995,591 2995,675 2920,675" rendition="TextRegion" xml:id="facs_15_region_1570702633456_385" subtype="Nummerierung_Boner">
+        <zone points="2925,624 2989,624 2989,674 2925,674" rendition="Line" xml:id="facs_15_line_1570702638621_388"/>
+      </zone>
+    </surface>
+    </facsimile>
+  <text>
+    <body>
+            <pb facs="#facs_15" n="fol. 6r" xml:id="img_0015" source="saa-0428_006r"/>
+      <p facs="#facs_15_region_1570702633456_385" rend="Nummerierung_Boner" type="marginal">
+        <lb facs="#facs_15_line_1570702638621_388" n="N001"/>6<ref target="/exist/apps/ssrq/docs/L_006r.xml?odd=ssrq-norm.odd">Da der Dokumenttext durch das Originaldokument vorhanden ist, ist der Text aus dem Kopialbuch nicht transkribiert worden. Durch diesen Link kommen Sie auf den Text des Originaldokuments.</ref>
+            </p>
+      </body>
+  </text>
+</TEI>

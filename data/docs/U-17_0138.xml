@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0138</title>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="mn">Michael Nadig</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0138</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0138</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Egidie von Rubiswil erklärt, dass sein Streit mit dem Kloster Königsfelden wegen der Güter zu Entfelden gütlich beigelegt worden sei und verzichtet deswegen auf alle Ansprache gegenüber dem Kloster.</summary>
+                <msItem>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="26"/>
+                        <height unit="cm" quantity="12.3"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="2.3"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1334-03-03">03. März 1334</origDate>
+                  <origPlace ref="">Aarau</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0138">
+            <msDesc>
+              <msIdentifier corresp="KB_1-AA_0428">
+                <idno>StAAG AA/0428, fol. 56r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0138">
+            <msDesc>
+              <msIdentifier corresp="KB_2-AA_0429">
+                <idno>StAAG AA/0429, fol. 222r-222v</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Konflikt</term>
+          <term>Verzicht</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="6983" lry="4737" xml:id="facs_1">
+      <graphic url="U-17_0138_r.jpg" width="6983" height="4737"/>
+      <zone points="1056,656 4987,656 4987,2303 1056,2303" rendition="TextRegion" xml:id="facs_1_region_1494403634561_349">
+        <zone points="1047,770 4690,822 4689,872 1046,820" rendition="Line" xml:id="facs_1_line_1494403639881_350"/>
+        <zone points="1124,883 4711,924 4710,974 1123,933" rendition="Line" xml:id="facs_1_line_1494403642931_351"/>
+        <zone points="1140,1001 4644,1047 4643,1097 1139,1051" rendition="Line" xml:id="facs_1_line_1494403645894_352"/>
+        <zone points="1139,1109 4643,1145 4643,1195 1139,1159" rendition="Line" xml:id="facs_1_line_1494403648847_353"/>
+        <zone points="1133,1237 4781,1268 4781,1318 1133,1287" rendition="Line" xml:id="facs_1_line_1494403652115_354"/>
+        <zone points="1109,1340 4813,1391 4812,1441 1108,1390" rendition="Line" xml:id="facs_1_line_1494403655505_355"/>
+        <zone points="1119,1463 4746,1509 4745,1559 1118,1513" rendition="Line" xml:id="facs_1_line_1494403658525_356"/>
+        <zone points="1118,1607 4802,1643 4802,1693 1118,1657" rendition="Line" xml:id="facs_1_line_1494403661195_357"/>
+        <zone points="1109,1699 4793,1771 4792,1821 1108,1749" rendition="Line" xml:id="facs_1_line_1494403664392_358"/>
+        <zone points="1150,1827 4839,1884 4838,1934 1149,1877" rendition="Line" xml:id="facs_1_line_1494403667414_359"/>
+        <zone points="1190,1956 4766,1981 4766,2031 1190,2006" rendition="Line" xml:id="facs_1_line_1494403670295_360"/>
+        <zone points="1200,2094 4740,2130 4740,2180 1200,2144" rendition="Line" xml:id="facs_1_line_1494403673587_361"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="6977" lry="4755" xml:id="facs_2">
+      <graphic url="U-17_0138_v.jpg" width="6977" height="4755"/>
+      <zone points="2286,1100 3285,1100 3285,1257 2286,1257" rendition="TextRegion" xml:id="facs_2_region_1546505104606_133" subtype="uber_2">
+        <zone points="2334,1168 3233,1168 3233,1218 2334,1218" rendition="Line" xml:id="facs_2_line_1546505107988_136"/>
+      </zone>
+      <zone points="3785,2332 4269,2332 4269,2502 3785,2502" rendition="TextRegion" xml:id="facs_2_region_1546505603515_232" subtype="Doppel">
+        <zone points="3812,2399 4254,2397 4254,2447 3812,2449" rendition="Line" xml:id="facs_2_line_1546505606750_235"/>
+      </zone>
+      <zone points="2872,2521 3623,2521 3623,2343 2872,2343" rendition="TextRegion" xml:id="facs_2_region_1546505063835_104" subtype="Auftakt">
+        <zone points="2888,2420 3608,2403 3609,2453 2889,2470" rendition="Line" xml:id="facs_2_line_1546505072338_108"/>
+      </zone>
+      <zone points="2294,517 3794,517 3788,1099 2288,1099" rendition="TextRegion" xml:id="facs_2_region_1535728139032_168" subtype="Dorsual_Regesta">
+        <zone points="2367,658 3689,614 3690,664 2368,708" rendition="Line" xml:id="facs_2_line_1546505114762_143"/>
+        <zone points="2392,802 3723,741 3725,791 2394,852" rendition="Line" xml:id="facs_2_line_1546505117458_148"/>
+        <zone points="2361,937 3701,863 3703,913 2363,987" rendition="Line" xml:id="facs_2_line_1546505119606_153"/>
+        <zone points="2876,1016 3597,981 3599,1031 2878,1066" rendition="Line" xml:id="facs_2_line_1546505121457_158"/>
+      </zone>
+      <zone points="2371,2180 3314,2180 3314,1237 2371,1237" rendition="TextRegion" xml:id="facs_2_region_1546505030060_79" subtype="Dorsual_Sigle">
+        <zone points="2775,1633 3229,1650 3227,1700 2773,1683" rendition="Line" xml:id="facs_2_line_1546505035988_82"/>
+        <zone points="2458,2034 3261,2017 3262,2067 2459,2084" rendition="Line" xml:id="facs_2_line_1546505037794_87"/>
+      </zone>
+      <zone points="1759,2343 2889,2343 2889,2509 1759,2509" rendition="TextRegion" xml:id="facs_2_region_1546505049739_96" subtype="Sammelschicht_vor">
+        <zone points="1802,2429 2858,2425 2858,2475 1802,2479" rendition="Line" xml:id="facs_2_line_1546505053635_99"/>
+      </zone>
+    <zone points="4312,2278 4635,2278 4635,2544 4312,2544" rendition="TextRegion" xml:id="facs_2_region_1546505085905_121" subtype="Zahl">
+        <zone points="4361,2442 4614,2446 4613,2496 4360,2492" rendition="Line" xml:id="facs_2_line_1546505089955_124"/>
+      </zone>
+      <zone points="2386,469 2695,469 2695,623 2386,623" rendition="TextRegion" xml:id="facs_2_region_1535727838442_163" subtype="Dorsual_Jahreszahl-Drei">
+        <zone points="2410,546 2673,554 2672,604 2409,596" rendition="Line" xml:id="facs_2_line_1535727841080_164"/>
+      </zone>
+      <zone points="859,452 2181,452 2181,804 859,804" rendition="TextRegion" xml:id="facs_2_region_1535727832440_161" subtype="Dorsual_StAAG">
+        <zone points="912,662 2149,647 2150,697 913,712" rendition="Line" xml:id="facs_2_line_1535727835208_162"/>
+      </zone>
+      <zone points="1238,1279 1988,1279 1988,1643 1238,1643" rendition="TextRegion" xml:id="facs_2_region_1535727843753_165" subtype="Dorsual_StAAG-Stempel">
+        <zone points="1307,1404 1922,1401 1922,1451 1307,1454" rendition="Line" xml:id="facs_2_line_1535727847316_166"/>
+        <zone points="1341,1544 1875,1532 1876,1582 1342,1594" rendition="Line" xml:id="facs_2_line_1535727848865_167"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0138_r"/>
+      <p facs="#facs_1_region_1494403634561_349">
+        <lb facs="#facs_1_line_1494403639881_350" n="N001"/>Ich<reg>,</reg> <persName ref="per013090">Egidie von Rubiswile</persName>
+                <reg>,</reg> vergihe und tuͦn chunt allen den<reg>,</reg> die disen brief ansehent oder hoͤrent
+        <lb facs="#facs_1_line_1494403642931_351" n="N002"/>lesen<reg>,</reg> <reg type="star">✳</reg> das ich umbe den stos und mishelli<reg>,</reg> so ich gen <orgName ref="org002627">den erwirdigen<reg>,</reg> geistlichen frowen<reg>,</reg> <reg type="star">✳</reg> <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1494403645894_352" n="N003"/>der epthissenn und <reg type="star">✳</reg> <reg type="star">✳</reg> dem convente ze Chùngesfelt<reg>,</reg> <reg type="star">✳</reg> Sant Claren ordens<reg>,</reg> in Costentzer
+        <lb facs="#facs_1_line_1494403648847_353" n="N004"/>bistuͦm</orgName>
+                <reg>,</reg> han gehebt und si gen mir von der guͤter wegen ze <placeName ref="loc009853">Endfelt</placeName> lieplich und guͤtlich
+        <lb facs="#facs_1_line_1494403652115_354" n="N005"/>mit in verrihtet bin<reg>.</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> da von<reg>,</reg> so <reg type="star">✳</reg> lob ich fùr mich und min erben <reg type="star">✳</reg> und fùr min frùnde
+        <lb facs="#facs_1_line_1494403655505_355" n="N006"/>und mage den vorgnanten geistlichen fro<choice>
+                    <abbr>wē</abbr>
+                    <expan>wen</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> das ich und min erben <reg type="star">✳</reg> niemer dehein ansprach
+        <lb facs="#facs_1_line_1494403658525_356" n="N007"/>zuͦ in sùllen han <reg type="star">✳</reg> umbe den schaden<reg>,</reg> <reg type="star">✳</reg> so ich von des stosses we<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice> han gehebet untz uf disen
+        <lb facs="#facs_1_line_1494403661195_357" n="N008"/>hùtigen tag<reg>,</reg> <reg type="star">✳</reg> weder an geistlichem noch an weltlichem gerihte noch usserthalb gerihtes<reg>.</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice>
+        <lb facs="#facs_1_line_1494403664392_358" n="N009"/>des zuͦ einem offenn<reg>,</reg> warem urchùnde<reg>,</reg> <reg type="star">✳</reg> so gib ich den vorgnanten frowen und nachko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> fùr
+        <lb facs="#facs_1_line_1494403667414_359" n="N010"/>mich und fùr min erben<reg>,</reg> <reg type="star">✳</reg> frùnde und mage disen brief<reg>,</reg> besigelt mit minem ingesigel<reg>,</reg> <reg type="star">✳</reg> der
+        <lb facs="#facs_1_line_1494403670295_360" n="N011"/>geben ist ze <placeName ref="loc000121">Arowe</placeName>
+                <reg>,</reg> <reg type="star">✳</reg> do man zalte <date when="1334-03-03">von Christes geburte drùcehenhundert jar<reg>,</reg> dar
+        <lb facs="#facs_1_line_1494403673587_361" n="N012"/>nach in dem vierden und drizigostem jar<reg>,</reg> an dem nechsten durnstag vor <reg type="star">✳</reg> mittervasten</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0138_v"/>
+      <p facs="#facs_2_region_1546505104606_133" rend="dorsual_04_uber_2">
+        <lb facs="#facs_2_line_1546505107988_136" n="N001"/>Egidien guͦt <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Rubiswile</p>
+      <p facs="#facs_2_region_1546505603515_232" rend="dorsual_06_doppel">
+        <lb facs="#facs_2_line_1546505606750_235" n="N001"/>
+                <reg type="star">✳</reg> iiij <reg type="star">✳</reg> brief</p>
+      <p facs="#facs_2_region_1546505063835_104" rend="dorsual_08_auftakt">
+        <lb facs="#facs_2_line_1546505072338_108" n="N001"/>von dez stozz der</p>
+      <p facs="#facs_2_region_1535728139032_168" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1546505114762_143" n="N001"/>ein <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>zichùng der anspra<choice>
+                    <abbr>chē</abbr>
+                    <expan>chen</expan>
+                </choice>
+        <lb facs="#facs_2_line_1546505117458_148" n="N002"/>so Egidi<choice>
+                    <abbr>ꝰ</abbr>
+                    <expan>us</expan>
+                </choice> <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Rùbenschwil
+        <lb facs="#facs_2_line_1546505119606_153" n="N003"/>an die guͤtter <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Endtvel<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice>
+        <lb facs="#facs_2_line_1546505121457_158" n="N004"/>gehept hat</p>
+      <p facs="#facs_2_region_1546505030060_79" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1546505035988_82" n="N001"/>K
+        <lb facs="#facs_2_line_1546505037794_87" n="N002"/>K 14</p>
+      <p facs="#facs_2_region_1546505049739_96" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1546505053635_99" n="N001"/>
+                <reg type="star">✳</reg> Egidiien guͦt <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Rubiswili <reg type="star">✳</reg>
+            </p>
+    <p facs="#facs_2_region_1546505085905_121" rend="dorsual_25_zahl">
+        <lb facs="#facs_2_line_1546505089955_124" n="N001"/>33</p>
+      <p facs="#facs_2_region_1535727838442_163" rend="dorsual_29_jahreszahl_3">
+        <lb facs="#facs_2_line_1535727841080_164" n="N001"/>334</p>
+      <p facs="#facs_2_region_1535727832440_161" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1535727835208_162" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 138</p>
+      <p facs="#facs_2_region_1535727843753_165" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1535727847316_166" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1535727848865_167" n="N002"/>AARGAU</p>
+      </body>
+  </text>
+</TEI>

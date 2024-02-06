@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG AA/0428, fol. 88r (Abschrift der Urk. 0121)</title>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="088r">StAAG AA/0428, fol. 88r (Abschrift der Urk. 0121)</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG AA/0428 88r</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt">Herzog Otto von Österreich vergabt dem Kloster Köngisfelden zu seinem Seelenheil auf Bitte der Königin Agnes von Ungarn, seiner Schwester, die Eigenschaft der Hofstatt zu Windisch bei der Chlosen.</summary>
+                <msItem>
+                  <filiation type="current">Abschrift aus Kopialbuch I, <idno xml:id="aa_0428">StAAG AA/0428, fol. 88r</idno>
+                                    </filiation>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="25"/>
+                        <height unit="cm" quantity="35"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1331-12-11">11. Dezember 1331</origDate>
+                  <origPlace ref="">Wien</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Schenkung</term>
+          <term>Seelenheil</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+        <surface ulx="0" uly="0" lrx="3328" lry="4992" xml:id="facs_179">
+      <graphic url="saa-0428_088r.jpg" width="3328" height="4992"/>
+      <zone points="89,2739 247,2739 247,2832 89,2832" rendition="TextRegion" xml:id="facs_179_region_1573128482597_2246" subtype="Stücknummer_Kopialbuch">
+        <zone points="93,2778 237,2776 238,2826 94,2828" rendition="Line" xml:id="facs_179_line_1573128489518_2252"/>
+      </zone>
+      <zone points="773,2742 1455,2747 1455,2909 1045,2911 1030,2836 774,2834" rendition="TextRegion" xml:id="facs_179_TextRegion_1573128704962_2286" subtype="Paratext">
+        <zone points="789,2752 805,2754 805,2755 815,2774 819,2774 967,2753 1119,2753 1123,2754 1124,2754 1129,2758 1132,2764 1194,2777 1197,2786 1201,2786 1226,2759 1306,2758 1322,2759 1328,2759 1331,2760 1348,2760 1380,2761 1385,2761 1412,2762 1445,2822 1445,2826 1442,2833 1315,2858 1173,2839 1030,2839 1030,2836 789,2834" rendition="Line" xml:id="facs_179_line_1573128692423_2280"/>
+        <zone points="1042,2840 1168,2840 1264,2856 1301,2856 1304,2857 1324,2857 1434,2909 1045,2911 1042,2896" rendition="Line" xml:id="facs_179_line_1573128692424_2282"/>
+      </zone>
+      <zone points="98,2841 218,2841 218,2933 98,2933" rendition="TextRegion" xml:id="facs_179_region_1573128484613_2249" subtype="Signaturverweis_Boner">
+        <zone points="100,2872 185,2872 185,2922 100,2922" rendition="Line" xml:id="facs_179_line_1573128491485_2257"/>
+      </zone>
+      <zone points="178,2832 1030,2836 1045,2911 1455,2909 1455,4109 178,4116" rendition="TextRegion" xml:id="facs_179_TextRegion_1573128692290_2274" subtype="Paragraph">
+        <zone points="517,2842 1030,2840 1042,2895 1042,2932 728,2948 475,2934 473,2931 473,2929 473,2908 482,2858" rendition="Line" xml:id="facs_179_line_1573128692425_2283"/>
+        <zone points="1183,2927 733,2949 732,2949 731,2948 723,2948 592,2933 486,2936 474,2942 464,2996 464,3002 467,3010 477,3022 581,3021 656,3036 724,3016 729,3016 737,3032 969,3016 1053,3030 1289,3016 1293,3021 1297,3023 1353,3022 1375,2987 1376,2972 1373,2959 1369,2948 1355,2947 1351,2953 1345,2953 1330,2942 1328,2942 1317,2941 1299,2941 1296,2940 1247,2954 1242,2954 1225,2933 1223,2933 1216,2932 1205,2932 1196,2931 1190,2931 1184,2927" rendition="Line" xml:id="facs_179_r1028_1_0_1_0"/>
+        <zone points="1287,3016 1054,3031 1052,3031 969,3017 750,3032 747,3032 729,3017 658,3037 653,3037 581,3022 417,3022 414,3021 305,3024 280,3038 274,3059 275,3064 349,3102 485,3114 559,3098 564,3099 566,3116 569,3117 587,3117 663,3117 737,3119 927,3102 1012,3117 1345,3087 1351,3071 1351,3057 1349,3047 1288,3017" rendition="Line" xml:id="facs_179_r1029_1_0_1_0"/>
+        <zone points="317,3098 310,3110 317,3171 319,3180 612,3194 780,3178 987,3181 1015,3193 1045,3194 1102,3183 1436,3185 1445,3175 1445,3169 1424,3109 1378,3108 1329,3108 1255,3100 1014,3118 1011,3118 991,3106 973,3106 792,3105 737,3120 735,3120 663,3118 659,3118 592,3117 568,3118 565,3116 566,3103 566,3101 565,3101 555,3100 486,3115 484,3115 318,3098" rendition="Line" xml:id="facs_179_r1030_1_0_1_0"/>
+        <zone points="778,3179 612,3195 610,3195 442,3182 324,3192 309,3213 308,3222 323,3257 323,3258 440,3262 560,3284 666,3285 693,3268 850,3266 1111,3272 1172,3257 1258,3255 1336,3249 1348,3243 1354,3219 1354,3208 1351,3197 1347,3188 1315,3187 1180,3187 1156,3186 1115,3186 1095,3185 1045,3195 1044,3195 1015,3194 1012,3194 987,3182 824,3182 814,3182 779,3179" rendition="Line" xml:id="facs_179_r1031_1_0_1_0"/>
+        <zone points="1169,3265 850,3267 693,3269 668,3286 664,3286 560,3285 557,3285 440,3267 322,3278 308,3303 307,3311 307,3313 331,3343 598,3370 782,3351 1349,3352 1377,3305 1377,3301 1363,3281 1362,3281 1353,3280 1330,3280 1308,3279 1300,3279 1274,3270 1272,3270 1270,3289 1269,3292 1262,3292 1256,3276 1252,3276 1170,3265" rendition="Line" xml:id="facs_179_r1033_1_0_1_0"/>
+        <zone points="318,3352 313,3353 305,3370 305,3376 319,3429 405,3450 766,3435 963,3440 1183,3443 1253,3463 1368,3427 1374,3414 1367,3382 1289,3355 975,3355 965,3354 898,3354 889,3353 789,3353 781,3352 598,3371 596,3371 392,3352 319,3352" rendition="Line" xml:id="facs_179_r1034_1_0_1_0"/>
+        <zone points="764,3436 320,3446 307,3462 306,3473 357,3541 542,3528 784,3548 815,3546 842,3519 847,3519 1192,3537 1345,3520 1358,3500 1356,3480 1352,3469 1341,3452 1338,3452 1334,3451 1254,3464 1251,3464 1183,3444 971,3444 955,3443 892,3443 884,3443 765,3436" rendition="Line" xml:id="facs_179_r1035_1_0_1_0"/>
+        <zone points="842,3520 821,3545 808,3545 794,3544 785,3549 782,3549 736,3526 364,3543 361,3543 334,3529 322,3530 310,3592 310,3599 314,3606 1368,3610 1433,3610 1443,3610 1444,3610 1445,3605 1412,3535 1411,3535 1387,3534 1295,3534 1260,3533 1162,3533 1126,3532 1064,3532 1056,3532 843,3520" rendition="Line" xml:id="facs_179_r1036_1_0_1_0"/>
+        <zone points="644,3607 545,3609 340,3617 322,3641 318,3666 318,3672 319,3677 383,3700 412,3688 806,3710 854,3707 883,3693 1066,3694 1217,3707 1412,3677 1419,3664 1417,3642 1416,3636 1409,3625 974,3610 843,3610 834,3609 659,3609 645,3607" rendition="Line" xml:id="facs_179_r1037_1_0_1_0"/>
+        <zone points="408,3694 313,3701 305,3717 311,3752 319,3765 451,3774 1132,3774 1287,3767 1322,3765 1354,3736 1355,3728 1355,3726 1307,3699 1219,3708 1216,3708 1066,3695 890,3695 881,3694 854,3707 850,3707 814,3706 806,3711 804,3711 504,3694 409,3694" rendition="Line" xml:id="facs_179_r1038_1_0_1_0"/>
+        <zone points="394,3776 368,3777 320,3793 313,3813 313,3819 324,3839 408,3870 538,3854 578,3872 581,3872 582,3857 587,3854 726,3872 800,3859 911,3857 1041,3860 1052,3874 1216,3872 1238,3858 1377,3855 1390,3835 1390,3814 1387,3805 1281,3780 720,3780 703,3779 498,3779 452,3779 395,3776" rendition="Line" xml:id="facs_179_r1039_1_0_1_0"/>
+        <zone points="536,3855 409,3871 405,3871 316,3861 308,3871 308,3877 315,3919 316,3927 688,3951 712,3938 928,3952 1063,3950 1314,3944 1352,3942 1398,3910 1399,3903 1399,3901 1390,3888 1325,3865 1262,3865 1228,3864 1224,3871 1208,3871 1062,3870 1054,3875 1052,3875 1046,3865 911,3858 800,3860 758,3860 745,3859 730,3872 721,3872 587,3855 584,3856 583,3871 570,3871 537,3855" rendition="Line" xml:id="facs_179_r1040"/>
+        <zone points="710,3939 688,3952 687,3952 678,3942 421,3942 412,3941 374,3945 337,3953 325,4008 325,4013 333,4022 554,4044 1309,4037 1357,4035 1364,4007 1362,3994 1357,3986 1101,3949 992,3949 972,3948 928,3953 925,3953 711,3939" rendition="Line" xml:id="facs_179_r1041"/>
+      </zone>
+      <zone points="1420,613 2709,607 2709,1172 2069,1172 2079,1244 1958,1241 1936,1241 1420,1250" rendition="TextRegion" xml:id="facs_179_TextRegion_1573129173741_2393" subtype="Paragraph">
+        <zone points="2429,639 1563,648 1515,654 1499,694 1503,719 1504,725 1518,739 1761,733 1933,734 2078,733 2153,755 2155,755 2160,735 2317,734 2479,745 2555,714 2556,685 2550,673 2430,639" rendition="Line" xml:id="facs_179_r1001"/>
+        <zone points="2075,734 1757,736 1548,740 1516,752 1505,799 1506,805 1574,850 1816,817 1948,821 2025,820 2113,820 2238,823 2302,853 2343,823 2445,820 2553,819 2570,777 2570,772 2569,765 2560,746 2528,745 2452,746 2439,746 2317,735 2164,735 2160,736 2158,753 2158,754 2148,754 2076,734" rendition="Line" xml:id="facs_179_r1002"/>
+        <zone points="1814,818 1578,852 1577,852 1525,832 1455,901 1455,906 1455,908 1467,921 1769,907 1829,909 2082,907 2084,911 2084,919 2084,930 2133,934 2141,924 2549,897 2563,875 2558,850 2548,833 2546,833 2540,832 2534,832 2522,831 2505,831 2501,830 2465,830 2445,821 2352,822 2304,854 2300,854 2238,824 2143,824 2082,823 2055,823 2005,822 1973,822 1915,821 1861,821 1815,818" rendition="Line" xml:id="facs_179_r1003"/>
+        <zone points="1767,908 1512,923 1455,990 1455,996 1462,1005 1952,1011 1988,1023 2285,1020 2551,990 2561,994 2592,940 2592,934 2582,918 2496,918 2476,917 2427,917 2423,916 2225,916 2213,916 2153,915 2135,935 2130,935 2087,929 2085,929 2084,911 2083,909 2070,908 1768,908" rendition="Line" xml:id="facs_179_r1004"/>
+        <zone points="2534,1006 2285,1021 2282,1021 1995,1020 1988,1024 1986,1024 1952,1012 1620,1012 1615,1011 1509,1012 1455,1076 1455,1082 1531,1116 1538,1104 1545,1094 1709,1098 1712,1092 1712,1091 1715,1088 1783,1099 1808,1127 1812,1127 1829,1101 1911,1090 2330,1082 2539,1082 2549,1081 2560,1048 2559,1034 2535,1006" rendition="Line" xml:id="facs_179_r1005"/>
+        <zone points="1503,1105 1509,1106 1517,1116 1534,1116 1545,1095 1551,1096 1646,1096 1683,1097 1711,1097 1711,1096 1714,1090 1794,1110 1806,1127 1814,1127 1838,1098 1910,1091 2327,1083 2328,1083 2358,1086 2522,1086 2584,1095 2607,1095 2689,1138 2689,1140 2689,1172 2198,1172 2129,1159 2118,1158 2029,1160 2023,1183 1950,1193 1789,1162 1703,1193 1628,1163 1610,1169 1605,1195 1593,1196 1583,1197 1574,1196 1501,1139 1499,1122" rendition="Line" xml:id="facs_179_line_1573129020717_2382"/>
+        <zone points="1455,1244 1526,1178 1530,1179 1551,1179 1575,1198 1583,1198 1601,1194 1614,1167 1628,1164 1702,1191 1703,1191 1791,1163 1949,1194 1950,1194 1971,1179 2005,1180 2011,1180 2014,1181 2027,1181 2030,1160 2033,1160 2043,1159 2068,1159 2068,1243 1958,1241 1957,1247 1455,1250 1455,1249" rendition="Line" xml:id="facs_179_line_1573129173905_2396"/>
+      </zone>
+      </surface>
+    </facsimile>
+  <text>
+    <body>
+            <pb facs="#facs_179" n="fol. 88r" xml:id="img_0179" source="saa-0428_088r"/>
+      <p facs="#facs_179_region_1573128482597_2246" rend="Stücknummer_Kopialbuch" type="marginal">
+        <lb facs="#facs_179_line_1573128489518_2252" n="N001"/>c <reg type="star">✳</reg> xlv <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_179_TextRegion_1573128704962_2286">
+        <lb facs="#facs_179_line_1573128692423_2280" n="N001"/>
+                <hi rend="rubricated">Ùber die <placeName ref="loc013395">Closen ze</placeName>
+        <lb facs="#facs_179_line_1573128692424_2282" n="N002"/>
+                    <placeName ref="loc013395">Windesch</placeName>
+                    <reg>.</reg>
+                </hi>
+            </p>
+      <p facs="#facs_179_region_1573128484613_2249" rend="Signaturverweis_Boner" type="marginal">
+        <lb facs="#facs_179_line_1573128491485_2257" n="N001"/>121</p>
+      <p facs="#facs_179_TextRegion_1573128692290_2274">
+        
+        <lb facs="#facs_179_line_1573128692425_2283" n="N001"/>
+        
+        <lb facs="#facs_179_r1028" n="N002"/>
+        
+        <lb facs="#facs_179_r1029" n="N003"/>
+        
+        <lb facs="#facs_179_r1030" n="N004"/>
+        
+        <lb facs="#facs_179_r1031" n="N005"/>
+        
+        <lb facs="#facs_179_r1033" n="N006"/>
+        
+        <lb facs="#facs_179_r1034" n="N007"/>
+        
+        <lb facs="#facs_179_r1035" n="N008"/>
+        
+        <lb facs="#facs_179_r1036" n="N009"/>
+        
+        <lb facs="#facs_179_r1037" n="N010"/>
+        
+        <lb facs="#facs_179_r1038" n="N011"/>
+        
+        <lb facs="#facs_179_r1039" n="N012"/>
+        
+        <lb facs="#facs_179_r1040" n="N013"/>
+        
+        <lb facs="#facs_179_r1041" n="N014"/>
+      </p>
+      <p facs="#facs_179_TextRegion_1573129173741_2393">
+        
+        <lb facs="#facs_179_r1001" n="N001"/>
+        
+        <lb facs="#facs_179_r1002" n="N002"/>
+        
+        <lb facs="#facs_179_r1003" n="N003"/>
+        
+        <lb facs="#facs_179_r1004" n="N004"/>
+        
+        <lb facs="#facs_179_r1005" n="N005"/>
+        
+        <lb facs="#facs_179_line_1573129020717_2382" n="N006"/>
+        
+        <lb facs="#facs_179_line_1573129173905_2396" n="N007"/>
+      <ref target="/exist/apps/ssrq/docs/U-17_0121.xml?odd=ssrq-norm.odd">Da der Dokumenttext durch das Originaldokument vorhanden ist, ist der Text aus dem Kopialbuch nicht transkribiert worden. Durch diesen Link kommen Sie auf den Text des Originaldokuments.</ref>
+            </p>
+      </body>
+  </text>
+</TEI>

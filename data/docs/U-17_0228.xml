@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0228</title>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="hm">Helena Müller</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="fh">Fabian Henggeler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0228</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0228</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt">Abt Heinrich und der Konvent des Klosters Einsiedeln teilen Bischof Ulrich von Konstanz mit, dass sie den Dinghof von Erlinsbach mit allen Zugehörigkeiten an die Klarissen von Königsfelden verkauft hätten und ersuchen um Genehmigung dieses Verkaufs (Genehmigung, siehe StAAG, U.17/0233).</summary>
+                <msItem>
+                  <textLang>Latein</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="22.4"/>
+                        <height unit="cm" quantity="14.9"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="2.5"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1349-08-26">26. August 1349</origDate>
+                  <origPlace ref="">Einsiedeln</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Kaufgeschäft</term>
+          <term>Gesuch</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_1">
+      <graphic url="U-17_0228_r.jpg" width="7360" height="4912"/>
+      <zone points="2159,517 4779,517 4779,2118 2159,2118" rendition="TextRegion" xml:id="facs_1_region_1513084892510_7">
+        <zone points="2260,749 2375,745 2491,743 2606,739 2722,737 2837,733 2953,731 3069,727 3184,725 3300,724 3415,723 3531,721 3646,719 3762,719 3878,719 3993,721 4109,721 4224,723 4340,725 4456,729 4456,671 4340,667 4224,665 4109,663 3993,663 3878,661 3762,661 3646,661 3531,663 3415,665 3300,666 3184,667 3069,669 2953,673 2837,675 2722,679 2606,681 2491,685 2375,687 2260,691" rendition="Line" xml:id="facs_1_region_1513084892510_7l1"/>
+        <zone points="2302,835 2414,834 2527,831 2640,829 2753,825 2866,821 2979,817 3092,813 3205,810 3318,807 3431,804 3544,801 3657,799 3770,799 3883,797 3996,799 4109,801 4222,803 4335,807 4448,813 4448,755 4335,749 4222,745 4109,743 3996,741 3883,739 3770,741 3657,741 3544,743 3431,746 3318,749 3205,752 3092,755 2979,759 2866,763 2753,767 2640,771 2527,773 2414,776 2302,777" rendition="Line" xml:id="facs_1_region_1513084892510_7l2"/>
+        <zone points="2296,915 2408,915 2520,912 2632,910 2744,907 2857,905 2969,901 3081,897 3193,895 3305,891 3418,889 3530,885 3642,883 3754,881 3866,879 3959,876 4071,876 4203,875 4315,875 4428,877 4428,819 4315,817 4203,817 4091,819 3979,819 3866,821 3754,823 3642,825 3530,827 3418,831 3305,833 3193,837 3081,839 2969,843 2857,847 2744,849 2632,852 2520,854 2408,857 2296,857" rendition="Line" xml:id="facs_1_region_1513084892510_7l3"/>
+        <zone points="2302,997 2414,995 2526,993 2638,991 2750,989 2862,986 2974,983 3086,979 3198,977 3310,973 3422,969 3534,967 3646,964 3758,961 3870,961 3982,959 4094,959 4206,957 4318,959 4430,961 4430,903 4318,901 4206,899 4094,901 3982,901 3870,903 3758,903 3646,906 3534,909 3422,911 3310,915 3198,919 3086,921 2974,925 2862,928 2750,931 2638,933 2526,935 2414,937 2302,939" rendition="Line" xml:id="facs_1_region_1513084892510_7l4"/>
+        <zone points="2294,1081 2407,1079 2521,1077 2635,1075 2749,1071 2862,1067 2976,1065 3090,1061 3204,1057 3318,1053 3431,1050 3545,1045 3659,1043 3773,1039 3887,1037 4000,1033 4114,1031 4228,1031 4342,1029 4456,1029 4456,972 4342,972 4228,974 4114,974 4000,976 3887,980 3773,982 3659,986 3545,988 3431,993 3318,996 3204,1000 3090,1004 2976,1008 2862,1010 2749,1014 2635,1018 2521,1020 2407,1022 2294,1024" rendition="Line" xml:id="facs_1_region_1513084892510_7l5"/>
+        <zone points="2296,1160 2408,1158 2520,1155 2632,1152 2744,1150 2857,1148 2969,1145 3081,1142 3193,1138 3305,1136 3418,1132 3530,1128 3642,1126 3754,1122 3866,1119 3979,1116 4091,1112 4203,1110 4315,1106 4428,1104 4428,1049 4315,1051 4203,1055 4091,1057 3979,1061 3866,1064 3754,1067 3642,1071 3530,1073 3418,1077 3305,1081 3193,1083 3081,1087 2969,1090 2857,1093 2744,1095 2632,1097 2520,1100 2408,1103 2296,1105" rendition="Line" xml:id="facs_1_region_1513084892510_7l6"/>
+        <zone points="2292,1236 2407,1236 2523,1234 2638,1232 2754,1230 2869,1226 2985,1224 3101,1220 3216,1216 3332,1214 3447,1210 3563,1207 3678,1204 3794,1200 3910,1196 4025,1194 4141,1190 4256,1188 4372,1186 4488,1184 4488,1129 4372,1131 4256,1133 4141,1135 4025,1139 3910,1141 3794,1145 3678,1149 3563,1152 3447,1155 3332,1159 3216,1161 3101,1165 2985,1169 2869,1171 2754,1175 2638,1177 2523,1179 2407,1181 2292,1181" rendition="Line" xml:id="facs_1_region_1513084892510_7l7"/>
+        <zone points="2280,1313 2396,1313 2512,1311 2628,1309 2744,1307 2861,1305 2977,1303 3093,1300 3209,1297 3325,1295 3442,1291 3558,1287 3674,1285 3790,1282 3906,1279 4023,1277 4139,1275 4255,1273 4371,1273 4488,1273 4488,1216 4371,1216 4255,1216 4139,1218 4023,1220 3906,1222 3790,1225 3674,1228 3558,1230 3442,1234 3325,1238 3209,1240 3093,1243 2977,1246 2861,1248 2744,1250 2628,1252 2512,1254 2396,1256 2280,1256" rendition="Line" xml:id="facs_1_region_1513084892510_7l8"/>
+        <zone points="2294,1389 2406,1391 2519,1391 2631,1391 2744,1389 2857,1387 2969,1385 3082,1382 3195,1379 3307,1376 3420,1373 3532,1369 3645,1365 3758,1363 3870,1359 3983,1357 4096,1354 4208,1351 4321,1349 4434,1349 4434,1291 4321,1291 4208,1293 4096,1296 3983,1299 3870,1301 3758,1305 3645,1307 3532,1311 3420,1315 3307,1318 3195,1321 3082,1324 2969,1327 2857,1329 2744,1331 2631,1333 2519,1333 2406,1333 2294,1331" rendition="Line" xml:id="facs_1_region_1513084892510_7l9"/>
+        <zone points="2292,1483 2405,1481 2519,1481 2633,1479 2746,1477 2860,1475 2974,1473 3087,1469 3201,1467 3315,1465 3428,1461 3542,1459 3656,1456 3769,1453 3883,1450 3997,1447 4110,1445 4224,1441 4338,1439 4452,1437 4452,1379 4338,1381 4224,1383 4110,1387 3997,1389 3883,1392 3769,1395 3656,1398 3542,1401 3428,1403 3315,1407 3201,1409 3087,1411 2974,1415 2860,1417 2746,1419 2633,1421 2519,1423 2405,1423 2292,1425" rendition="Line" xml:id="facs_1_region_1513084892510_7l10"/>
+        <zone points="2304,1569 2418,1567 2532,1563 2646,1561 2760,1559 2875,1557 2989,1553 3103,1551 3217,1550 3331,1547 3446,1545 3560,1543 3674,1541 3788,1539 3902,1536 4017,1533 4131,1531 4245,1527 4359,1523 4474,1519 4474,1461 4359,1465 4245,1469 4131,1473 4017,1475 3902,1478 3788,1481 3674,1483 3560,1485 3446,1487 3331,1489 3217,1492 3103,1493 2989,1495 2875,1499 2760,1501 2646,1503 2532,1505 2418,1509 2304,1511" rendition="Line" xml:id="facs_1_region_1513084892510_7l11"/>
+        <zone points="2278,1655 2394,1653 2510,1650 2626,1649 2743,1647 2859,1644 2975,1641 3092,1639 3208,1637 3324,1635 3441,1632 3557,1629 3673,1627 3790,1623 3906,1620 4022,1616 4139,1612 4255,1607 4371,1603 4488,1599 4488,1541 4371,1545 4255,1549 4139,1554 4022,1558 3906,1562 3790,1565 3673,1569 3557,1571 3441,1574 3324,1577 3208,1579 3092,1581 2975,1583 2859,1586 2743,1589 2626,1591 2510,1592 2394,1595 2278,1597" rendition="Line" xml:id="facs_1_region_1513084892510_7l12"/>
+        <zone points="2294,1731 2409,1731 2524,1731 2640,1729 2755,1727 2870,1725 2986,1723 3101,1721 3216,1719 3332,1717 3447,1715 3563,1712 3678,1709 3793,1707 3909,1705 4024,1701 4139,1699 4255,1697 4370,1694 4486,1691 4486,1633 4370,1636 4255,1639 4139,1641 4024,1643 3909,1647 3793,1649 3678,1651 3563,1654 3447,1657 3332,1659 3216,1661 3101,1663 2986,1665 2870,1667 2755,1669 2640,1671 2524,1673 2409,1673 2294,1673" rendition="Line" xml:id="facs_1_region_1513084892510_7l13"/>
+        <zone points="2282,1817 2397,1815 2513,1813 2628,1813 2744,1811 2859,1809 2975,1807 3091,1805 3206,1803 3322,1801 3437,1798 3553,1795 3668,1793 3784,1791 3900,1788 4015,1785 4131,1782 4246,1779 4362,1776 4478,1773 4478,1715 4362,1718 4246,1721 4131,1724 4015,1727 3900,1730 3784,1733 3668,1735 3553,1737 3437,1740 3322,1743 3206,1745 3091,1747 2975,1749 2859,1751 2744,1753 2628,1755 2513,1755 2397,1757 2282,1759" rendition="Line" xml:id="facs_1_region_1513084892510_7l14"/>
+        <zone points="2262,1901 2370,1901 2478,1899 2587,1896 2695,1893 2804,1891 2912,1887 3020,1885 3129,1881 3237,1879 3346,1877 3454,1874 3563,1873 3671,1871 3779,1871 3888,1871 3996,1871 4105,1873 4213,1877 4322,1881 4322,1823 4213,1819 4105,1815 3996,1813 3888,1813 3779,1813 3671,1813 3563,1815 3454,1816 3346,1819 3237,1821 3129,1823 3020,1827 2912,1829 2804,1833 2695,1835 2587,1838 2478,1841 2370,1843 2262,1843" rendition="Line" xml:id="facs_1_region_1513084892510_7l15"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_2">
+      <graphic url="U-17_0228_v.jpg" width="7360" height="4912"/>
+      <zone points="3865,1696 3398,1696 3398,1865 3865,1865" rendition="TextRegion" xml:id="facs_2_region_1578567774568_890" subtype="uber_2">
+        <zone points="3834,1778 3414,1790 3413,1740 3833,1728" rendition="Line" xml:id="facs_2_line_1578567777797_893"/>
+      </zone>
+      <zone points="3749,1787 3201,1787 3201,1945 3749,1945" rendition="TextRegion" xml:id="facs_2_region_1578567763986_881" subtype="Rechnungsbuch">
+        <zone points="3735,1840 3222,1896 3216,1846 3729,1790" rendition="Line" xml:id="facs_2_line_1578567771176_885"/>
+      </zone>
+      <zone points="3051,1727 3395,1727 3395,1861 3051,1861" rendition="TextRegion" xml:id="facs_2_region_1578567780823_898" subtype="Brief">
+        <zone points="3398,1812 3081,1817 3080,1767 3397,1762" rendition="Line" xml:id="facs_2_line_1578567785097_901"/>
+      </zone>
+    <zone points="3202,1275 3822,1275 3822,1679 3202,1679" rendition="TextRegion" xml:id="facs_2_region_1578567146151_850" subtype="Dorsual_Sigle">
+        <zone points="3291,1448 3517,1463 3514,1513 3288,1498" rendition="Line" xml:id="facs_2_line_1578567162342_853"/>
+        <zone points="3284,1595 3771,1562 3774,1612 3287,1645" rendition="Line" xml:id="facs_2_line_1578567165808_858"/>
+      </zone>
+      <zone points="2891,329 4063,329 4063,606 2891,606" rendition="TextRegion" xml:id="facs_2_region_1578566624166_816" subtype="Dorsual_StAAG">
+        <zone points="2928,458 4003,458 4003,508 2928,508" rendition="Line" xml:id="facs_2_line_1578566627272_819"/>
+      </zone>
+      <zone points="3067,924 3606,924 3606,1239 3067,1239" rendition="TextRegion" xml:id="facs_2_region_1578566632254_825" subtype="Dorsual_StAAG-Stempel">
+        <zone points="3109,1040 3542,1027 3543,1077 3110,1090" rendition="Line" xml:id="facs_2_line_1578566635218_828"/>
+        <zone points="3161,1128 3518,1125 3518,1175 3161,1178" rendition="Line" xml:id="facs_2_line_1578566636896_833"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0228_r"/>
+      <p facs="#facs_1_region_1513084892510_7">
+        <lb facs="#facs_1_region_1513084892510_7l1" n="N001"/>
+                <persName ref="per014150">Re<choice>
+                        <abbr>vˀen</abbr>
+                        <expan>veren</expan>
+                    </choice>do in <choice>
+                        <abbr>xp̄o</abbr>
+                        <expan>Christo</expan>
+                    </choice> pa<choice>
+                        <abbr>tˀ</abbr>
+                        <expan>tri</expan>
+                    </choice> ac <choice>
+                        <abbr>dn̄o</abbr>
+                        <expan>domino</expan>
+                    </choice> <reg type="star">✳</reg> <choice>
+                        <abbr>doīo</abbr>
+                        <expan>domino</expan>
+                    </choice> Uͦl<choice>
+                        <abbr>rˀ</abbr>
+                        <expan>rico</expan>
+                    </choice> dei <choice>
+                        <abbr>gr̄a</abbr>
+                        <expan>gratia</expan>
+                    </choice> <choice>
+                        <abbr>ep̄o</abbr>
+                        <expan>episcopo</expan>
+                    </choice> Constanti<choice>
+                        <abbr>en̄̄</abbr>
+                        <expan>ensi</expan>
+                    </choice>
+                </persName> <reg type="star">✳</reg> <persName ref="per004915">Heinrici
+        <lb facs="#facs_1_region_1513084892510_7l2" n="N002"/>mi<choice>
+                        <abbr>sˀa</abbr>
+                        <expan>sera</expan>
+                    </choice>
+                    <choice>
+                        <abbr>tōe</abbr>
+                        <expan>tione</expan>
+                    </choice> divina abbas</persName> <orgName ref="org000577">totus<choice>
+                        <abbr>qƺ</abbr>
+                        <expan>que</expan>
+                    </choice> conventus <reg type="star">✳</reg> <choice>
+                        <abbr>monˀ</abbr>
+                        <expan>monasterii</expan>
+                    </choice> loci Heremita<choice>
+                        <abbr>ꝝ</abbr>
+                        <expan>rum</expan>
+                    </choice> <reg type="star">✳</reg> or<choice>
+                        <abbr>dīs</abbr>
+                        <expan>dinis</expan>
+                    </choice> <choice>
+                        <abbr>Sc̄i</abbr>
+                        <expan>Sancti</expan>
+                    </choice> <choice>
+                        <abbr>Bn̄</abbr>
+                        <expan>Bene</expan>
+                    </choice>
+                    <choice>
+                        <abbr>dc̄i</abbr>
+                        <expan>dicti</expan>
+                    </choice>
+        <lb facs="#facs_1_region_1513084892510_7l3" n="N003"/>sue dyo<choice>
+                        <abbr>cꝭ</abbr>
+                        <expan>cesis</expan>
+                    </choice>
+                </orgName> re<choice>
+                    <abbr>vˀen</abbr>
+                    <expan>veren</expan>
+                </choice>tiam <reg type="star">✳</reg> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>ob̄di</abbr>
+                    <expan>obedienti</expan>
+                </choice>am <reg type="star">✳</reg> debitas <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>ꝯ</abbr>
+                    <expan>con</expan>
+                </choice>dignas<reg>.</reg> <reg type="star">✳</reg> ad <choice>
+                    <abbr>vr̄e</abbr>
+                    <expan>vestre</expan>
+                </choice> <choice>
+                    <abbr>pr̄ni</abbr>
+                    <expan>paterni</expan>
+                </choice>tatis noticiam
+        <lb facs="#facs_1_region_1513084892510_7l4" n="N004"/>deduci<choice>
+                    <abbr>mꝰ</abbr>
+                    <expan>mus</expan>
+                </choice> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice> <choice>
+                    <abbr>p̄n</abbr>
+                    <expan>presen</expan>
+                </choice>tes<reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝙ</abbr>
+                    <expan>quod</expan>
+                </choice> <reg type="star">✳</reg> nos evidenti <choice>
+                    <abbr>ncc̄i</abbr>
+                    <expan>neccessi</expan>
+                </choice>tate <reg type="star">✳</reg> <choice>
+                    <abbr>ꝓp</abbr>
+                    <expan>prop</expan>
+                </choice>
+                <choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> gravia <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>ī</abbr>
+                    <expan>im</expan>
+                </choice>mensa debita <reg type="star">✳</reg> per
+        <lb facs="#facs_1_region_1513084892510_7l5" n="N005"/>
+                <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>decessores <reg type="star">✳</reg> <choice>
+                    <abbr>nr̄os</abbr>
+                    <expan>nostros</expan>
+                </choice> <choice>
+                    <abbr>ꝯ</abbr>
+                    <expan>con</expan>
+                </choice>tracta<reg>,</reg> <reg type="star">✳</reg> curiam <choice>
+                    <abbr>nr̄am</abbr>
+                    <expan>nostram</expan>
+                </choice> dominicalem <reg type="star">✳</reg> in <placeName ref="loc010714">Erlispach</placeName>
+                <reg>,</reg> <reg type="star">✳</reg> que <reg type="star">✳</reg> vulgari<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice>
+        <lb facs="#facs_1_region_1513084892510_7l6" n="N006"/>dici<choice>
+                    <abbr>t̃</abbr>
+                    <expan>tur</expan>
+                </choice> dinkhof<reg>,</reg> cum iure pa<choice>
+                    <abbr>tͦ</abbr>
+                    <expan>tro</expan>
+                </choice>natus <reg type="star">✳</reg> <orgName ref="org005774">
+                    <choice>
+                        <abbr>ecc̄e</abbr>
+                        <expan>ecclesie</expan>
+                    </choice> ibidem in Erlispach</orgName>
+                <reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>nͨ</abbr>
+                    <expan>nec</expan>
+                </choice>non cum <choice>
+                    <abbr>hōi</abbr>
+                    <expan>homini</expan>
+                </choice>
+                <choice>
+                    <abbr>bƺ</abbr>
+                    <expan>bus</expan>
+                </choice> <reg type="star">✳</reg> et
+        <lb facs="#facs_1_region_1513084892510_7l7" n="N007"/>
+                <choice>
+                    <abbr>ōi</abbr>
+                    <expan>omni</expan>
+                </choice> alio iure <reg type="star">✳</reg> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> iuribus <reg type="star">✳</reg> ac <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>tinentiis universis <reg type="star">✳</reg> eidem curie <choice>
+                    <abbr>āne</abbr>
+                    <expan>anne</expan>
+                </choice>xis <reg type="star">✳</reg> <orgName ref="org004917">Basili<choice>
+                        <abbr>en̄</abbr>
+                        <expan>ensis</expan>
+                    </choice> dio<choice>
+                        <abbr>cꝭ</abbr>
+                        <expan>cesis</expan>
+                    </choice>
+                </orgName>
+        <lb facs="#facs_1_region_1513084892510_7l8" n="N008"/>religiosis in <choice>
+                    <abbr>xp̄o</abbr>
+                    <expan>Christo</expan>
+                </choice> <orgName ref="org002627">
+                    <choice>
+                        <abbr>abb̄</abbr>
+                        <expan>abba</expan>
+                    </choice>tisse <choice>
+                        <abbr>ꝫ</abbr>
+                        <expan>et</expan>
+                    </choice> <choice>
+                        <abbr>cō</abbr>
+                        <expan>con</expan>
+                    </choice>ventui <reg type="star">✳</reg> <choice>
+                        <abbr>monˀ</abbr>
+                        <expan>monasterii</expan>
+                    </choice> <reg type="star">✳</reg> in Camporegis or<choice>
+                        <abbr>dīs</abbr>
+                        <expan>dinis</expan>
+                    </choice> <choice>
+                        <abbr>Sc̄e</abbr>
+                        <expan>Sancte</expan>
+                    </choice> Clare<reg>,</reg> <reg type="star">✳</reg> <choice>
+                        <abbr>vr̄e</abbr>
+                        <expan>vestre</expan>
+                    </choice>
+        <lb facs="#facs_1_region_1513084892510_7l9" n="N009"/>dyo<choice>
+                        <abbr>cꝭ</abbr>
+                        <expan>cesis</expan>
+                    </choice>
+                </orgName> <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>notate<reg>,</reg> <reg type="star">✳</reg> vendidi<choice>
+                    <abbr>mꝰ</abbr>
+                    <expan>mus</expan>
+                </choice> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝓ</abbr>
+                    <expan>pro</expan>
+                </choice> certa <reg type="star">✳</reg> <choice>
+                    <abbr>pͤcu</abbr>
+                    <expan>pecu</expan>
+                </choice>nie <choice>
+                    <abbr>qͧn</abbr>
+                    <expan>quan</expan>
+                </choice>titate<reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>qđ</abbr>
+                    <expan>quod</expan>
+                </choice> <reg type="star">✳</reg> circa <choice>
+                    <abbr>pr̄ni</abbr>
+                    <expan>paterni</expan>
+                </choice>tatem <choice>
+                    <abbr>vr̄am</abbr>
+                    <expan>vestram</expan>
+                </choice>
+        <lb facs="#facs_1_region_1513084892510_7l10" n="N010"/>devotissime <reg type="star">✳</reg> re<choice>
+                    <abbr>qͥ</abbr>
+                    <expan>qui</expan>
+                </choice>ri<choice>
+                    <abbr>mꝰ</abbr>
+                    <expan>mus</expan>
+                </choice> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> rogamus<reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>q̄tns</abbr>
+                    <expan>quatenus</expan>
+                </choice> <reg type="star">✳</reg> <choice>
+                    <abbr>dc̄am</abbr>
+                    <expan>dictam</expan>
+                </choice> vendi<choice>
+                    <abbr>tōem</abbr>
+                    <expan>tionem</expan>
+                </choice> <reg type="star">✳</reg> et contrac<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> <reg type="star">✳</reg> per nos ex
+        <lb facs="#facs_1_region_1513084892510_7l11" n="N011"/>causis <choice>
+                    <abbr>nc̄ca</abbr>
+                    <expan>neccessa</expan>
+                </choice>riis <reg type="star">✳</reg> initum <reg type="star">✳</reg> <choice>
+                    <abbr>fc̄m</abbr>
+                    <expan>factum</expan>
+                </choice> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>h̄i</abbr>
+                    <expan>habi</expan>
+                </choice>tum <reg type="star">✳</reg> <choice>
+                    <abbr>auctꝭ</abbr>
+                    <expan>auctoritate</expan>
+                </choice> <choice>
+                    <abbr>vr̄a</abbr>
+                    <expan>vestra</expan>
+                </choice> ordinaria <reg type="star">✳</reg> confirmare<reg>,</reg> <reg type="star">✳</reg> auctori<choice>
+                    <abbr>saˀe</abbr>
+                    <expan>sare</expan>
+                </choice>
+        <lb facs="#facs_1_region_1513084892510_7l12" n="N012"/>
+                <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>apꝓ</abbr>
+                    <expan>appro</expan>
+                </choice>bare dig<choice>
+                    <abbr>nēi</abbr>
+                    <expan>nemini</expan>
+                </choice> <reg type="star">✳</reg> dei intuitu <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> amore<reg>,</reg> <reg type="star">✳</reg> ut <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice> hoc <reg type="star">✳</reg> <choice>
+                    <abbr>nr̄e</abbr>
+                    <expan>nostre</expan>
+                </choice> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>nr̄i</abbr>
+                    <expan>nostri</expan>
+                </choice> <choice>
+                    <abbr>monˀ</abbr>
+                    <expan>monasterii</expan>
+                </choice> <reg type="star">✳</reg> indigen<reg type="lb">¬</reg>
+        <lb facs="#facs_1_region_1513084892510_7l13" n="N013" break="no"/>cie <reg type="star">✳</reg> suc<choice>
+                    <abbr>c̃</abbr>
+                    <expan>cur</expan>
+                </choice>ra<choice>
+                    <abbr>t̃</abbr>
+                    <expan>tur</expan>
+                </choice>
+                <reg>.</reg> <reg type="star">✳</reg> in <reg type="star">✳</reg> cui<choice>
+                    <abbr>ꝰ</abbr>
+                    <expan>us</expan>
+                </choice> rei testimoni<choice>
+                    <abbr>ū</abbr>
+                    <expan>um</expan>
+                </choice> <reg type="star">✳</reg> sigilla <reg type="star">✳</reg> <choice>
+                    <abbr>nr̄i</abbr>
+                    <expan>nostri</expan>
+                </choice> abbatis <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> <choice>
+                    <abbr>cō</abbr>
+                    <expan>con</expan>
+                </choice>ven<choice>
+                    <abbr>tꝰ</abbr>
+                    <expan>tus</expan>
+                </choice> <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄o</abbr>
+                    <expan>dicto</expan>
+                </choice>
+                <choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+        <lb facs="#facs_1_region_1513084892510_7l14" n="N014"/>
+                <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>senti<choice>
+                    <abbr>bƺ</abbr>
+                    <expan>bus</expan>
+                </choice> sunt appensa<reg>.</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>dat̄</abbr>
+                    <expan>datum</expan>
+                </choice> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> ac<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> <reg type="star">✳</reg> in <choice>
+                    <abbr>monˀ</abbr>
+                    <expan>monasterio</expan>
+                </choice> <choice>
+                    <abbr>nr̄o</abbr>
+                    <expan>nostro</expan>
+                </choice> su<choice>
+                    <abbr>p̃</abbr>
+                    <expan>pra</expan>
+                </choice>
+                <choice>
+                    <abbr>dc̄o</abbr>
+                    <expan>dicto</expan>
+                </choice> <reg type="star">✳</reg> <date when="1349-08-26">sep<choice>
+                        <abbr>tīo</abbr>
+                        <expan>timo</expan>
+                    </choice> <reg type="star">✳</reg> <choice>
+                        <abbr>kl̄</abbr>
+                        <expan>kalendas</expan>
+                    </choice> <reg type="star">✳</reg> sep<choice>
+                        <abbr>tē</abbr>
+                        <expan>tem</expan>
+                    </choice>bris</date>
+                <reg>,</reg>
+        <lb facs="#facs_1_region_1513084892510_7l15" n="N015"/>
+                <date when="1349-08-26">anno <choice>
+                        <abbr>dōi</abbr>
+                        <expan>domini</expan>
+                    </choice> <reg type="star">✳</reg> mil<choice>
+                        <abbr>l̄i</abbr>
+                        <expan>lesi</expan>
+                    </choice>mo <reg type="star">✳</reg> tricente<choice>
+                        <abbr>sīo</abbr>
+                        <expan>simo</expan>
+                    </choice> <reg type="star">✳</reg> quadragesimo <reg type="star">✳</reg> nono<reg>,</reg> <reg type="star">✳</reg> <choice>
+                        <abbr>ind̄</abbr>
+                        <expan>indictione</expan>
+                    </choice> <choice>
+                        <abbr>scd̄a</abbr>
+                        <expan>secunda</expan>
+                    </choice>
+                </date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0228_v"/>
+      <p facs="#facs_2_region_1578567774568_890" rend="dorsual_04_uber_2">
+        <lb facs="#facs_2_line_1578567777797_893" n="N001"/>ùber Erlispach</p>
+      <p facs="#facs_2_region_1578567763986_881" rend="dorsual_14_rechnungsbuch">
+        <lb facs="#facs_2_line_1578567771176_885" n="N001"/>
+                <choice>
+                    <abbr>dē</abbr>
+                    <expan>den</expan>
+                </choice> hof <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> kil<choice>
+                    <abbr>chē</abbr>
+                    <expan>chen</expan>
+                </choice> ze</p>
+      <p facs="#facs_2_region_1578567780823_898" rend="dorsual_18_brief">
+        <lb facs="#facs_2_line_1578567785097_901" n="N001"/>den <reg type="star">✳</reg> iij <reg type="star">✳</reg> <choice>
+                    <abbr>b<reg type="star">✳</reg>
+                    </abbr>
+                    <expan>brief</expan>
+                </choice>
+            </p>
+    <p facs="#facs_2_region_1578567146151_850" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1578567162342_853" n="N001"/>
+                <reg type="star">✳</reg> K <reg type="star">✳</reg>
+        <lb facs="#facs_2_line_1578567165808_858" n="N002"/>N <reg type="star">✳</reg> 9 <reg type="star">✳</reg> <add place="inline" hand="other hand">
+                    <del rend="strikethrough">b</del> <reg type="star">✳</reg> a</add>
+            </p>
+      <p facs="#facs_2_region_1578566624166_816" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1578566627272_819" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 228</p>
+      <p facs="#facs_2_region_1578566632254_825" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1578566635218_828" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1578566636896_833" n="N002"/>AARGAU</p>
+      </body>
+  </text>
+</TEI>

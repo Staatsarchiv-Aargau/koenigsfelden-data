@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0090</title>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="hm">Helena Müller</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="fh">Fabian Henggeler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0090</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0090</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Herzog Albrecht II. von Österreich bestätigt dem Kloster Königsfelden, das die Mühle Dietfurt, an der Aare bei Brugg gelegen, gekauft hat, den Besitz dieser Mühle und verzichtet zu seinem und seiner Vordern Seelenheil auf die dem Hause Österreich zustehenden Eigentumsrechte.</summary>
+                <msItem>
+                  <textLang>Latein</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="30.7"/>
+                        <height unit="cm" quantity="14.5"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="4.3"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1326-06-30">30. Juni 1326</origDate>
+                  <origPlace ref="">Brugg</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0090">
+            <msDesc>
+              <msIdentifier corresp="KB_1-AA_0428">
+                <idno>StAAG AA/0428, fol. 87v</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Kaufgeschäft</term>
+          <term>Mühle</term>
+          <term>Bestätigung</term>
+          <term>Verzicht</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="6254" lry="4783" xml:id="facs_1">
+      <graphic url="U-17_0090_r.jpg" width="6254" height="4783"/>
+      <zone points="755,491 3958,491 3958,1520 755,1520" rendition="TextRegion" xml:id="facs_1_region_1500536809476_191">
+        <zone points="972,681 2051,754 3189,754 3896,754 3896,804 3189,804 2049,804 969,731" rendition="Line" xml:id="facs_1_line_1500536815744_192"/>
+        <zone points="970,795 2164,832 2977,823 3901,823 3901,873 2977,873 2164,882 969,845" rendition="Line" xml:id="facs_1_line_1500536820169_193"/>
+        <zone points="985,874 2104,919 3040,901 3892,897 3892,947 3041,951 2104,969 983,924" rendition="Line" xml:id="facs_1_line_1500536824208_194"/>
+        <zone points="998,952 2256,984 3040,961 3924,965 3924,1015 3041,1011 2256,1034 997,1002" rendition="Line" xml:id="facs_1_line_1500536829592_195"/>
+        <zone points="980,1029 2302,1071 3878,1039 3879,1089 2302,1121 979,1079" rendition="Line" xml:id="facs_1_line_1500536833776_196"/>
+        <zone points="984,1108 2338,1135 3924,1126 3924,1176 2338,1185 983,1158" rendition="Line" xml:id="facs_1_line_1500536837600_197"/>
+        <zone points="979,1177 2568,1227 3881,1186 3882,1236 2568,1277 978,1227" rendition="Line" xml:id="facs_1_line_1500536841080_198"/>
+        <zone points="984,1255 2472,1296 3910,1282 3897,1300 3947,1300 3946,1318 2472,1346 983,1305" rendition="Line" xml:id="facs_1_line_1500536847024_199"/>
+        <zone points="975,1356 3125,1388 3124,1438 974,1406" rendition="Line" xml:id="facs_1_line_1500536850264_200"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="6118" lry="4821" xml:id="facs_2">
+      <graphic url="U-17_0090_v.jpg" width="6118" height="4821"/>
+      <zone points="1128,1904 1742,1904 1742,2054 1128,2054" rendition="TextRegion" xml:id="facs_2_region_1533809403053_22" subtype="uber_1">
+        <zone points="1154,1961 1708,1982 1706,2032 1152,2011" rendition="Line" xml:id="facs_2_line_1533809406422_23"/>
+      </zone>
+      <zone points="1970,826 2553,826 2553,931 1970,931" rendition="TextRegion" xml:id="facs_2_region_1533809364111_12" subtype="uber_2">
+        <zone points="1976,862 2538,859 2538,909 1976,912" rendition="Line" xml:id="facs_2_line_1533809370543_13"/>
+      </zone>
+      <zone points="2044,1581 2260,1581 2260,1784 2044,1784" rendition="TextRegion" xml:id="facs_2_region_1533809393612_20" subtype="Dorsual_Textualis">
+        <zone points="2042,1679 2243,1685 2242,1735 2041,1729" rendition="Line" xml:id="facs_2_line_1533809397209_21"/>
+      </zone>
+      <zone points="1611,250 2979,250 2979,681 1611,681" rendition="TextRegion" xml:id="facs_2_region_1533809209386_3" subtype="Dorsual_Regesta">
+        <zone points="1662,355 2886,355 2886,405 1662,405" rendition="Line" xml:id="facs_2_line_1533809213365_4"/>
+        <zone points="1739,459 2954,444 2955,494 1740,509" rendition="Line" xml:id="facs_2_line_1533809215132_5"/>
+        <zone points="1773,579 2210,579 2210,629 1773,629" rendition="Line" xml:id="facs_2_line_1533809216522_6"/>
+      </zone>
+      <zone points="2209,1646 2787,1646 2787,1185 2209,1185" rendition="TextRegion" xml:id="facs_2_region_1533809385520_17" subtype="Dorsual_Sigle">
+        <zone points="2347,1350 2760,1374 2757,1424 2344,1400" rendition="Line" xml:id="facs_2_line_1533809388604_18"/>
+        <zone points="2243,1565 2677,1571 2676,1621 2242,1615" rendition="Line" xml:id="facs_2_line_1533809390362_19"/>
+      </zone>
+      <zone points="1898,955 2817,955 2817,1281 1898,1281" rendition="TextRegion" xml:id="facs_2_region_1533809375661_14" subtype="Sammelschicht_vor">
+        <zone points="1957,1069 2798,1057 2799,1107 1958,1119" rendition="Line" xml:id="facs_2_line_1533809378744_15"/>
+        <zone points="2052,1155 2502,1119 2506,1169 2056,1205" rendition="Line" xml:id="facs_2_line_1533809380219_16"/>
+      </zone>
+      <zone points="1754,1946 2269,1946 2272,2069 1757,2069" rendition="TextRegion" xml:id="facs_2_region_1533809409870_24" subtype="Sammelschicht_vor">
+        <zone points="1761,1970 2219,1976 2218,2026 1760,2020" rendition="Line" xml:id="facs_2_line_1533809413608_25"/>
+      </zone>
+    <zone points="2914,838 3425,838 3425,1161 2914,1161" rendition="TextRegion" xml:id="facs_2_region_1533809352322_9" subtype="Dorsual_StAAG-Stempel">
+        <zone points="2948,930 3412,945 3411,995 2947,980" rendition="Line" xml:id="facs_2_line_1533809355536_10"/>
+        <zone points="2976,1035 3351,1038 3351,1088 2976,1085" rendition="Line" xml:id="facs_2_line_1533809356957_11"/>
+      </zone>
+      <zone points="3420,265 4150,265 4150,481 3420,481" rendition="TextRegion" xml:id="facs_2_region_1533809341589_7" subtype="StAAG_modern">
+        <zone points="3452,337 4119,316 4120,366 3453,387" rendition="Line" xml:id="facs_2_line_1533809345269_8"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0090_r"/>
+      <p facs="#facs_1_region_1500536809476_191">
+        <lb facs="#facs_1_line_1500536815744_192" n="N001"/>Nos <persName ref="per000347">Albertus dei <choice>
+                        <abbr>gr̄a</abbr>
+                        <expan>gratia</expan>
+                    </choice> <reg type="star">✳</reg> dux Austrie et Stirie<reg>,</reg> <reg type="star">✳</reg> dominus Carniole<reg>,</reg> <reg type="star">✳</reg> Marchie <reg type="star">✳</reg> ac Portusnaonis<reg>,</reg> <reg type="star">✳</reg> comes in
+        <lb facs="#facs_1_line_1500536820169_193" n="N002"/>Habspurg<reg>,</reg> <reg type="star">✳</reg> Kyburg <reg type="star">✳</reg> et in Phͥrrt<reg>,</reg> <reg type="star">✳</reg> necnon lantgravius Alsacie</persName>
+                <reg>,</reg> <reg type="star">✳</reg> universis presentium inspectoribus publice profitemur<reg>,</reg> <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1500536824208_194" n="N003"/>
+                <choice>
+                    <abbr>qđ</abbr>
+                    <expan>quod</expan>
+                </choice> animad<choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>tentes <reg type="star">✳</reg> ex augmento divini cultus quolibet <reg type="star">✳</reg> nedum <reg type="star">✳</reg> gra<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> deo impendi obsequi<choice>
+                    <abbr>ū</abbr>
+                    <expan>um</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>qʼn</abbr>
+                    <expan>quin</expan>
+                </choice> immo anima<choice>
+                    <abbr>rū</abbr>
+                    <expan>rum</expan>
+                </choice> salutare
+        <lb facs="#facs_1_line_1500536829592_195" n="N004"/>remedium provenire <reg type="star">✳</reg> religiosis personis <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org002627">abbatisse <choice>
+                        <abbr>ꝫ</abbr>
+                        <expan>et</expan>
+                    </choice> conventui in <choice>
+                        <abbr>mon̄</abbr>
+                        <expan>monasterio</expan>
+                    </choice> <reg type="star">✳</reg> Campi Regis</orgName> <reg type="star">✳</reg> proprieta<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice> <placeName ref="loc010121">molendini <reg type="star">✳</reg>
+        <lb facs="#facs_1_line_1500536833776_196" n="N005"/>
+                    <choice>
+                        <abbr>dc̄i</abbr>
+                        <expan>dicti</expan>
+                    </choice> Dietfurt</placeName> <reg type="star">✳</reg> in fluvio <placeName ref="loc009226">Arari</placeName> <reg type="star">✳</reg> <choice>
+                    <abbr>ꝓ</abbr>
+                    <expan>pro</expan>
+                </choice>pe <placeName ref="loc000195">Bruggam</placeName> siti<reg>,</reg> <reg type="star">✳</reg> per easdem empti<reg>,</reg> <reg type="star">✳</reg> que <reg type="star">✳</reg> <choice>
+                    <abbr>nob̄</abbr>
+                    <expan>nobis</expan>
+                </choice> <choice>
+                    <abbr>nr̄is</abbr>
+                    <expan>nostris</expan>
+                </choice>
+                <choice>
+                    <abbr>qƺ</abbr>
+                    <expan>que</expan>
+                </choice> fratribus <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org000088">illustribus Austrie
+        <lb facs="#facs_1_line_1500536837600_197" n="N006"/>et Stirie ducibus</orgName> <reg type="star">✳</reg> dinoscitur pertinere <reg type="star">✳</reg> ob deifice remunerationis intui<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> <reg type="star">✳</reg> ac progenito<choice>
+                    <abbr>rū</abbr>
+                    <expan>rum</expan>
+                </choice> <choice>
+                    <abbr>nr̄o</abbr>
+                    <expan>nostro</expan>
+                </choice>
+                <choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> <reg type="star">✳</reg> <choice>
+                    <abbr>nr̄am</abbr>
+                    <expan>nostram</expan>
+                </choice>
+                <choice>
+                    <abbr>qƺ</abbr>
+                    <expan>que</expan>
+                </choice> salu<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice> <reg type="star">✳</reg> dona<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1500536841080_198" n="N007" break="no"/>mus<reg>,</reg> <reg type="star">✳</reg> appropriamus<reg>,</reg> nec<choice>
+                    <abbr>nō</abbr>
+                    <expan>non</expan>
+                </choice> in <choice>
+                    <abbr>ip̄a</abbr>
+                    <expan>ipsa</expan>
+                </choice>
+                <choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> <choice>
+                    <abbr>ꝫ</abbr>
+                    <expan>et</expan>
+                </choice> eiusdem <choice>
+                    <abbr>mon̄</abbr>
+                    <expan>monasterii</expan>
+                </choice> usus <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>petuos <choice>
+                    <abbr>t̃ns</abbr>
+                    <expan>trans</expan>
+                </choice>ferimus per <choice>
+                    <abbr>p̄n</abbr>
+                    <expan>presen</expan>
+                </choice>tes <reg type="star">✳</reg> super quo ad evidentius
+        <lb facs="#facs_1_line_1500536847024_199" n="N008"/>testimonium at<choice>
+                    <abbr>qƺ</abbr>
+                    <expan>que</expan>
+                </choice> robur <choice>
+                    <abbr>ip̄is</abbr>
+                    <expan>ipsis</expan>
+                </choice> easdem <choice>
+                    <abbr>nr̄as</abbr>
+                    <expan>nostras</expan>
+                </choice> <choice>
+                    <abbr>lrās</abbr>
+                    <expan>litteras</expan>
+                </choice> nostri appensione sigilli tradimus <choice>
+                    <abbr>cōmu</abbr>
+                    <expan>commu</expan>
+                </choice>nitas<reg>.</reg> <reg type="star">✳</reg> da<choice>
+                    <abbr>tū</abbr>
+                    <expan>tum</expan>
+                </choice> in <placeName ref="loc000195">Brugge</placeName>
+        <lb facs="#facs_1_line_1500536850264_200" n="N009"/>
+                <date when="1326-06-30">anno domini millesimo trecentesimo vicesimo sexto<reg>,</reg> ij kalen<choice>
+                        <abbr>đ</abbr>
+                        <expan>das</expan>
+                    </choice> iulii</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0090_v"/>
+      <p facs="#facs_2_region_1533809403053_22" rend="dorsual_02_uber_1">
+        <lb facs="#facs_2_line_1533809406422_23" n="N001"/>
+                <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice> muli ze Dietfurt</p>
+      <p facs="#facs_2_region_1533809364111_12" rend="dorsual_04_uber_2">
+        <lb facs="#facs_2_line_1533809370543_13" n="N001"/>
+                <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice> die muͤli ze Dietfurt</p>
+      <p facs="#facs_2_region_1533809393612_20" rend="dorsual_15_textualis">
+        <lb facs="#facs_2_line_1533809397209_21" n="N001"/>b vj</p>
+      <p facs="#facs_2_region_1533809209386_3" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1533809213365_4" n="N001"/>übergebnùs hertzog Albrechts
+        <lb facs="#facs_2_line_1533809215132_5" n="N002"/>umb die mùly zuͦ Diettfùrtt
+        <lb facs="#facs_2_line_1533809216522_6" n="N003"/>by Brùgg <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1533809385520_17" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1533809388604_18" n="N001"/>
+                <reg type="star">✳</reg> K <reg type="star">✳</reg>
+        <lb facs="#facs_2_line_1533809390362_19" n="N002"/>
+                <reg type="star">✳</reg> B <reg type="star">✳</reg> 1 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1533809375661_14" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1533809378744_15" n="N001"/>ist jetz die kloster
+        <lb facs="#facs_2_line_1533809380219_16" n="N002"/>mûlli</p>
+      <p facs="#facs_2_region_1533809409870_24" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1533809413608_25" n="N001"/>convent brief</p>
+    <p facs="#facs_2_region_1533809352322_9" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1533809355536_10" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1533809356957_11" n="N002"/>AARGAU</p>
+      <p facs="#facs_2_region_1533809341589_7" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1533809345269_8" n="N001"/>Königsfelden 90</p>
+      </body>
+  </text>
+</TEI>

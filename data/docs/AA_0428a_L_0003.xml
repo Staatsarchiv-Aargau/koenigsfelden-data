@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG AA/0428a, fol. 3-4</title>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="0003">StAAG AA/0428a, fol. 3-4</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG AA/0428a 3-4</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt"/>
+                <msItem>
+                  <filiation type="current">Abschrift aus Kopialbuch Ia, <idno xml:id="aa_0428a">StAAG AA/0428a, fol. 3-4</idno>
+                                    </filiation>
+                  <note>leer</note>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Papier</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="23"/>
+                        <height unit="cm" quantity="29"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1417-01-01">1417, Nachträge bis 1427</origDate>
+                  <origPlace ref=""/>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords/>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+        <surface ulx="0" uly="0" lrx="6132" lry="8176" xml:id="facs_3">
+      <graphic url="saa-AA0428a_003.jpg" width="6132" height="8176"/>
+      <zone points="4824,7239 5039,7239 5039,7625 4824,7625" rendition="TextRegion" xml:id="facs_3_region_1574330729066_276" subtype="Nummerierung_Boner"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="6132" lry="8176" xml:id="facs_4">
+      <graphic url="saa-AA0428a_004.jpg" width="6132" height="8176"/>
+      <zone points="842,7257 1182,7257 1182,7622 842,7622" rendition="TextRegion" xml:id="facs_4_region_1574330747033_283" subtype="Nummerierung_Boner"/>
+    </surface>
+    </facsimile>
+  <text>
+    <body>
+            <pb facs="#facs_3" n="fol. 3" xml:id="img_0003" source="saa-AA0428a_003"/>
+      <p facs="#facs_3_region_1574330729066_276" rend="Nummerierung_Boner" type="marginal">
+                <ref target="/exist/apps/ssrq/docs/L_0003.xml?odd=ssrq-norm.odd">Da der Dokumenttext durch das Originaldokument vorhanden ist, ist der Text aus dem Kopialbuch nicht transkribiert worden. Durch diesen Link kommen Sie auf den Text des Originaldokuments.</ref>
+            </p>
+      <pb facs="#facs_4" n="fol. 4" xml:id="img_0004" source="saa-AA0428a_004"/>
+      <p facs="#facs_4_region_1574330747033_283" rend="Nummerierung_Boner" type="marginal"/>
+      </body>
+  </text>
+</TEI>

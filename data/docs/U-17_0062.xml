@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0062</title>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="hm">Helena Müller</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="fh">Fabian Henggeler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0062</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0062</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Papst Johannes XXII. beauftragt den Thesaurar des Grossmünsterstiftes in Zürich, für die Rückerstattung der dem Kloster Königsfelden entfremdeten Güter besorgt zu sein.</summary>
+                <msItem>
+                  <textLang>Latein</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="27.5"/>
+                        <height unit="cm" quantity="18.2"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="5.4"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1319-01-25">25. Januar 1319</origDate>
+                  <origPlace ref="">Avignon</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0062">
+            <msDesc>
+              <msIdentifier corresp="KB_1-AA_0428">
+                <idno>StAAG AA/0428, fol. 23r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0062">
+            <msDesc>
+              <msIdentifier corresp="KB_2-AA_0429">
+                <idno>StAAG AA/0429, fol. 19r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Verfügung</term>
+          <term>Restitution</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="6493" lry="4475" xml:id="facs_1">
+      <graphic url="U-17_0062_r.jpg" width="6493" height="4475"/>
+      <zone points="4299,228 4799,228 4799,590 4299,590" rendition="TextRegion" xml:id="facs_1_region_1494833364574_49">
+        <zone points="4474,474 4737,474 4737,524 4474,524" rendition="Line" xml:id="facs_1_line_1494833470306_64"/>
+      </zone>
+      <zone points="1193,615 4599,615 4599,2174 1193,2174" rendition="TextRegion" xml:id="facs_1_region_1494833350510_48">
+        <zone points="1452,1058 4495,1033 4495,1083 1452,1108" rendition="Line" xml:id="facs_1_line_1494833395483_52"/>
+        <zone points="1473,1175 4466,1145 4466,1195 1473,1225" rendition="Line" xml:id="facs_1_line_1494833399427_53"/>
+        <zone points="1489,1291 4466,1275 4511,1327 1534,1343" rendition="Line" xml:id="facs_1_line_1494833403067_54"/>
+        <zone points="1492,1450 4490,1445 4490,1495 1492,1500" rendition="Line" xml:id="facs_1_line_1494833406555_55"/>
+        <zone points="1485,1521 4441,1529 4441,1579 1485,1571" rendition="Line" xml:id="facs_1_line_1494833412443_56"/>
+        <zone points="1502,1662 4449,1650 4449,1700 1502,1712" rendition="Line" xml:id="facs_1_line_1494833416603_57"/>
+        <zone points="1502,1779 4470,1775 4470,1825 1502,1829" rendition="Line" xml:id="facs_1_line_1494833420834_58"/>
+        <zone points="1477,1900 3315,1917 4499,1912 4499,1962 3315,1967 1477,1950" rendition="Line" xml:id="facs_1_line_1494833437763_60"/>
+      </zone>
+      <zone points="4278,2187 4745,2187 4745,2479 4278,2479" rendition="TextRegion" xml:id="facs_1_region_1494833371150_50">
+        <zone points="4391,2307 4646,2315 4645,2365 4390,2357" rendition="Line" xml:id="facs_1_line_1494833443130_61"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="6541" lry="4709" xml:id="facs_2">
+      <graphic url="U-17_0062_v.jpg" width="6541" height="4709"/>
+      <zone points="2706,2327 3032,2327 3032,2543 2706,2543" rendition="TextRegion" xml:id="facs_2_region_1535011992324_100" subtype="Dorsual_Textualis">
+        <zone points="2746,2387 2996,2404 2993,2454 2743,2437" rendition="Line" xml:id="facs_2_line_1535011995935_101"/>
+      </zone>
+      <zone points="2503,763 3441,763 3441,506 2503,506" rendition="TextRegion" xml:id="facs_2_region_1535011890416_80" subtype="Latein_3">
+        <zone points="2566,631 3407,596 3409,646 2568,681" rendition="Line" xml:id="facs_2_line_1535011893277_81"/>
+      </zone>
+      <zone points="2422,1177 3564,1177 3564,1544 2422,1544" rendition="TextRegion" xml:id="facs_2_region_1535011925298_89" subtype="Dorsual_Regesta">
+        <zone points="2480,1289 3531,1265 3532,1315 2481,1339" rendition="Line" xml:id="facs_2_line_1535011929029_90"/>
+        <zone points="2582,1415 3397,1401 3398,1451 2583,1465" rendition="Line" xml:id="facs_2_line_1535011931319_91"/>
+      </zone>
+      <zone points="2664,984 3355,984 3355,735 2664,735" rendition="TextRegion" xml:id="facs_2_region_1535011903894_84" subtype="Dorsual_Sigle">
+        <zone points="2698,893 3286,881 3287,931 2699,943" rendition="Line" xml:id="facs_2_line_1535011907774_85"/>
+      </zone>
+      <zone points="2227,391 2988,391 2988,571 2227,571" rendition="TextRegion" xml:id="facs_2_region_1535011884037_78" subtype="Sammelschicht_vor">
+        <zone points="2252,468 2955,456 2956,506 2253,518" rendition="Line" xml:id="facs_2_line_1535011886830_79"/>
+      </zone>
+      <zone points="1938,842 2559,842 2559,1026 1938,1026" rendition="TextRegion" xml:id="facs_2_region_1535011896842_82" subtype="Sammelschicht_vor">
+        <zone points="1961,932 2524,937 2524,987 1961,982" rendition="Line" xml:id="facs_2_line_1535011900290_83"/>
+      </zone>
+      <zone points="3671,1535 4095,1535 4095,1688 3671,1688" rendition="TextRegion" xml:id="facs_2_region_1535011959170_92" subtype="Sammelschicht_vor">
+        <zone points="3697,1578 4072,1578 4072,1628 3697,1628" rendition="Line" xml:id="facs_2_line_1535011962167_93"/>
+      </zone>
+      <zone points="2223,2001 4177,2001 4177,1626 2223,1626" rendition="TextRegion" xml:id="facs_2_region_1535011968260_94" subtype="Sammelschicht_vor">
+        <zone points="2280,1674 4086,1694 4086,1744 2280,1724" rendition="Line" xml:id="facs_2_line_1535011975192_95"/>
+        <zone points="2279,1774 4145,1839 4143,1889 2277,1824" rendition="Line" xml:id="facs_2_line_1535011979027_96"/>
+        <zone points="2258,1890 3868,1941 3867,1991 2257,1940" rendition="Line" xml:id="facs_2_line_1535011982181_97"/>
+      </zone>
+      <zone points="2646,2032 3157,2032 3157,2216 2646,2216" rendition="TextRegion" xml:id="facs_2_region_1535011985727_98" subtype="Datierung_divers">
+        <zone points="2661,2109 3133,2123 3132,2173 2660,2159" rendition="Line" xml:id="facs_2_line_1535011988971_99"/>
+      </zone>
+      <zone points="1231,366 2146,366 2146,651 1231,651" rendition="TextRegion" xml:id="facs_2_region_1535011871550_76" subtype="Dorsual_StAAG">
+        <zone points="1276,524 2084,491 2086,541 1278,574" rendition="Line" xml:id="facs_2_line_1535011879147_77"/>
+      </zone>
+      <zone points="1756,1159 2309,1159 2309,1458 1756,1458" rendition="TextRegion" xml:id="facs_2_region_1535011913471_86" subtype="Dorsual_StAAG-Stempel">
+        <zone points="1800,1259 2276,1255 2276,1305 1800,1309" rendition="Line" xml:id="facs_2_line_1535011916750_87"/>
+        <zone points="1844,1346 2232,1362 2230,1412 1842,1396" rendition="Line" xml:id="facs_2_line_1535011918493_88"/>
+      </zone>
+      <zone points="3599,738 4448,738 4448,1087 3599,1087" rendition="TextRegion" xml:id="facs_2_region_1535012018510_104" subtype="StAAG_modern">
+        <zone points="3655,922 4405,887 4407,937 3657,972" rendition="Line" xml:id="facs_2_line_1535012021733_105"/>
+      </zone>
+      <zone points="3524,2533 4102,2533 4102,2689 3524,2689" rendition="TextRegion" xml:id="facs_2_region_1535012006094_102" subtype="Unleserlich">
+        <zone points="3575,2635 4086,2603 4089,2653 3578,2685" rendition="Line" xml:id="facs_2_line_1535012009635_103"/>
+      </zone>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0062_r"/>
+      <p facs="#facs_1_region_1494833364574_49">
+        <lb facs="#facs_1_line_1494833470306_64" n="N001"/>
+                <del rend="strikethrough">J</del>
+            </p>
+      <p facs="#facs_1_region_1494833350510_48">
+        <lb facs="#facs_1_line_1494833395483_52" n="N001"/>
+                <persName ref="per012256">Iohannes <choice>
+                        <abbr>ep̄s</abbr>
+                        <expan>episcopus</expan>
+                    </choice> servus servo<choice>
+                        <abbr>ꝝ</abbr>
+                        <expan>rum</expan>
+                    </choice> dei</persName> <reg type="star">✳</reg> dilecto filio <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org004352">thesaurario ec<choice>
+                        <abbr>cl̄ie</abbr>
+                        <expan>clesie</expan>
+                    </choice> Thuri<choice>
+                        <abbr>cen̄</abbr>
+                        <expan>censis</expan>
+                    </choice> Constan<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1494833399427_53" n="N002" break="no"/>ti<choice>
+                        <abbr>en̄</abbr>
+                        <expan>ensis</expan>
+                    </choice> <choice>
+                        <abbr>dioc̄</abbr>
+                        <expan>diocesis</expan>
+                    </choice>
+                </orgName> <choice>
+                    <abbr>sal̄t</abbr>
+                    <expan>salutem</expan>
+                </choice> et <choice>
+                    <abbr>apl̄i</abbr>
+                    <expan>apostoli</expan>
+                </choice>cam <choice>
+                    <abbr>ben̄</abbr>
+                    <expan>benedictionem</expan>
+                </choice>
+                <reg>.</reg> <reg type="star">✳</reg> dilecta<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> in <choice>
+                    <abbr>xp̄o</abbr>
+                    <expan>Christo</expan>
+                </choice> filia<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org002627">abbatisse et conventus monaste<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1494833403067_54" n="N003" break="no"/>rii Campi Regis ordinis Sancte Clare Constanti<choice>
+                        <abbr>en̄</abbr>
+                        <expan>ensis</expan>
+                    </choice> <choice>
+                        <abbr>dioc̄</abbr>
+                        <expan>diocesis</expan>
+                    </choice>
+                </orgName> precibus inclinati <reg type="star">✳</reg> presentium tibi auctorita<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1494833406555_55" n="N004" break="no"/>te manda<choice>
+                    <abbr>mꝰ</abbr>
+                    <expan>mus</expan>
+                </choice>
+                <reg>,</reg> quati<choice>
+                    <abbr>nꝰ</abbr>
+                    <expan>nus</expan>
+                </choice> <reg type="star">✳</reg> ea<reg>,</reg> que de bonis <choice>
+                    <abbr>ip̄i</abbr>
+                    <expan>ipsi</expan>
+                </choice>us monasterii alienata inveneris illicite vel distracta ad
+        <lb facs="#facs_1_line_1494833412443_56" n="N005"/>ius et proprietatem eiusdem monasterii legitime revocare procures<reg>,</reg> contradictores per censu<choice>
+                    <abbr>rā</abbr>
+                    <expan>ram</expan>
+                </choice>
+        <lb facs="#facs_1_line_1494833416603_57" n="N006"/>ec<choice>
+                    <abbr>cl̄ias</abbr>
+                    <expan>clesias</expan>
+                </choice>ticam ap<choice>
+                    <abbr>p̄llo</abbr>
+                    <expan>pellatio</expan>
+                </choice>ne postposita compescendo<reg>.</reg> <reg type="star">✳</reg> testes <choice>
+                    <abbr>aut̄</abbr>
+                    <expan>autem</expan>
+                </choice>
+                <reg>,</reg> qui fuerint <choice>
+                    <abbr>nōia</abbr>
+                    <expan>nomina</expan>
+                </choice>ti<reg>,</reg> si se gratia<reg>,</reg> odio vel ti<reg type="hyphen">-</reg>
+        <lb facs="#facs_1_line_1494833420834_58" n="N007" break="no"/>more subtraxerint<reg>,</reg> censura simili ap<choice>
+                    <abbr>p̄llo</abbr>
+                    <expan>pellatio</expan>
+                </choice>ne cessante compellas veritati testi<choice>
+                    <abbr>mōium</abbr>
+                    <expan>monium</expan>
+                </choice> perhibere<reg>.</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>dat̄</abbr>
+                    <expan>datum</expan>
+                </choice> <placeName ref="loc010229">Avini<choice>
+                        <abbr>on̄</abbr>
+                        <expan>one</expan>
+                    </choice>
+                </placeName>
+        <lb facs="#facs_1_line_1494833437763_60" n="N008"/>
+                <date when="1319-01-25">viij <choice>
+                        <abbr>kl̄</abbr>
+                        <expan>kalendas</expan>
+                    </choice> febru<choice>
+                        <abbr>ar₎</abbr>
+                        <expan>arii</expan>
+                    </choice>
+                    <reg>,</reg> pontificatus <choice>
+                        <abbr>nr̄i</abbr>
+                        <expan>nostri</expan>
+                    </choice> anno tertio</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_1_region_1494833371150_50">
+        <lb facs="#facs_1_line_1494833443130_61" n="N001"/>
+                <comment comment="Kanzleivermerk.">
+                    <unclear>B <reg type="star">✳</reg> alam</unclear>
+                </comment>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0062_v"/>
+      <p facs="#facs_2_region_1535011992324_100" rend="dorsual_15_textualis">
+        <lb facs="#facs_2_line_1535011995935_101" n="N001"/>xix</p>
+      <p facs="#facs_2_region_1535011890416_80" rend="dorsual_19_latein_3">
+        <lb facs="#facs_2_line_1535011893277_81" n="N001"/>Petrùs de <damage agent="faded ink">
+                    <gap/> </damage>
+            </p>
+      <p facs="#facs_2_region_1535011925298_89" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1535011929029_90" n="N001"/>probst Zùrich soll rich<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice>
+        <lb facs="#facs_2_line_1535011931319_91" n="N002"/>sin <reg type="star">✳</reg> der fròwen <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1535011903894_84" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1535011907774_85" n="N001"/>K <reg type="star">✳</reg> T <reg type="star">✳</reg> 65 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1535011884037_78" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1535011886830_79" n="N001"/>
+                <del rend="strikethrough">Frideri<choice>
+                        <abbr>cꝰ</abbr>
+                        <expan>cus</expan>
+                    </choice> de <unclear>Nordelingen</unclear>
+                </del>
+            </p>
+      <p facs="#facs_2_region_1535011896842_82" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1535011900290_83" n="N001"/>ùber unser guͦt <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1535011959170_92" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1535011962167_93" n="N001"/>ze Zùrich</p>
+      <p facs="#facs_2_region_1535011968260_94" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1535011975192_95" n="N001"/>der bapst Jo<choice>
+                    <abbr>hēs</abbr>
+                    <expan>hannes</expan>
+                </choice> dem <damage agent="faded ink">
+                    <gap/> </damage> zuͦ  <damage agent="faded ink">
+                    <gap/> </damage>
+        <lb facs="#facs_2_line_1535011979027_96" n="N002"/>
+                <damage agent="faded ink">
+                    <gap/> </damage> soliche kraft <damage agent="faded ink">
+                    <gap/> </damage>
+        <lb facs="#facs_2_line_1535011982181_97" n="N003"/>closter die guͤter die unsz <damage agent="faded ink">
+                    <gap/> </damage>
+            </p>
+      <p facs="#facs_2_region_1535011985727_98" rend="dorsual_26_datierung_divers">
+        <lb facs="#facs_2_line_1535011988971_99" n="N001"/>28 Jan<reg type="star">✳</reg> 1319</p>
+      <p facs="#facs_2_region_1535011871550_76" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1535011879147_77" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 62</p>
+      <p facs="#facs_2_region_1535011913471_86" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1535011916750_87" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1535011918493_88" n="N002"/>AARGAU</p>
+      <p facs="#facs_2_region_1535012018510_104" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1535012021733_105" n="N001"/>
+                <choice>
+                    <abbr>Kgsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 62</p>
+      <p facs="#facs_2_region_1535012006094_102" rend="dorsual_36_unleserlich">
+        <lb facs="#facs_2_line_1535012009635_103" n="N001"/>
+                <damage agent="faded ink">
+                    <gap/> </damage>
+            </p>
+    </body>
+  </text>
+</TEI>

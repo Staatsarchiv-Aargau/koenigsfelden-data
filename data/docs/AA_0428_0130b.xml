@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG AA/0428, fol. 14r (Abschrift der Urk. 0130b)</title>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="mn">Michael Nadig</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref=""/>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="014r">StAAG AA/0428, fol. 14r (Abschrift der Urk. 0130b)</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG AA/0428 14r</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Editionsprojekt">Papst Johannes XXII. beauftragt den Abt von Salem, die Pfarreiangehörigen von Staufen, die dem Kloster Königsfelden den schuldigen Zehnten nicht entrichten, zur Erfüllung ihrer Pflicht zu veranlassen.</summary>
+                <msItem>
+                  <filiation type="current">Abschrift aus Kopialbuch I, <idno xml:id="aa_0428">StAAG AA/0428, fol. 14r</idno>
+                                    </filiation>
+                  <textLang>Latein</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="25"/>
+                        <height unit="cm" quantity="35"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1333-10-02">02. Oktober 1333</origDate>
+                  <origPlace ref=""/>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Verfügung</term>
+          <term>Zehnt</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+        <surface ulx="0" uly="0" lrx="3328" lry="4992" xml:id="facs_31">
+      <graphic url="saa-0428_014r.jpg" width="3328" height="4992"/>
+      <zone points="56,2830 205,2830 205,2926 56,2926" rendition="TextRegion" xml:id="facs_31_region_1489148562422_3" subtype="Stücknummer_Kopialbuch">
+        <zone points="68,2865 197,2865 197,2915 68,2915" rendition="Line" xml:id="facs_31_line_1570713247325_880"/>
+      </zone>
+      <zone points="204,2244 803,2239 811,2156 1462,2164 1462,2953 1172,2953 1168,2854 204,2850" rendition="TextRegion" xml:id="facs_31_TextRegion_1573742266610_3966" subtype="Paratext">
+        <zone points="810,2157 817,2158 824,2158 824,2264 818,2266 809,2261 809,2176" rendition="Line" xml:id="facs_31_line_1573742256722_3961"/>
+        <zone points="1357,2243 1288,2270 1287,2270 1273,2251 1064,2250 1034,2275 1030,2275 1011,2258 1008,2258 949,2257 933,2257 913,2245 818,2267 817,2267 799,2247 782,2247 775,2246 648,2246 639,2245 636,2245 625,2244 286,2254 280,2269 285,2331 286,2337 289,2341 912,2339 1345,2349 1387,2341 1389,2336 1366,2244 1358,2243" rendition="Line" xml:id="facs_31_r1023_1_0_1_0"/>
+        <zone points="909,2340 316,2342 306,2344 290,2366 292,2393 292,2396 302,2411 419,2405 447,2425 956,2415 996,2416 999,2416 1000,2429 1000,2436 1035,2440 1037,2440 1040,2428 1045,2419 1232,2435 1344,2434 1378,2411 1389,2373 1389,2368 1382,2358 1350,2357 1267,2357 1104,2342 944,2342 936,2341 916,2341 915,2341 910,2340" rendition="Line" xml:id="facs_31_r1024_1_0_1_0"/>
+        <zone points="303,2458 1324,2458 1324,2508 303,2508" rendition="Line" xml:id="facs_31_line_1489148652767_9"/>
+        <zone points="589,2444 579,2452 582,2479 580,2491 542,2491 436,2490 360,2518 358,2518 307,2515 304,2515 298,2495 297,2495 287,2494 278,2507 283,2546 289,2578 503,2585 540,2587 594,2601 631,2604 875,2601 1265,2603 1273,2601 1282,2573 1282,2560 1282,2554 1275,2538 1269,2528 1255,2527 1214,2527 1105,2481 1046,2512 1045,2512 848,2509 845,2509 590,2444" rendition="Line" xml:id="facs_31_r1026_1_0_1_0"/>
+        <zone points="289,2630 1319,2624 1319,2674 289,2680" rendition="Line" xml:id="facs_31_line_1489148667394_10"/>
+        <zone points="320,2706 1322,2706 1322,2756 320,2756" rendition="Line" xml:id="facs_31_line_1489148671000_11"/>
+        <zone points="315,2773 381,2771 382,2771 455,2776 528,2776 531,2777 572,2777 574,2778 577,2778 623,2796 631,2796 745,2797 751,2797 753,2794 753,2792 752,2778 769,2779 811,2779 839,2780 859,2780 875,2797 883,2797 901,2781 924,2782 935,2782 950,2797 959,2797 975,2782 987,2783 989,2783 1007,2800 1009,2800 1136,2779 1143,2780 1194,2780 1246,2793 1253,2793 1255,2794 1267,2794 1271,2780 1282,2781 1323,2781 1330,2782 1345,2782 1354,2797 1356,2804 1356,2812 1354,2829 1335,2858 1271,2856 1254,2862 1248,2876 1195,2886 1183,2866 1174,2863 1168,2867 1168,2854 241,2850 233,2844 233,2842 233,2827" rendition="Line" xml:id="facs_31_line_1573742266828_3969"/>
+        <zone points="1330,2978 1207,2953 1151,2956 1151,2865 1171,2865 1183,2866 1195,2887 1197,2887 1227,2872 1240,2873 1252,2873 1252,2872 1255,2860 1272,2857 1342,2870 1345,2870 1389,2943 1389,2949" rendition="Line" xml:id="facs_31_line_1510303201467_1"/>
+      </zone>
+      <zone points="74,2925 237,2925 230,3102 67,3102" rendition="TextRegion" xml:id="facs_31_region_1570713144400_864" subtype="Signaturverweis_Boner">
+        <zone points="121,2949 213,2952 212,3002 120,2999" rendition="Line" xml:id="facs_31_line_1570714427016_1158"/>
+        <zone points="87,3035 215,3036 215,3086 87,3085" rendition="Line" xml:id="facs_31_line_1570713154602_872"/>
+      </zone>
+      <zone points="204,2850 1168,2854 1172,2953 1462,2953 1462,3998 204,4004" rendition="TextRegion" xml:id="facs_31_TextRegion_1573742266609_3965" subtype="Paragraph">
+        <zone points="789,2985 788,2984 786,2980 660,2943 417,2932 395,2931 241,2940 238,2935 238,2928 239,2904 324,2864 344,2882 347,2882 396,2864 630,2859 781,2856 782,2856 882,2859 902,2859 915,2860 918,2867 922,2878 941,2878 952,2859 997,2860 998,2864 1033,2864 1102,2865 1151,2865 1151,2956 1086,2961 1068,2983 1047,2976 884,2936 861,2940 855,2950 850,2965 844,2956 835,2941 831,2947 829,2958" rendition="Line" xml:id="facs_31_line_1510303201467_2"/>
+        <zone points="393,2932 282,2949 277,2960 280,3005 285,3020 294,3032 449,3024 862,3050 868,3050 870,3035 882,3032 1035,3031 1322,3028 1326,3019 1326,2991 1326,2987 1320,2974 1303,2954 1267,2954 1255,2953 1090,2961 1072,2984 1065,2984 1045,2977 1034,2961 884,2937 857,2947 854,2959 851,2964 849,2964 842,2950 838,2943 836,2943 835,2942 829,2958 791,2986 789,2986 787,2982 787,2981 660,2939 574,2939 520,2938 501,2938 394,2932" rendition="Line" xml:id="facs_31_r1033"/>
+        <zone points="1033,3032 878,3033 870,3035 871,3047 871,3049 851,3049 449,3033 244,3033 243,3033 241,3044 241,3062 241,3067 343,3133 357,3134 440,3111 625,3113 710,3121 950,3129 1057,3117 1090,3127 1341,3104 1347,3090 1343,3067 1340,3057 1187,3032 1034,3032" rendition="Line" xml:id="facs_31_r1034_1_0_1_0"/>
+        <zone points="438,3112 357,3135 322,3135 288,3134 272,3187 272,3205 272,3207 273,3209 414,3209 620,3191 756,3210 1321,3199 1339,3168 1339,3143 1338,3138 1328,3125 1325,3124 1278,3124 1256,3115 1095,3128 1089,3128 1059,3118 950,3130 939,3122 898,3121 859,3121 756,3120 733,3129 730,3129 719,3122 714,3122 710,3121 696,3123 686,3123 625,3114 446,3114 439,3112" rendition="Line" xml:id="facs_31_r1035_1_0_1_0"/>
+        <zone points="262,3166 250,3196 250,3221 267,3277 774,3294 948,3292 1125,3298 1198,3293 1386,3295 1389,3289 1389,3285 1365,3217 1167,3186 756,3211 752,3211 620,3191 619,3191 605,3190 414,3210 412,3210 410,3209 402,3209 279,3208 272,3208 271,3187 275,3168 269,3168 263,3166" rendition="Line" xml:id="facs_31_r1036_1_0_1_0"/>
+        <zone points="945,3294 394,3298 294,3305 277,3328 276,3351 278,3361 282,3369 708,3378 723,3378 977,3373 1057,3355 1076,3367 1325,3364 1331,3352 1330,3325 1328,3319 1199,3294 1127,3299 1123,3299 946,3294" rendition="Line" xml:id="facs_31_r1037_1_0_1_0"/>
+        <zone points="1055,3356 1032,3370 1019,3370 989,3369 964,3369 841,3368 830,3368 797,3367 723,3379 706,3379 600,3376 562,3376 517,3375 322,3375 304,3374 278,3411 277,3439 278,3446 287,3458 412,3463 475,3482 490,3482 489,3473 490,3463 496,3459 651,3463 657,3480 658,3484 681,3484 753,3466 976,3463 1199,3489 1251,3469 1298,3408 1298,3402 1056,3356" rendition="Line" xml:id="facs_31_r1038_1_0_1_0"/>
+        <zone points="1338,3456 1263,3459 1200,3490 1197,3490 1186,3474 1184,3474 701,3473 681,3485 678,3485 661,3484 657,3484 656,3476 654,3470 652,3465 648,3464 511,3464 491,3463 490,3476 491,3480 491,3482 470,3482 412,3464 328,3464 310,3463 286,3468 275,3497 275,3511 280,3530 305,3551 450,3540 573,3557 921,3542 1071,3558 1273,3552 1346,3545 1366,3539 1389,3461 1389,3457 1339,3456" rendition="Line" xml:id="facs_31_r1039_1_0_1_0"/>
+        <zone points="268,3536 265,3541 269,3592 278,3624 485,3628 635,3641 1008,3641 1167,3641 1387,3640 1388,3640 1389,3634 1389,3632 1321,3563 1318,3563 1292,3562 1258,3562 1207,3561 1200,3561 1081,3560 1048,3560 928,3543 574,3558 570,3558 471,3541 372,3541 340,3540 312,3553 309,3553 283,3536 269,3536" rendition="Line" xml:id="facs_31_r1040_1_0_1_0"/>
+        <zone points="480,3631 360,3634 271,3646 267,3657 270,3689 272,3698 285,3718 513,3713 741,3735 745,3719 747,3717 758,3728 877,3719 1038,3720 1139,3741 1308,3723 1363,3648 1363,3643 1354,3642 1162,3642 1010,3641 1003,3641 650,3640 629,3641 626,3641 481,3631" rendition="Line" xml:id="facs_31_r1041"/>
+        <zone points="506,3718 341,3719 276,3741 272,3753 275,3780 276,3786 401,3801 705,3807 734,3800 1265,3811 1385,3800 1389,3791 1389,3749 1389,3747 1355,3723 1354,3723 1343,3722 1140,3742 1137,3742 1038,3721 883,3721 876,3720 761,3728 756,3728 750,3719 747,3718 744,3733 730,3733 507,3718" rendition="Line" xml:id="facs_31_r1042"/>
+        <zone points="732,3803 334,3804 273,3823 267,3840 273,3865 280,3876 720,3888 725,3895 725,3896 727,3899 880,3886 974,3890 990,3888 1073,3903 1211,3901 1292,3888 1316,3860 1324,3818 1324,3814 1321,3810 1316,3809 1265,3815 1242,3815 733,3803" rendition="Line" xml:id="facs_31_r1043"/>
+        <zone points="877,3887 729,3900 727,3900 722,3892 722,3891 716,3890 287,3899 261,3916 261,3949 265,3960 364,3980 1345,3980 1350,3978 1355,3942 1355,3936 1353,3924 1336,3905 1301,3905 1288,3904 1124,3904 1114,3903 1096,3903 1078,3902 1068,3902 976,3891 973,3891 969,3891 968,3890 907,3890 878,3887" rendition="Line" xml:id="facs_31_r1044"/>
+      </zone>
+      <zone points="1435,584 2648,584 2648,3209 2373,3209 2382,3285 1435,3279" rendition="TextRegion" xml:id="facs_31_TextRegion_1573742706068_4105" subtype="Paragraph">
+        <zone points="2066,582 1476,584 1435,588 1433,593 1433,689 1433,691 1507,720 1531,721 1617,709 1671,708 1858,709 1964,707 2146,709 2453,711 2476,721 2647,677 2649,672 2649,669 2539,602 2404,602 2298,582 2067,582" rendition="Line" xml:id="facs_31_r1001"/>
+        <zone points="1953,708 1666,709 1617,710 1531,724 1526,724 1525,723 1499,723 1481,722 1474,739 1474,778 1474,780 1510,786 1580,781 1582,784 2191,779 2242,785 2328,778 2330,784 2332,786 2497,781 2515,775 2521,746 2522,722 2521,717 2518,712 2476,722 2474,722 2453,712 2153,712 2141,711 2030,711 1995,711 1954,708" rendition="Line" xml:id="facs_31_r1002"/>
+        <zone points="2326,779 2244,786 2239,786 2192,780 1584,786 1582,783 1581,783 1576,782 1482,804 1474,823 1480,852 1487,864 1790,864 1895,877 2276,861 2393,870 2410,857 2548,851 2559,836 2559,809 2558,803 2551,790 2533,789 2474,789 2465,788 2439,788 2434,787 2397,787 2394,787 2333,786 2331,786 2327,779" rendition="Line" xml:id="facs_31_r1003"/>
+        <zone points="2412,859 2393,871 2392,871 2279,862 1895,878 1893,878 1790,865 1490,876 1433,941 1433,947 1441,957 1546,969 1667,959 1672,970 1687,972 1716,945 1722,945 1767,971 1777,966 1778,953 1787,947 2208,979 2359,945 2537,962 2590,917 2591,908 2584,883 2584,881 2413,859" rendition="Line" xml:id="facs_31_r1004"/>
+        <zone points="1716,946 1693,972 1675,972 1673,972 1670,964 1667,958 1642,957 1489,960 1433,1028 1433,1034 1437,1040 1557,1041 1568,1056 1587,1062 1610,1049 1675,1065 1753,1063 1904,1041 2026,1062 2133,1045 2434,1060 2438,1042 2444,1038 2446,1038 2447,1045 2451,1051 2518,1035 2520,1030 2474,957 2472,957 2443,956 2401,956 2359,946 2208,980 2206,980 2193,966 2192,966 1788,948 1781,948 1778,966 1774,971 1759,971 1717,946" rendition="Line" xml:id="facs_31_r1006"/>
+        <zone points="2442,1039 2437,1057 2434,1061 2427,1061 2209,1043 2027,1062 2023,1062 2015,1051 1908,1042 1753,1064 1749,1064 1735,1047 1701,1046 1677,1066 1673,1066 1641,1046 1587,1063 1584,1063 1561,1043 1544,1042 1473,1058 1433,1115 1433,1120 1433,1122 1533,1159 1652,1134 1848,1129 1977,1126 2483,1129 2528,1064 2528,1058 2521,1049 2514,1048 2476,1048 2473,1048 2472,1047 2448,1047 2446,1041 2446,1039 2443,1039" rendition="Line" xml:id="facs_31_r1007"/>
+        <zone points="1975,1127 1652,1135 1533,1160 1529,1160 1468,1137 1452,1139 1433,1204 1433,1208 1440,1217 1629,1214 1839,1233 1931,1214 2218,1209 2313,1220 2498,1213 2549,1184 2556,1157 2555,1145 1976,1127" rendition="Line" xml:id="facs_31_r1008"/>
+        <zone points="1625,1215 1475,1226 1456,1231 1433,1288 1433,1293 1465,1304 2476,1298 2587,1292 2596,1273 2593,1248 2592,1241 2586,1232 2523,1231 2501,1231 2498,1230 2489,1230 2461,1229 2450,1229 2218,1215 1931,1215 1839,1234 1837,1234 1804,1217 1633,1217 1626,1215" rendition="Line" xml:id="facs_31_r1009"/>
+        <zone points="1947,1303 1455,1312 1444,1314 1433,1373 1433,1377 1526,1409 1528,1409 1529,1397 1531,1390 1868,1387 2200,1383 2502,1381 2517,1388 2524,1392 2541,1353 2541,1335 2539,1325 2537,1318 2472,1303 2093,1303 1948,1303" rendition="Line" xml:id="facs_31_r1010"/>
+        <zone points="2198,1384 1535,1388 1529,1409 1522,1409 1503,1396 1461,1400 1433,1451 1433,1457 1439,1463 1927,1466 2143,1466 2520,1464 2541,1453 2538,1406 2512,1386 2506,1386 2498,1385 2207,1385 2199,1384" rendition="Line" xml:id="facs_31_r1011"/>
+        <zone points="1941,1466 1592,1470 1466,1479 1449,1483 1433,1546 1433,1550 1444,1562 1724,1567 1884,1560 1997,1560 2000,1566 2002,1569 2168,1560 2378,1573 2471,1562 2538,1542 2559,1486 2559,1484 2555,1479 2498,1478 2394,1478 2326,1469 2307,1469 2300,1468 1962,1468 1953,1467 1946,1467 1942,1466" rendition="Line" xml:id="facs_31_r1012"/>
+        <zone points="1872,1561 1459,1566 1448,1570 1433,1630 1433,1636 1436,1640 1750,1655 1911,1639 2097,1647 2545,1636 2564,1601 2564,1595 2562,1586 2557,1575 2378,1574 2375,1574 2322,1565 2191,1565 2178,1561 2002,1570 1999,1562 1994,1561 1884,1561 1873,1561" rendition="Line" xml:id="facs_31_r1013"/>
+        <zone points="1909,1640 1750,1656 1748,1656 1733,1653 1732,1653 1707,1652 1699,1652 1669,1651 1547,1651 1543,1650 1482,1651 1433,1713 1433,1718 1433,1720 1468,1735 1586,1728 1615,1742 1852,1721 1859,1721 2123,1721 2135,1733 2318,1722 2542,1733 2599,1712 2599,1707 2539,1646 2537,1646 2513,1645 2333,1645 2318,1644 2072,1644 2027,1644 1910,1640" rendition="Line" xml:id="facs_31_r1014"/>
+        <zone points="1849,1722 1616,1743 1613,1743 1586,1729 1476,1744 1433,1801 1433,1807 1448,1823 1588,1835 1656,1816 1984,1836 2020,1815 2077,1810 2281,1838 2346,1817 2548,1802 2554,1789 2552,1759 2551,1754 2339,1724 2324,1724 2315,1723 2126,1723 2119,1722 1850,1722" rendition="Line" xml:id="facs_31_r1015"/>
+        <zone points="2031,1600 1976,1604 1944,1625 1935,1625 1615,1606 1545,1625 1541,1625 1434,1624 1426,1650 1426,1674 1427,1678 1714,1690 1716,1697 1716,1698 1718,1700 2093,1686 2316,1702 2577,1697 2592,1686 2593,1682 2585,1662 2490,1609 2480,1608 2336,1608 2319,1607 2238,1628 2235,1628 2032,1600" rendition="Line" xml:id="facs_31_r1016"/>
+        <zone points="1434,1892 1433,1984 1433,1986 1514,2011 1629,1993 1703,2014 1744,1989 1808,1988 1809,1994 1809,1995 1819,2005 1905,1988 1922,2002 2117,1986 2266,1981 2283,1981 2541,1991 2543,1998 2546,2001 2591,1994 2595,1986 2596,1927 2595,1920 2360,1915 2357,1915 2353,1909 2342,1908 2219,1908 2202,1907 2155,1907 2137,1898 1761,1911 1759,1904 1759,1902 1758,1900 1754,1900 1719,1899 1665,1899 1658,1898 1637,1898 1622,1897 1552,1898 1551,1898 1535,1897 1489,1897 1467,1892 1435,1892" rendition="Line" xml:id="facs_31_r1017"/>
+        <zone points="2264,1982 1905,1989 1810,1996 1809,1990 1808,1989 1798,1988 1744,1990 1705,2015 1701,2015 1689,1997 1686,1997 1675,1996 1645,1996 1624,1995 1516,2017 1512,2017 1456,2016 1433,2068 1433,2072 1467,2094 1548,2077 1567,2077 1679,2080 1730,2101 1837,2084 2006,2082 2394,2078 2397,2088 2398,2093 2532,2080 2612,2090 2625,2075 2625,2069 2543,1999 2542,1994 2542,1993 2526,1992 2477,1992 2464,1991 2406,1991 2339,1990 2307,1990 2283,1982 2265,1982" rendition="Line" xml:id="facs_31_r1018"/>
+        <zone points="1546,2078 1523,2080 1476,2091 1433,2149 1433,2154 1433,2156 1448,2172 1743,2185 1781,2174 1787,2185 1801,2188 1804,2188 1815,2172 2049,2162 2051,2162 2064,2185 2065,2186 2085,2175 2134,2188 2203,2169 2519,2170 2549,2146 2551,2139 2550,2118 2546,2088 2544,2083 2542,2083 2529,2082 2398,2094 2396,2082 2394,2079 2005,2081 1837,2081 1778,2081 1774,2081 1772,2080 1733,2102 1728,2102 1679,2080 1573,2080 1561,2079 1552,2079 1547,2078" rendition="Line" xml:id="facs_31_r1019"/>
+        <zone points="2047,2163 1815,2171 1805,2188 1797,2188 1781,2173 1772,2172 1743,2186 1626,2171 1517,2171 1505,2170 1463,2180 1433,2236 1433,2241 1433,2243 1446,2257 1487,2247 1785,2253 1802,2255 1869,2294 1872,2295 1883,2283 1960,2264 2218,2253 2500,2257 2536,2222 2532,2196 2525,2180 2345,2179 2338,2179 2150,2178 2137,2188 2130,2188 2089,2175 2067,2187 2065,2187 2048,2163" rendition="Line" xml:id="facs_31_r1020"/>
+        <zone points="1782,2254 1487,2255 1466,2261 1433,2334 1433,2339 1437,2344 1793,2349 2519,2337 2541,2333 2558,2284 2558,2281 2460,2260 2283,2260 2280,2259 2275,2259 2267,2258 2230,2258 2218,2254 1960,2263 1884,2283 1872,2296 1806,2256 1790,2256 1783,2254" rendition="Line" xml:id="facs_31_r1021"/>
+        <zone points="2282,2342 1899,2346 1658,2352 1484,2358 1433,2421 1433,2426 1433,2428 1444,2440 1475,2432 1690,2434 1709,2438 1711,2448 1722,2451 1724,2451 1725,2438 1734,2434 1739,2434 1750,2448 1872,2434 2433,2434 2568,2444 2587,2428 2591,2381 2591,2371 2591,2366 2588,2360 2441,2342 2283,2342" rendition="Line" xml:id="facs_31_r1022"/>
+        <zone points="1688,2435 1475,2436 1472,2436 1468,2474 1468,2497 1478,2533 1524,2520 1651,2523 1941,2542 2338,2530 2562,2519 2596,2469 2596,2463 2589,2453 2446,2435 1872,2435 1734,2435 1730,2435 1725,2451 1716,2451 1710,2437 1695,2437 1689,2435" rendition="Line" xml:id="facs_31_r1023"/>
+        <zone points="1521,2521 1505,2525 1457,2542 1433,2595 1433,2601 1445,2613 1702,2607 1775,2606 1967,2626 1969,2626 1983,2606 1991,2605 2062,2609 2096,2624 2530,2608 2559,2586 2560,2580 2558,2555 2553,2539 2530,2526 1946,2543 1939,2543 1651,2524 1575,2524 1522,2521" rendition="Line" xml:id="facs_31_r1024"/>
+        <zone points="1985,2606 1969,2627 1965,2627 1775,2607 1702,2608 1473,2621 1465,2640 1465,2682 1471,2692 1483,2693 2278,2692 2533,2677 2558,2644 2558,2638 2558,2636 2549,2619 2526,2618 2390,2618 2336,2610 2096,2625 2095,2625 2062,2610 2056,2610 1986,2606" rendition="Line" xml:id="facs_31_r1025"/>
+        <zone points="2538,2678 2278,2693 2277,2693 1892,2692 1881,2692 1845,2691 1793,2691 1775,2690 1531,2690 1508,2689 1454,2711 1433,2765 1433,2770 1447,2785 2016,2778 2282,2791 2285,2799 2285,2800 2516,2782 2517,2783 2582,2746 2597,2704 2594,2681 2584,2678 2539,2678" rendition="Line" xml:id="facs_31_r1026"/>
+        <zone points="2013,2779 1477,2784 1466,2791 1462,2828 1462,2846 1462,2848 1478,2863 2116,2869 2148,2883 2426,2871 2522,2865 2548,2810 2548,2806 2500,2783 2286,2801 2285,2801 2284,2794 2282,2791 2271,2790 2258,2790 2014,2779" rendition="Line" xml:id="facs_31_r1027"/>
+        <zone points="1547,2866 1464,2885 1433,2943 1433,2948 1433,2950 1435,2953 2267,2955 2453,2952 2561,2949 2567,2935 2567,2917 2565,2908 2554,2892 2148,2884 2146,2884 2116,2870 1848,2870 1841,2869 1580,2869 1548,2866" rendition="Line" xml:id="facs_31_r1028"/>
+        <zone points="1551,2961 1476,2966 1470,2967 1463,2990 1463,3018 1469,3033 1835,3056 1921,3044 1925,3050 1925,3051 1929,3058 2281,3044 2283,3044 2285,3059 2285,3062 2329,3067 2427,3047 2432,3057 2433,3062 2546,3046 2563,3015 2565,2967 2565,2962 2559,2961 1552,2961" rendition="Line" xml:id="facs_31_r1029"/>
+        <zone points="1920,3045 1476,3046 1460,3052 1461,3137 1461,3139 1462,3142 1888,3131 2066,3134 2114,3153 2122,3153 2123,3153 2124,3140 2133,3133 2187,3146 2267,3132 2293,3143 2303,3132 2318,3130 2512,3138 2536,3121 2536,3115 2487,3057 2484,3057 2458,3056 2433,3063 2431,3056 2430,3052 2428,3048 2331,3068 2327,3068 2288,3065 2287,3065 2285,3047 2285,3046 2284,3046 2279,3045 1930,3060 1921,3045" rendition="Line" xml:id="facs_31_r1030"/>
+        <zone points="1452,3130 1459,3130 1459,3131 1465,3146 1883,3132 1893,3133 2066,3133 2108,3152 2125,3152 2124,3150 2124,3139 2133,3134 2268,3133 2292,3144 2293,3144 2318,3131 2389,3143 2413,3143 2424,3144 2431,3144 2450,3145 2461,3145 2520,3146 2521,3146 2526,3157 2536,3202 2536,3209 2373,3209 2373,3210 2244,3216 2043,3225 1983,3214 1893,3227 1759,3213 1449,3215 1433,3175 1433,3148 1436,3138" rendition="Line" xml:id="facs_31_line_1573742706288_4108"/>
+        <zone points="1450,3228 1466,3224 1520,3218 1759,3214 1892,3228 1893,3228 1990,3215 2040,3226 2045,3226 2370,3211 2370,3281 2161,3282 2128,3283 1435,3279" rendition="Line" xml:id="facs_31_line_1573742706290_4110"/>
+      </zone>
+      </surface>
+    </facsimile>
+  <text>
+    <body>
+            <pb facs="#facs_31" n="fol. 14r" xml:id="img_0031" source="saa-0428_014r"/>
+      <p facs="#facs_31_region_1489148562422_3" rend="Stücknummer_Kopialbuch" type="marginal">
+        <lb facs="#facs_31_line_1570713247325_880" n="N001"/>
+                <reg type="star">✳</reg> viij <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_31_TextRegion_1573742266610_3966">
+        <lb facs="#facs_31_line_1573742256722_3961" n="N001"/>
+                <hi rend="rubricated">Diz sint die brief</hi>
+        <lb facs="#facs_31_r1023" n="N002"/>
+                <hi rend="rubricated">die die <orgName ref="org000088">edeln <choice>
+                            <abbr>un̄</abbr>
+                            <expan>und</expan>
+                        </choice> hochgebornen fùr<reg type="lb">¬</reg>
+                    </orgName>
+                </hi>
+        <lb facs="#facs_31_r1024" n="N003" break="no"/>
+                <hi rend="rubricated">
+                    <orgName ref="org000088">sten <choice>
+                            <abbr>un̄</abbr>
+                            <expan>und</expan>
+                        </choice> furstenne <choice>
+                            <abbr>un̄</abbr>
+                            <expan>und</expan>
+                        </choice> unser gnedig</orgName>
+                </hi>
+        <lb facs="#facs_31_line_1489148652767_9" n="N004"/>
+                <hi rend="rubricated">
+                    <orgName ref="org000088">stif<choice>
+                            <abbr>tˀ</abbr>
+                            <expan>ter</expan>
+                        </choice> <choice>
+                            <abbr>un̄</abbr>
+                            <expan>und</expan>
+                        </choice> stifterin</orgName> dem <orgName ref="org002627">closter</orgName> ge<reg type="hyphen">-</reg>
+                </hi>
+        <lb facs="#facs_31_r1026" n="N005" break="no"/>
+                <hi rend="rubricated">wunnen habent von unserm <orgName ref="org000057">hei<reg type="hyphen">-</reg>
+                    </orgName>
+                </hi>
+        <lb facs="#facs_31_line_1489148667394_10" n="N006" break="no"/>
+                <hi rend="rubricated">
+                    <orgName ref="org000057">ligen vatter dem bapste</orgName> <choice>
+                        <abbr>un̄</abbr>
+                        <expan>und</expan>
+                    </choice> von</hi>
+        <lb facs="#facs_31_line_1489148671000_11" n="N007"/>
+                <hi rend="rubricated">dem <orgName ref="org000056">bischof</orgName> <choice>
+                        <abbr>un̄</abbr>
+                        <expan>und</expan>
+                    </choice> von dem <orgName ref="org002902">capitel ze</orgName>
+                </hi>
+        <lb facs="#facs_31_line_1573742266828_3969" n="N008"/>
+                <hi rend="rubricated">
+                    <orgName ref="org002902">Costentz</orgName> uber die <placeName ref="loc011668">kilchen ze Stou<reg type="lb">¬</reg>
+                    </placeName>
+                </hi>
+        <lb facs="#facs_31_line_1510303201467_1" n="N009" break="no"/>
+                <hi rend="rubricated">
+                    <placeName ref="loc011668">¶ ffen</placeName>
+                    <reg>.</reg> <reg type="star">✳</reg>
+                </hi>
+            </p>
+      <p facs="#facs_31_region_1570713144400_864" rend="Signaturverweis_Boner" type="marginal">
+        <lb facs="#facs_31_line_1570714427016_1158" n="N001"/>
+                <del rend="strikethrough">147</del>
+        <lb facs="#facs_31_line_1570713154602_872" n="N002"/>130b</p>
+      <p facs="#facs_31_TextRegion_1573742266609_3965">
+        <lb facs="#facs_31_line_1510303201467_2" n="N001"/>
+                <persName ref="per012256">Iohannes <choice>
+                        <abbr>ep̄s</abbr>
+                        <expan>episcopus</expan>
+                    </choice> servus servo<choice>
+                        <abbr>ꝝ</abbr>
+                        <expan>rum</expan>
+                    </choice>
+        <lb facs="#facs_31_r1033" n="N002"/>dei</persName> dilecto filio<reg>,</reg> <reg type="star">✳</reg> <reg type="star">✳</reg> abbati <orgName ref="org000120">monasterii
+        <lb facs="#facs_31_r1034" n="N003"/>in Salem Constanti<choice>
+                        <abbr>en̄</abbr>
+                        <expan>ensis</expan>
+                    </choice> <choice>
+                        <abbr>dyoc̄</abbr>
+                        <expan>dyocesis</expan>
+                    </choice>
+                </orgName> salutem
+        <lb facs="#facs_31_r1035" n="N004"/>et <choice>
+                    <abbr>apľi</abbr>
+                    <expan>apostoli</expan>
+                </choice>cam <choice>
+                    <abbr>ben̄̄</abbr>
+                    <expan>benedictionem</expan>
+                </choice>
+                <reg>.</reg>
+                <reg type="star">✳</reg> significarunt nobis
+        <lb facs="#facs_31_r1036" n="N005"/>dilecte <del rend="strikethrough /subpunction">dilecte</del> in <choice>
+                    <abbr>xp̄o</abbr>
+                    <expan>Christo</expan>
+                </choice> filie <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org002627">abbatissa
+        <lb facs="#facs_31_r1037" n="N006"/>et conventus monasterii monialium
+        <lb facs="#facs_31_r1038" n="N007"/>Campiregis <reg type="star">✳</reg> ordinis Sancte Clare
+        <lb facs="#facs_31_r1039" n="N008"/>Con<choice>
+                        <abbr>stan̄t</abbr>
+                        <expan>stantiensis</expan>
+                    </choice> <choice>
+                        <abbr>dyoc̄</abbr>
+                        <expan>dyocesis</expan>
+                    </choice>
+                </orgName>
+                <reg>,</reg> <reg type="star">✳</reg> <choice>
+                    <abbr>qdʼ</abbr>
+                    <expan>quod</expan>
+                </choice> nonnulli parrochia<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1040" n="N009" break="no"/>ni <orgName ref="org004257">ec<choice>
+                        <abbr>cľie</abbr>
+                        <expan>clesie</expan>
+                    </choice> in Stouͧffen <choice>
+                        <abbr>dc̄e</abbr>
+                        <expan>dicte</expan>
+                    </choice> <choice>
+                        <abbr>dyoc̄</abbr>
+                        <expan>dyocesis</expan>
+                    </choice>
+                </orgName> <reg type="star">✳</reg> quam
+        <lb facs="#facs_31_r1041" n="N010"/>dicte abbatissa et conventus ex pri<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1042" n="N011" break="no"/>vilegio <orgName ref="org000057">sedis <choice>
+                        <abbr>apľi</abbr>
+                        <expan>apostoli</expan>
+                    </choice>ce</orgName> speciali inproprios
+        <lb facs="#facs_31_r1043" n="N012"/>usus canonice obtinent <reg type="star">✳</reg> et cui per
+        <lb facs="#facs_31_r1044" n="N013"/>proprium vicarium secularem curam</p>
+      <p facs="#facs_31_TextRegion_1573742706068_4105">
+        <lb facs="#facs_31_r1001" n="N001"/>anima<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> gerentem parrochiano<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+        <lb facs="#facs_31_r1002" n="N002"/>
+                <choice>
+                    <abbr>ip̄o</abbr>
+                    <expan>ipso</expan>
+                </choice>
+                <choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> faciunt deserviri de proventi<choice>
+                    <abbr>bƺ</abbr>
+                    <expan>bus</expan>
+                </choice>
+        <lb facs="#facs_31_r1003" n="N003"/>terra<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+                <reg>,</reg> vinea<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+                <reg>,</reg> orto<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+                <reg>,</reg> molendino<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+                <reg>,</reg> pra<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1004" n="N004" break="no"/>to<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+                <reg>,</reg> possessio<choice>
+                    <abbr>nū</abbr>
+                    <expan>num</expan>
+                </choice> nemo<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> et alio<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice> bono<choice>
+                    <abbr>ꝝ</abbr>
+                    <expan>rum</expan>
+                </choice>
+                <reg>,</reg>
+        <lb facs="#facs_31_r1006" n="N005"/>que infra limites parrochie <choice>
+                    <abbr>ip̄i</abbr>
+                    <expan>ipsi</expan>
+                </choice>us
+        <lb facs="#facs_31_r1007" n="N006"/>ec<choice>
+                    <abbr>cľie</abbr>
+                    <expan>clesie</expan>
+                </choice> obtinent<reg>,</reg> <reg type="star">✳</reg> decimas eidem ec<choice>
+                    <abbr>cľie</abbr>
+                    <expan>clesie</expan>
+                </choice>
+        <lb facs="#facs_31_r1008" n="N007"/>debitas <choice>
+                    <abbr>p̄</abbr>
+                    <expan>pre</expan>
+                </choice>dicitis abbatisse et conven<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1009" n="N008" break="no"/>tui solvere indebite contradicunt<reg>,</reg> <reg type="star">✳</reg> quan<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1010" n="N009" break="no"/>dam pravam consuetu<choice>
+                    <abbr>dīem</abbr>
+                    <expan>dinem</expan>
+                </choice>
+                <reg>,</reg> que corrup<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1011" n="N010" break="no"/>tela dicenda est potius<reg>,</reg> pretendentes<reg>,</reg>
+        <lb facs="#facs_31_r1012" n="N011"/>videli<choice>
+                    <abbr>cƺ</abbr>
+                    <expan>cet</expan>
+                </choice> <choice>
+                    <abbr>qdʼ</abbr>
+                    <expan>quod</expan>
+                </choice> de tali<choice>
+                    <abbr>bƺ</abbr>
+                    <expan>bus</expan>
+                </choice> nullo un<choice>
+                    <abbr>qm̃</abbr>
+                    <expan>quam</expan>
+                </choice> tem<choice>
+                    <abbr>ꝑe</abbr>
+                    <expan>pore</expan>
+                </choice>
+        <lb facs="#facs_31_r1013" n="N012"/>decimas persolverunt; <reg type="star">✳</reg> cum igi<choice>
+                    <abbr>t̃</abbr>
+                    <expan>tur</expan>
+                </choice> tanto
+        <lb facs="#facs_31_r1014" n="N013"/>graviora sint crimina<reg>,</reg> quanto diutius
+        <lb facs="#facs_31_r1015" n="N014"/>infelicem animam detinent alligatam<reg>,</reg> <reg type="star">✳</reg>
+        <lb facs="#facs_31_r1016" n="N015"/>ac in signum uni<choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>salis dominii quasi
+        <lb facs="#facs_31_r1017" n="N016"/>quodam titulo speciali sibi dominus de<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1018" n="N017" break="no"/>cimas reservarit<reg>,</reg> <reg type="star">✳</reg> discre<choice>
+                    <abbr>tō</abbr>
+                    <expan>tio</expan>
+                </choice>ni tue per
+        <lb facs="#facs_31_r1019" n="N018"/>
+                <choice>
+                    <abbr>apľi</abbr>
+                    <expan>apostoli</expan>
+                </choice>ca scripta mandamus<reg>,</reg> <reg type="star">✳</reg> quatinus<reg>,</reg> si
+        <lb facs="#facs_31_r1020" n="N019"/>est ita<reg>,</reg> prefatos parrochianos<reg>,</reg> <reg type="star">✳</reg> ut con<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1021" n="N020" break="no"/>suetudine hui<choice>
+                    <abbr>ꝰ</abbr>
+                    <expan>us</expan>
+                </choice>modi non obstante de<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1022" n="N021" break="no"/>cimas de predictis eidem ec<choice>
+                    <abbr>cľie</abbr>
+                    <expan>clesie</expan>
+                </choice> debitas <reg type="star">✳</reg>
+        <lb facs="#facs_31_r1023" n="N022"/>
+                <choice>
+                    <abbr>p̄</abbr>
+                    <expan>prae</expan>
+                </choice>fatis abbatisse et conventui <choice>
+                    <abbr>ꝑ</abbr>
+                    <expan>per</expan>
+                </choice>solvant
+        <lb facs="#facs_31_r1024" n="N023"/>integre<reg>,</reg> ut tenen<choice>
+                    <abbr>t̃</abbr>
+                    <expan>tur</expan>
+                </choice>
+                <reg>,</reg> monitione premissa
+        <lb facs="#facs_31_r1025" n="N024"/>per censuram ec<choice>
+                    <abbr>cľi</abbr>
+                    <expan>clesi</expan>
+                </choice>asticam appellatione
+        <lb facs="#facs_31_r1026" n="N025"/>remota previa ratione compellas<reg>.</reg> <reg type="star">✳</reg> te<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1027" n="N026" break="no"/>stes autem<reg>,</reg> qui fuerint nominati<reg>,</reg> si se
+        <lb facs="#facs_31_r1028" n="N027"/>gratia<reg>,</reg> odio <choice>
+                    <abbr>vlʼ</abbr>
+                    <expan>vel</expan>
+                </choice> timore subtraxerint<reg>,</reg> cen<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1029" n="N028" break="no"/>sura simili appella<choice>
+                    <abbr>tō</abbr>
+                    <expan>tio</expan>
+                </choice>ne cessante compel<reg type="lb">¬</reg>
+        <lb facs="#facs_31_r1030" n="N029" break="no"/>las veritati testimonium perhibere<reg>.</reg> <reg type="star">✳</reg>
+        <lb facs="#facs_31_line_1573742706288_4108" n="N030"/>datum <reg type="star">✳</reg> <placeName ref="loc010229">Avini<choice>
+                        <abbr>on̄</abbr>
+                        <expan>one</expan>
+                    </choice>
+                </placeName> <reg type="star">✳</reg> <date when="1333-10-02">vj <reg type="star">✳</reg> <choice>
+                        <abbr>non̄</abbr>
+                        <expan>nonas</expan>
+                    </choice> <reg type="star">✳</reg> octo<choice>
+                        <abbr>br₎</abbr>
+                        <expan>bris</expan>
+                    </choice>
+                    <reg>,</reg> <reg type="star">✳</reg> pon<reg type="lb">¬</reg>
+        <lb facs="#facs_31_line_1573742706290_4110" n="N031" break="no"/>tificatus <choice>
+                        <abbr>nr̄i</abbr>
+                        <expan>nostri</expan>
+                    </choice> <reg type="star">✳</reg> anno decimo octavo</date>
+                <reg>.</reg> <reg type="star">✳</reg>
+            </p>
+      </body>
+  </text>
+</TEI>

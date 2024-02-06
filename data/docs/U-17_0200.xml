@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>StAAG U.17/0200</title>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="ch">Dr. Colette Halter-Pernet</persName>
+          <resp key="transcript">Kollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="sste">Sabine Stettler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="tagging">Abschlusskollation</resp>
+        </respStmt>
+        <respStmt>
+          <persName ref="KF">KF</persName>
+          <resp key="">Qualitätskontrolle</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <date type="electronic" when="2017-12-31"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Editionsprojekt «Die Urkunden und Akten des Klosters und der Hofmeisterei Königsfelden (1300–1658)»</title>
+        <respStmt>
+          <persName>Prof. Dr. Simon Teuscher</persName>
+          <resp>Editor</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>
+            <msDesc>
+              <msIdentifier>
+                <idno n="">StAAG U.17/0200</idno>
+                <altIdentifier>
+                  <idno type="short">StAAG U.17/0200</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <summary source="Boner">Abt Konrad und der Konvent des Klosters Muri verkaufen dem Kloster Königsfelden um 125 Gulden den Hof Dietfurt zu Dottikon samt Zubehör.</summary>
+                <msItem>
+                  <textLang>Frühneuhochdeutsch</textLang>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <supportDesc>
+                    <support>
+                      <material>Pergament</material>
+                    </support>
+                    <extent>
+                      <dimensions type="leaves">
+                        <width unit="cm" quantity="34.5"/>
+                        <height unit="cm" quantity="28.6"/>
+                      </dimensions>
+                      <dimensions type="plica">
+                        <width unit="cm" quantity="4.4"/>
+                      </dimensions>
+                    </extent>
+                    <condition/>
+                  </supportDesc>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin>
+                  <origDate calendar="Julian" when="1344-01-05">05. Januar 1344</origDate>
+                  <origPlace ref="">Muri</origPlace>
+                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <head/>
+                  <bibl/>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </witness>
+          <witness copyOf="StAAG_U-17_0200">
+            <msDesc>
+              <msIdentifier corresp="KB_2-AA_0429">
+                <idno>StAAG AA/0429, fol. 200r-201r</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy/>
+      </classDecl>
+      <editorialDecl>Das Dokument wurde nach Transkriptions- und Auszeichnungsrichtlinien in Anlehnung an die Vorschriften der <ref target="https://www.ssrq-sds-fds.ch/wiki/">Schweizerischen Rechtsquellenstiftung</ref> bearbeitet. Abweichungen wurden dokumentiert.</editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Kaufgeschäft</term>
+        </keywords>
+      </textClass>
+      <particDesc>
+        <listPerson/>
+        <listOrg/>
+      </particDesc>
+      <settingDesc>
+        <listPlace/>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+<facsimile>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_1">
+      <graphic url="U-17_0200_r.jpg" width="7360" height="4912"/>
+      <zone points="1649,481 4964,481 4964,2920 1649,2920" rendition="TextRegion" xml:id="facs_1_region_1496139833232_309">
+        <zone points="1725,647 4872,633 4872,683 1725,697" rendition="Line" xml:id="facs_1_line_1496139953688_310"/>
+        <zone points="2006,710 4816,710 4816,760 2006,760" rendition="Line" xml:id="facs_1_line_1496139956137_311"/>
+        <zone points="1843,803 4824,799 4824,849 1843,853" rendition="Line" xml:id="facs_1_line_1496139958481_312"/>
+        <zone points="1832,884 4879,873 4879,923 1832,934" rendition="Line" xml:id="facs_1_line_1496139960898_313"/>
+        <zone points="1843,958 4920,947 4920,997 1843,1008" rendition="Line" xml:id="facs_1_line_1496139963186_314"/>
+        <zone points="1817,1039 4876,1028 4876,1078 1817,1089" rendition="Line" xml:id="facs_1_line_1496139965697_315"/>
+        <zone points="1858,1113 4842,1109 4842,1159 1858,1163" rendition="Line" xml:id="facs_1_line_1496139968642_316"/>
+        <zone points="1817,1190 4868,1183 4868,1233 1817,1240" rendition="Line" xml:id="facs_1_line_1496139971226_317"/>
+        <zone points="1850,1264 4887,1272 4887,1322 1850,1314" rendition="Line" xml:id="facs_1_line_1496139973667_318"/>
+        <zone points="1839,1360 4842,1342 4842,1392 1839,1410" rendition="Line" xml:id="facs_1_line_1496139976587_319"/>
+        <zone points="1821,1434 4805,1434 4805,1484 1821,1484" rendition="Line" xml:id="facs_1_line_1496139979355_320"/>
+        <zone points="1843,1523 4853,1504 4853,1554 1843,1573" rendition="Line" xml:id="facs_1_line_1496139981683_321"/>
+        <zone points="1854,1597 4868,1586 4868,1636 1854,1647" rendition="Line" xml:id="facs_1_line_1496139984323_322"/>
+        <zone points="1843,1682 4846,1656 4846,1706 1843,1732" rendition="Line" xml:id="facs_1_line_1496139987515_323"/>
+        <zone points="1895,1748 4831,1744 4831,1794 1895,1798" rendition="Line" xml:id="facs_1_line_1496139990123_324"/>
+        <zone points="1869,1822 4894,1818 4894,1868 1869,1872" rendition="Line" xml:id="facs_1_line_1496139993261_325"/>
+        <zone points="1854,1903 4813,1881 4813,1931 1854,1953" rendition="Line" xml:id="facs_1_line_1496139995828_326"/>
+        <zone points="1858,1970 4842,1966 4842,2016 1858,2020" rendition="Line" xml:id="facs_1_line_1496139998300_327"/>
+        <zone points="1873,2058 4887,2055 4887,2105 1873,2108" rendition="Line" xml:id="facs_1_line_1496140000756_328"/>
+        <zone points="1836,2136 4850,2121 4850,2171 1836,2186" rendition="Line" xml:id="facs_1_line_1496140003621_329"/>
+        <zone points="1836,2221 4850,2188 4850,2238 1836,2271" rendition="Line" xml:id="facs_1_line_1496140006253_330"/>
+        <zone points="1868,2306 3668,2273 4828,2287 4827,2337 3668,2323 1869,2356" rendition="Line" xml:id="facs_1_line_1496140009917_331"/>
+        <zone points="1857,2383 3272,2358 4827,2358 4827,2408 3272,2408 1858,2433" rendition="Line" xml:id="facs_1_line_1496140013228_332"/>
+        <zone points="1932,2457 3350,2442 4842,2442 4842,2492 3350,2492 1932,2507" rendition="Line" xml:id="facs_1_line_1496140017597_333"/>
+        <zone points="1835,2539 3372,2520 4857,2524 4857,2574 3372,2570 1836,2589" rendition="Line" xml:id="facs_1_line_1496140020701_334"/>
+        <zone points="1838,2620 3601,2598 4857,2601 4857,2651 3601,2648 1839,2670" rendition="Line" xml:id="facs_1_line_1496140023854_335"/>
+        <zone points="1857,2719 3453,2675 4810,2694 4809,2744 3453,2725 1858,2769" rendition="Line" xml:id="facs_1_line_1496140026734_336"/>
+        <zone points="1820,2804 3892,2771 3893,2821 1821,2854" rendition="Line" xml:id="facs_1_line_1496140029183_337"/>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="7360" lry="4912" xml:id="facs_2">
+      <graphic url="U-17_0200_v.jpg" width="7360" height="4912"/>
+      <zone points="2689,1853 3945,1853 3945,2563 2689,2563" rendition="TextRegion" xml:id="facs_2_region_1548057139919_436" subtype="Dorsual_Regesta">
+        <zone points="2731,1946 3892,1936 3892,1986 2731,1996" rendition="Line" xml:id="facs_2_line_1548057142975_439"/>
+        <zone points="2764,2037 3925,2024 3926,2074 2765,2087" rendition="Line" xml:id="facs_2_line_1548057145574_444"/>
+        <zone points="2764,2137 3855,2105 3856,2155 2765,2187" rendition="Line" xml:id="facs_2_line_1548057147612_449"/>
+        <zone points="2787,2225 3878,2197 3879,2247 2788,2275" rendition="Line" xml:id="facs_2_line_1548057150510_454"/>
+        <zone points="2835,2311 3444,2290 3857,2288 3857,2338 3445,2340 2837,2361" rendition="Line" xml:id="facs_2_line_1548057154571_459"/>
+        <zone points="3598,2392 3846,2382 3848,2432 3600,2442" rendition="Line" xml:id="facs_2_line_1548057156912_464"/>
+      </zone>
+      <zone points="2877,2962 3388,2962 3388,2377 2877,2377" rendition="TextRegion" xml:id="facs_2_region_1548057164318_471" subtype="Dorsual_Sigle">
+        <zone points="3120,2615 3385,2699 3369,2747 3104,2663" rendition="Line" xml:id="facs_2_line_1548057166896_474"/>
+        <zone points="2903,2889 3378,2867 3380,2917 2905,2939" rendition="Line" xml:id="facs_2_line_1548057168777_479"/>
+      </zone>
+      <zone points="3010,3130 3306,3130 3306,2957 3010,2957" rendition="TextRegion" xml:id="facs_2_region_1548057173898_485" subtype="Dorsual_Sigle">
+        <zone points="3026,3044 3280,3031 3282,3081 3028,3094" rendition="Line" xml:id="facs_2_line_1548057177131_488"/>
+      </zone>
+      <zone points="2730,3145 3731,3145 3727,3366 2726,3366" rendition="TextRegion" xml:id="facs_2_region_1548057180470_493" subtype="Sammelschicht_vor">
+        <zone points="2776,3192 3693,3257 3690,3307 2773,3242" rendition="Line" xml:id="facs_2_line_1548057183728_496"/>
+        <zone points="2777,3255 3230,3294 3220,3345 2767,3306" rendition="Line" xml:id="facs_2_line_1548057185719_501"/>
+      </zone>
+    <zone points="3007,328 4238,328 4238,632 3007,632" rendition="TextRegion" xml:id="facs_2_region_1548057108683_401" subtype="Dorsual_StAAG">
+        <zone points="3046,485 4080,478 4080,528 3046,535" rendition="Line" xml:id="facs_2_line_1548057112271_404"/>
+      </zone>
+      <zone points="2992,1237 3459,1237 3459,1540 2992,1540" rendition="TextRegion" xml:id="facs_2_region_1548057128550_422" subtype="Dorsual_StAAG-Stempel">
+        <zone points="3030,1338 3408,1343 3407,1393 3029,1388" rendition="Line" xml:id="facs_2_line_1548057131239_425"/>
+        <zone points="3069,1406 3369,1414 3368,1464 3068,1456" rendition="Line" xml:id="facs_2_line_1548057132863_430"/>
+      </zone>
+      <zone points="1620,636 2409,636 2409,318 1620,318" rendition="TextRegion" xml:id="facs_2_region_1548057119411_411" subtype="StAAG_modern">
+        <zone points="2360,410 1689,431 1688,381 2359,360" rendition="Line" xml:id="facs_2_line_1548057122415_414"/>
+      </zone>
+      <zone points="5008,2546 5164,2546 5164,2728 5008,2728" rendition="TextRegion" xml:id="facs_2_region_1548057216344_519" subtype="Speziell">
+        <zone points="5086,2573 5086,2696 5048,2700 5048,2577" rendition="Line" xml:id="facs_2_line_1548057219128_522"/>
+      </zone>
+      <zone points="4461,2193 4774,2193 4774,2371 4461,2371" rendition="TextRegion" xml:id="facs_2_region_1548057203605_510" subtype="Unleserlich">
+        <zone points="4498,2283 4768,2286 4773,2324 4503,2321" rendition="Line" xml:id="facs_2_line_1548057206246_513"/>
+      </zone>
+      </surface>
+  </facsimile>
+  <text>
+    <body>
+      <pb facs="#facs_1" n="recto" xml:id="img_0001" source="U-17_0200_r"/>
+      <p facs="#facs_1_region_1496139833232_309">
+        <lb facs="#facs_1_line_1496139953688_310" n="N001"/>Wir<reg>,</reg> <persName ref="per019543">Chuͦnrat<reg>,</reg> von gottes verhengnùst abt</persName>
+                <reg>,</reg> <reg type="star">✳</reg> und der <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org002674">convent gemeinlich dez gotzhus ze Mùre Sant Benedic<choice>
+                        <abbr>tē</abbr>
+                        <expan>ten</expan>
+                    </choice>
+        <lb facs="#facs_1_line_1496139956137_311" n="N002"/>ordens gelegen in Kòstentzer bystuͦm</orgName> <reg type="star">✳</reg> verjechen und tuͤn kùnt <reg type="star">✳</reg> allen den<reg>,</reg> <reg type="star">✳</reg> die disen brief sechent <reg type="star">✳</reg> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> hoͤrent lesen<reg>,</reg>
+        <lb facs="#facs_1_line_1496139958481_312" n="N003"/>
+                <del rend="overwritten">d</del>nù <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> har nach<reg>,</reg> <reg type="star">✳</reg> daz wir einellenclich <reg type="star">✳</reg> <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> mit bedach<choice>
+                    <abbr>tē</abbr>
+                    <expan>tem</expan>
+                </choice> muͦte <reg type="star">✳</reg> von unser und unsers gotzhuses not we<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice> <reg type="star">✳</reg> han ze koͧfen
+        <lb facs="#facs_1_line_1496139960898_313" n="N004"/>gege<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> <reg type="star">✳</reg> den <orgName ref="org002627">erwirdigen <choice>
+                        <abbr>un̄</abbr>
+                        <expan>und</expan>
+                    </choice> geistli<choice>
+                        <abbr>chē</abbr>
+                        <expan>chen</expan>
+                    </choice> froͧwen <reg type="star">✳</reg> <reg type="star">✳</reg> der eptischin und dem <reg type="star">✳</reg> <reg type="star">✳</reg> convente ze Kûngesvelt<reg>,</reg> <reg type="star">✳</reg> Sant Claren ordens<reg>,</reg>
+        <lb facs="#facs_1_line_1496139963186_314" n="N005"/>oͧch gelegen in Kostentzer bystuͦm</orgName>
+                <reg>,</reg> un<choice>
+                    <abbr>snˀ</abbr>
+                    <expan>sern</expan>
+                </choice> hof ze <placeName ref="loc009903">Tottikon</placeName>
+                <reg>,</reg> <reg type="star">✳</reg> dem man sprichet <reg type="star">✳</reg> der <placeName ref="loc011266">Hof ze Dyetfùrt</placeName>
+                <reg>,</reg> <reg type="star">✳</reg> den <persName ref="per019884">Beli</persName>
+                <reg>,</reg> <persName ref="per019883">Chuͦnratz <choice>
+                        <abbr>vō</abbr>
+                        <expan>von</expan>
+                    </choice> 
+        <lb facs="#facs_1_line_1496139965697_315" n="N006"/>Dietfûrt saͤli<choice>
+                        <abbr>gē</abbr>
+                        <expan>gen</expan>
+                    </choice>
+                </persName> wirtin<reg>,</reg> und irù kint<reg>,</reg> <reg type="star">✳</reg> und <persName ref="per019885">Chuͦnrat Vrie</persName> und sine geswistrigit <reg type="star">✳</reg> und <persName ref="per019887">
+                    <choice>
+                        <abbr>Heinr̄</abbr>
+                        <expan>Heinrich</expan>
+                    </choice> Kel<choice>
+                        <abbr>nˀ</abbr>
+                        <expan>ner</expan>
+                    </choice> von Hentzi<choice>
+                        <abbr>kō</abbr>
+                        <expan>kon</expan>
+                    </choice>
+                </persName> <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> sine
+        <lb facs="#facs_1_line_1496139968642_316" n="N007"/>geswistrigit bûwent<reg>,</reg> <reg type="star">✳</reg> der jerlich giltet <measure>funfthalb malter vesen</measure>
+                <reg>,</reg> <reg type="star">✳</reg> und <measure>funfthalb mal<choice>
+                        <abbr>tˀ</abbr>
+                        <expan>ter</expan>
+                    </choice> habern</measure>
+                <reg>,</reg> <reg type="star">✳</reg> der selb hof un<choice>
+                    <abbr>sˀs</abbr>
+                    <expan>sers</expan>
+                </choice> und
+        <lb facs="#facs_1_line_1496139971226_317" n="N008"/>unsers gotzhus eigen ist <reg type="star">✳</reg> und <choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> lute erbe<reg>,</reg> die dar uf sitzent von un<choice>
+                    <abbr>smˀ</abbr>
+                    <expan>serm</expan>
+                </choice> gotzhus <reg type="star">✳</reg> mit al<choice>
+                    <abbr>lē</abbr>
+                    <expan>len</expan>
+                </choice> nûtzen<reg>,</reg> <reg type="star">✳</reg> rechten <reg type="star">✳</reg> und ehaftigi<reg>,</reg> so
+        <lb facs="#facs_1_line_1496139973667_318" n="N009"/>dar zuͦ gehoͤrent<reg>,</reg> <reg type="star">✳</reg> ez sin aͤchere<reg>,</reg> <reg type="star">✳</reg> wisen<reg>,</reg> <reg type="star">✳</reg> hoͤltzer<reg>,</reg> <reg type="star">✳</reg> wasser<reg>,</reg> <reg type="star">✳</reg> stege <reg type="star">✳</reg> <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> wege<reg>,</reg> <reg type="star">✳</reg> swie ez genant ist<reg>,</reg> <reg type="star">✳</reg> ez si besuͦchet <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> nicht<reg>.</reg> <reg type="star">✳</reg> si sul<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1496139976587_319" n="N010" break="no"/>lent oͧch die lûte<reg>,</reg> die uf dem hofe sitzent und bùwent<reg>,</reg> vallen<reg>,</reg> <reg type="star">✳</reg> si sin uf dem hof gesessen <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> nicht<reg>.</reg> <reg type="star">✳</reg> wir <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>zichen ùns oͧch
+        <lb facs="#facs_1_line_1496139979355_320" n="N011"/>aller rechtûng <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> diensten<reg>,</reg> <reg type="star">✳</reg> so wir zuͦ sel<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> lûten ha<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> moͤchtin <reg type="star">✳</reg> al<choice>
+                    <abbr>lē</abbr>
+                    <expan>len</expan>
+                </choice> die wile und si den hof und guͤter buͦwent<reg>,</reg> ez
+        <lb facs="#facs_1_line_1496139981683_321" n="N012"/>
+                <choice>
+                    <abbr>wˀe</abbr>
+                    <expan>were</expan>
+                </choice> <choice>
+                    <abbr>dē</abbr>
+                    <expan>den</expan>
+                </choice>ne also verre<reg>,</reg> <reg type="star">✳</reg> daz si aͤndre guͤter von un<choice>
+                    <abbr>smˀ</abbr>
+                    <expan>serm</expan>
+                </choice> gotzhus hettin <reg type="star">✳</reg> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> aber noch enphiengin<reg>,</reg> dû vellig werin<reg>,</reg> <reg type="star">✳</reg> so sullen wir si
+        <lb facs="#facs_1_line_1496139984323_322" n="N013"/>val<choice>
+                    <abbr>lē</abbr>
+                    <expan>len</expan>
+                </choice> von un<choice>
+                    <abbr>smˀ</abbr>
+                    <expan>serm</expan>
+                </choice> guͦte<reg>.</reg> <reg type="star">✳</reg> were oͧch<reg>,</reg> daz si den hof <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> guͤter andren unsers gotzhus lûten ze koͧfenne gebin<reg>,</reg> die sùllent
+        <lb facs="#facs_1_line_1496139987515_323" n="N014"/>in den selben rechten sitzen und beliben alz oͧch si und sol daz ewenclich werend sin<reg>.</reg> <reg type="star">✳</reg> wir han oͧch in ze koͧfen gege<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> ein
+        <lb facs="#facs_1_line_1496139990123_324" n="N015"/>guͤtlin<reg>,</reg> bûwet <persName ref="per019889">Ruͦdolf Schuͦpposser</persName> und sine geswistrigit<reg>,</reg> <reg type="star">✳</reg> daz giltet <measure>sechs vierteil rog<choice>
+                        <abbr>gē</abbr>
+                        <expan>gen</expan>
+                    </choice>
+                </measure>
+                <reg>,</reg> <reg type="star">✳</reg> daz unser lidig eigen ist
+        <lb facs="#facs_1_line_1496139993261_325" n="N016"/>zuͦ dem vor<choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genanten</expan>
+                </choice> hof <reg type="star">✳</reg> umb <measure>hundert und fûnf und zwainzig guldin guͦter florin</measure>
+                <reg>,</reg> <reg type="star">✳</reg> der wir oͧch gentzlich <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> gar von inen
+        <lb facs="#facs_1_line_1496139995828_326" n="N017"/>
+                <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>richt <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> gewert sin <reg type="star">✳</reg> und in un<choice>
+                    <abbr>ssˀ</abbr>
+                    <expan>sers</expan>
+                </choice> gotzhus nûtz <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> fro<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> bekeret ha<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice>
+                <reg>.</reg> <reg type="star">✳</reg> wir han oͧch den vor<choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genanten</expan>
+                </choice> hof <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> oͧch das
+        <lb facs="#facs_1_line_1496139998300_327" n="N018"/>guͤtlin uf gege<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> <reg type="star">✳</reg> an dez <persName ref="per018804">er<choice>
+                        <abbr>bˀen</abbr>
+                        <expan>beren</expan>
+                    </choice> knechtes <reg type="star">✳</reg> Weltins von Rûbiswile</persName> hant<reg>,</reg> <choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> oͧch duͦ ze male ir wissenthaf<choice>
+                    <abbr>tˀ</abbr>
+                    <expan>ter</expan>
+                </choice> schaffener und
+        <lb facs="#facs_1_line_1496140000756_328" n="N019"/>botte waz <reg type="star">✳</reg> und oͧch die ufgebûnge uf nam <reg type="star">✳</reg> zuͦ siner froͧwen handen<reg>,</reg> <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org002627">der eptischin und dez <reg type="star">✳</reg> <reg type="star">✳</reg> conventes ze Kûngesvelt</orgName>
+                <reg>.</reg> <reg type="star">✳</reg> wir
+        <lb facs="#facs_1_line_1496140003621_329" n="N020"/>loben oͧch fûr uns und unser nachko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> dez hofes <reg type="star">✳</reg> und dez guͤtlins rechte weren ze sinde fûr lidig eigen<reg>,</reg> <reg type="star">✳</reg> in aller der wise<reg>,</reg> alz
+        <lb facs="#facs_1_line_1496140006253_330" n="N021"/>hie òben an <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>scri<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> stat<reg>,</reg> <reg type="star">✳</reg> an geistlichem und an weltli<choice>
+                    <abbr>chē</abbr>
+                    <expan>chem</expan>
+                </choice> gerichte <reg type="star">✳</reg> und usserthalb gerichtes<reg>,</reg> <reg type="star">✳</reg> wa <choice>
+                    <abbr>wen̄e</abbr>
+                    <expan>wenne</expan>
+                </choice> <choice>
+                    <abbr>un̄</abbr>
+                    <expan>und</expan>
+                </choice> wie dicke si sin nôt<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1496140009917_331" n="N022" break="no"/>dùrftig sind<reg>.</reg> <reg type="star">✳</reg> wir <choice>
+                    <abbr>vˀ</abbr>
+                    <expan>ver</expan>
+                </choice>zichen uns oͧch fùr uns und fùr alle unser nachko<choice>
+                    <abbr>mē</abbr>
+                    <expan>men</expan>
+                </choice> aller der rechte und rechter ansprache<reg>,</reg> so wir zuͦ dem
+        <lb facs="#facs_1_line_1496140013228_332" n="N023"/>vor<choice>
+                    <abbr>gen̄</abbr>
+                    <expan>genanten</expan>
+                </choice> hof <reg type="star">✳</reg> und dem guͤtlin moͤch<choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice> ha<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> ge<choice>
+                    <abbr>wī</abbr>
+                    <expan>win</expan>
+                </choice>nen an geistlichem <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> an weltli<choice>
+                    <abbr>chē</abbr>
+                    <expan>chem</expan>
+                </choice> gerichte <reg type="star">✳</reg> <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice> ane gerichte <reg type="star">✳</reg> und sûnder<reg type="lb">¬</reg>
+        <lb facs="#facs_1_line_1496140017597_333" n="N024" break="no"/>lich aller der din<choice>
+                    <abbr>gē</abbr>
+                    <expan>gen</expan>
+                </choice>
+                <reg>,</reg> so nû funden sind <reg type="star">✳</reg> oder noch fûnden moͤchtin <choice>
+                    <abbr>wˀ</abbr>
+                    <expan>wer</expan>
+                </choice>den<reg>,</reg> <reg type="star">✳</reg> damit dirre koͧf in dekeinen weg moͤcht gesumet <choice>
+                    <abbr>odˀ</abbr>
+                    <expan>oder</expan>
+                </choice>
+        <lb facs="#facs_1_line_1496140020701_334" n="N025"/>gehindert <choice>
+                    <abbr>wˀ</abbr>
+                    <expan>wer</expan>
+                </choice>den<reg>,</reg> <reg type="star">✳</reg> wan daz der koͧf stet eweclich beliben sol an alle geverde<reg>.</reg> <reg type="star">✳</reg> und dez ze einem stet<choice>
+                    <abbr>tē</abbr>
+                    <expan>ten</expan>
+                </choice>
+                <reg>,</reg> offenen urkùnde <reg type="star">✳</reg> und ze
+        <lb facs="#facs_1_line_1496140023854_335" n="N026"/>einer merer sicherheit<reg>,</reg> <reg type="star">✳</reg> so han wir<reg>,</reg> <persName ref="per019543">Chuͦnrat<reg>,</reg> von gottes gena<choice>
+                        <abbr>dē</abbr>
+                        <expan>den</expan>
+                    </choice> abt</persName>
+                <reg>,</reg> <reg type="star">✳</reg> und der <reg type="star">✳</reg> <reg type="star">✳</reg> <orgName ref="org002674">convent gemeinlich dez gotzhus ze Mûre</orgName>
+                <reg>,</reg>
+        <lb facs="#facs_1_line_1496140026734_336" n="N027"/>
+                <choice>
+                    <abbr>egeñ</abbr>
+                    <expan>egenante</expan>
+                </choice>
+                <reg>,</reg> <reg type="star">✳</reg> unsere ingesigel gehenchet an disen brief<reg>,</reg> <reg type="star">✳</reg> der gege<choice>
+                    <abbr>bē</abbr>
+                    <expan>ben</expan>
+                </choice> wart ze <placeName ref="loc000549">Mûre</placeName>
+                <reg>,</reg> an dem <date when="1344-01-05">zwelften abent<reg>,</reg> <reg type="star">✳</reg> in dem jare<reg>,</reg> duͦ
+        <lb facs="#facs_1_line_1496140029183_337" n="N028"/>man zalte von gottes gebûrte <reg type="star">✳</reg> drûzehen hunderet <reg type="star">✳</reg> und vier <reg type="star">✳</reg> und vierzig jar</date>
+                <reg>.</reg>
+            </p>
+      <pb facs="#facs_2" n="verso" xml:id="img_0002" source="U-17_0200_v"/>
+      <p facs="#facs_2_region_1548057139919_436" rend="dorsual_20_regesta">
+        <lb facs="#facs_2_line_1548057142975_439" n="N001"/>wist wie die fròwen <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Kùngsfel<choice>
+                    <abbr>d₎</abbr>
+                    <expan>den</expan>
+                </choice> er<reg type="lb">¬</reg>
+        <lb facs="#facs_2_line_1548057145574_444" n="N002" break="no"/>koùfft haben den hoff zuͦ Totti<choice>
+                    <abbr>ck₎</abbr>
+                    <expan>cken</expan>
+                </choice>
+        <lb facs="#facs_2_line_1548057147612_449" n="N003"/>ge<choice>
+                    <abbr>nan̄t</abbr>
+                    <expan>nannt</expan>
+                </choice> des Diettfùrts Hoff <reg type="star">✳</reg> und
+        <lb facs="#facs_2_line_1548057150510_454" n="N004"/>aber j güttli darzuͦ <reg type="star">✳</reg> umb die <choice>
+                    <abbr>hrrn̄</abbr>
+                    <expan>herren</expan>
+                </choice>
+        <lb facs="#facs_2_line_1548057154571_459" n="N005"/>zuͦ Mùre umb j <hi rend="sup">
+                    <choice>
+                        <abbr>c</abbr>
+                        <expan>centum</expan>
+                    </choice>
+                </hi> xxv guͦter
+        <lb facs="#facs_2_line_1548057156912_464" n="N006"/>
+                <reg type="star">✳</reg> <hi rend="underline">florin</hi>
+            </p>
+      <p facs="#facs_2_region_1548057164318_471" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1548057166896_474" n="N001"/>K
+        <lb facs="#facs_2_line_1548057168777_479" n="N002"/>G <reg type="star">✳</reg> 8 <reg type="star">✳</reg>
+            </p>
+      <p facs="#facs_2_region_1548057173898_485" rend="dorsual_22_sigle">
+        <lb facs="#facs_2_line_1548057177131_488" n="N001"/>A a</p>
+      <p facs="#facs_2_region_1548057180470_493" rend="dorsual_23_sammelschicht_vor">
+        <lb facs="#facs_2_line_1548057183728_496" n="N001"/>
+                <choice>
+                    <abbr>ùbˀ</abbr>
+                    <expan>ùber</expan>
+                </choice> den hof ze Toti<choice>
+                    <abbr>kū</abbr>
+                    <expan>kun</expan>
+                </choice> <choice>
+                    <abbr>dˀ</abbr>
+                    <expan>der</expan>
+                </choice> koͧft um die
+        <lb facs="#facs_2_line_1548057185719_501" n="N002"/>mùnich <choice>
+                    <abbr>vō</abbr>
+                    <expan>von</expan>
+                </choice> Mure</p>
+    <p facs="#facs_2_region_1548057108683_401" rend="dorsual_31_staag">
+        <lb facs="#facs_2_line_1548057112271_404" n="N001"/>
+                <choice>
+                    <abbr>Königsf<reg>.</reg>
+                    </abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 200</p>
+      <p facs="#facs_2_region_1548057128550_422" rend="dorsual_32_staag_stempel">
+        <lb facs="#facs_2_line_1548057131239_425" n="N001"/>Staatsarchiv
+        <lb facs="#facs_2_line_1548057132863_430" n="N002"/>AARGAU</p>
+      <p facs="#facs_2_region_1548057119411_411" rend="dorsual_33_staag_modern">
+        <lb facs="#facs_2_line_1548057122415_414" n="N001"/>
+                <choice>
+                    <abbr>Kgsf</abbr>
+                    <expan>Königsfelden</expan>
+                </choice> 200</p>
+      <p facs="#facs_2_region_1548057216344_519" rend="dorsual_35_speziell">
+        <lb facs="#facs_2_line_1548057219128_522" n="N001"/>
+                <unclear>
+                    <reg type="star">✳</reg>
+                </unclear>
+            </p>
+      <p facs="#facs_2_region_1548057203605_510" rend="dorsual_36_unleserlich">
+        <lb facs="#facs_2_line_1548057206246_513" n="N001"/>
+                <damage agent="faded ink">
+                    <gap/> </damage>
+            </p>
+      </body>
+  </text>
+</TEI>
