@@ -30,6 +30,39 @@
             </text>
             <text qname="dbk:section"/>
             <text qname="dbk:title"/>
+                        <text qname="tei:body">
+                <ignore qname="tei:note"/>
+            </text>
+            <text qname="tei:back">
+                <ignore qname="tei:note"/>
+                <ignore qname="tei:orig"/>
+            </text>
+            <text match="//tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>
+            <text match="//tei:fileDesc/tei:titleStmt/tei:title"/>
+            <text match="//tei:msDesc/tei:head"/>
+            <text match="//tei:msDesc/tei:msContents/tei:summary">
+                <ignore qname="tei:orig"/>
+            </text>
+            <text match="//tei:body/tei:note">
+                <ignore qname="tei:orig"/>
+            </text>
+            <text match="//tei:back/tei:note">
+                <ignore qname="tei:orig"/>
+            </text>
+            <text match="//tei:body//tei:note//tei:orig"/>
+            <text match="//tei:back//tei:orig"/>
+            <text match="//tei:msDesc/tei:msContents/tei:summary//tei:orig"/>
+            <text match="//tei:teiHeader//tei:seal"/>
+            <text match="//tei:teiHeader//tei:supportDesc/tei:condition"/>
         </lucene>
+        <range>
+            <create qname="@ref" type="xs:string"/>
+            <create qname="@scribe" type="xs:string"/>
+            <create qname="@when" type="xs:date"/>
+            <create qname="tei:date">
+                <field name="date-type" match="@type" type="xs:string"/>
+            </create>
+            <create qname="tei:idno" type="xs:string"/>
+        </range>
     </index>
 </collection>
