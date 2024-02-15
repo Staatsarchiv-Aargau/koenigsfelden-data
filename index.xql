@@ -27,22 +27,18 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
     let $header := $root/tei:teiHeader
     return
         switch ($field)
-            case "title" return
-                string-join((
-                    $header//tei:msDesc/tei:head, $header//tei:titleStmt/tei:title[@type = 'main'],
-                    $header//tei:titleStmt/tei:title,
-                    $root/dbk:info/dbk:title
-                ), " - ")
+            case "title" return $header/descendant::tei:msDesc/tei:head
+            case "regest" return $header/descendant::tei:msContents/tei:summary
+            case "comment" return $root/descendant::tei:back
+            case "notes" return $root/descendant::tei:body/descendant::tei:note | $root/descendant::tei:back/descendant::tei:note
+            case "seal" return $header/descendant::tei:physDesc/descendant::tei:seal
+            case "edition" return $root/descendant::tei:body
             case "author" return (
                 $header//tei:correspDesc/tei:correspAction/tei:persName,
                 $header//tei:titleStmt/tei:author
             )
-            case "language" return
-                head((
-                    $header//tei:langUsage/tei:language/@ident,
-                    $root/@xml:lang,
-                    $header/@xml:lang
-                ))
+            case "language" return $header/descendant::tei:textLang
+                
             case "date" return head((
                 $header//tei:correspDesc/tei:correspAction/tei:date/@when,
                 $header//tei:sourceDesc/(tei:bibl|tei:biblFull)/tei:publicationStmt/tei:date,
@@ -54,6 +50,7 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                 idx:get-genre($header),
                 $root/dbk:info/dbk:keywordset[@vocab="#genre"]/dbk:keyword
             )
+            case "material" return $header/descendant::tei:physDesc/descendant::tei:material
             default return
                 ()
 };

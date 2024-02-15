@@ -5,13 +5,26 @@
             <module uri="http://teipublisher.com/index" prefix="nav" at="index.xql"/>
             <text match="/tei:TEI/tei:text">
                 <ignore qname="tei:div"/>
+                <!-- Search fields -->
                 <field name="title" expression="nav:get-metadata(ancestor::tei:TEI, 'title')"/>
+                <field name="regest" expression="nav:get-metadata(ancestor::tei:TEI, 'regest')"/>
+                <field name="comment" expression="nav:get-metadata(ancestor::tei:TEI, 'comment')"/>
+                <field name="notes" expression="nav:get-metadata(ancestor::tei:TEI, 'notes')"/>
+                <field name="seal" expression="nav:get-metadata(ancestor::tei:TEI, 'seal')"/>
+                <field name="edition" expression="nav:get-metadata(ancestor::tei:TEI, 'edition')"/>
+                <field name="text" expression="."/>
+                
                 <field name="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
                 <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
-                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')"/>
+                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')" type="xs:date"/>
+                <field name="min-date" expression="nav:get-metadata(ancestor::tei:TEI, 'min-date')" type="xs:date"/>
+                <field name="max-date" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
                 <field name="file" expression="util:document-name(.)"/>
+                
+                
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
+                <facet dimension="material" expression="nav:get-metadata(ancestor::tei:TEI, 'material')"/>
             </text>
             <text qname="tei:div">
                 <!-- exclude nested divs which are indexed separately -->
@@ -22,17 +35,6 @@
             <text qname="tei:head"/>
             <text match="//tei:titleStmt/tei:title"/>
             <text match="//tei:msDesc/tei:head"/>
-            <text qname="dbk:article">
-                <field name="title" expression="nav:get-metadata(., 'title')"/>
-                <field name="file" expression="util:document-name(.)"/>
-                <facet dimension="genre" expression="nav:get-metadata(., 'genre')" hierarchical="yes"/>
-                <facet dimension="language" expression="nav:get-metadata(., 'language')"/>
-            </text>
-            <text qname="dbk:section"/>
-            <text qname="dbk:title"/>
-                        <text qname="tei:body">
-                <ignore qname="tei:note"/>
-            </text>
             <text qname="tei:back">
                 <ignore qname="tei:note"/>
                 <ignore qname="tei:orig"/>
