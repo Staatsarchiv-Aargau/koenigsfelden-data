@@ -40,17 +40,23 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
             case "language" return $header/descendant::tei:textLang
                 
             case "date" return head((
-                $header//tei:correspDesc/tei:correspAction/tei:date/@when,
-                $header//tei:sourceDesc/(tei:bibl|tei:biblFull)/tei:publicationStmt/tei:date,
-                $header//tei:sourceDesc/(tei:bibl|tei:biblFull)/tei:date/@when,
-                $header//tei:fileDesc/tei:editionStmt/tei:edition/tei:date,
-                $header//tei:publicationStmt/tei:date
+                $header//descendant::origDate/@when,
+                $header//descendant::origDate/@from
+            ))
+            case "max-date" return head((
+                $header//descendant::origDate/@when,
+                $header//descendant::origDate/@to
+            ))
+            case "min-date" return head((
+                $header//descendant::origDate/@when,
+                $header//descendant::origDate/@from
             ))
             case "genre" return (
                 idx:get-genre($header),
                 $root/dbk:info/dbk:keywordset[@vocab="#genre"]/dbk:keyword
             )
             case "material" return $header/descendant::tei:physDesc/descendant::tei:material
+            case "keywords" return $header/descendant::tei:keywords/tei:term
             default return
                 ()
 };
@@ -61,3 +67,10 @@ declare function idx:get-genre($header as element()?) {
     return
         $category/ancestor-or-self::tei:category[parent::tei:category]/tei:catDesc
 };
+
+declare function idx:get-collection($file as xs:string, $type as xs:string) {
+    let $index := doc($idx:app-root || '/' || $type || '.xml')
+    return 
+        $index//document[. = $file]/parent::collection/@ref
+    
+    };

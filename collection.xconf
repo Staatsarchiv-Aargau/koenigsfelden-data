@@ -22,9 +22,13 @@
                 <field name="file" expression="util:document-name(.)"/>
                 
                 
+                
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
                 <facet dimension="material" expression="nav:get-metadata(ancestor::tei:TEI, 'material')"/>
+                <facet dimension="dorsual" expression="nav:get-collection(util:document-name(.), 'dorsuals')"/>
+                <facet dimension="collection" expression="nav:get-collection(util:document-name(.), 'collections')"/>
+                <facet dimension="keywords" expression="nav:get-metadata(ancestor::tei:TEI, 'keywords')"/>
             </text>
             <text qname="tei:div">
                 <!-- exclude nested divs which are indexed separately -->
