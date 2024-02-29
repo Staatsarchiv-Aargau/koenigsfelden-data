@@ -74,3 +74,12 @@ declare function idx:get-collection($file as xs:string, $type as xs:string) {
         $index//document[. = $file]/parent::collection/@ref
     
     };
+    
+declare function idx:get-mentions($text as element(), $type as xs:string) {
+    switch ($type)
+        case 'person' return $text/descendant::tei:persName/@ref
+        case 'place' return $text/descendant::tei:placeName/@ref
+        case 'org' return $text/descendant::tei:orgName/@ref
+         default return
+                ()
+    };

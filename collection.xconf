@@ -21,7 +21,10 @@
                 <field name="max-date" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
                 <field name="file" expression="util:document-name(.)"/>
                 
-                
+                <!-- Entities -->
+                <field name="person-mentioned" expression="nav:get-mentions(., 'person')"/>
+                <field name="place-mentioned" expression="nav:get-mentions(., 'place')"/>
+                <field name="org-mentioned" expression="nav:get-mentions(., 'org')"/>
                 
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
@@ -35,6 +38,15 @@
                 <ignore qname="tei:div"/>
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
+            </text>
+            <text match="tei:place">
+                <field name="name" expression="tei:placeName"/>
+            </text>
+             <text match="tei:person">
+                <field name="name" expression="tei:persName"/>
+            </text>
+             <text match="tei:org">
+                <field name="name" expression="tei:orgName"/>
             </text>
             <text qname="tei:head"/>
             <text match="//tei:titleStmt/tei:title"/>
