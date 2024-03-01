@@ -10,5 +10,5 @@
     <target>koenigsfelden-data</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
-    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="simple" user="tei" group="tei" mode="rw-r--r--" />
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="simple" user="koenigsfelden" group="tei" mode="rw-r--r--" />
 </meta>
