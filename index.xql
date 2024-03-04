@@ -40,16 +40,16 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
             case "language" return $header/descendant::tei:textLang
                 
             case "date" return head((
-                $header//descendant::origDate/@when,
-                $header//descendant::origDate/@from
+                $header//descendant::tei:origDate/@when,
+                $header//descendant::tei:origDate/@from
             ))
             case "max-date" return head((
-                $header//descendant::origDate/@when,
-                $header//descendant::origDate/@to
+                $header//descendant::tei:origDate/@to,
+                $header//descendant::tei:origDate/@when
             ))
             case "min-date" return head((
-                $header//descendant::origDate/@when,
-                $header//descendant::origDate/@from
+                $header//descendant::tei:origDate/@from,
+                $header//descendant::tei:origDate/@when
             ))
             case "genre" return (
                 idx:get-genre($header),
@@ -80,6 +80,6 @@ declare function idx:get-mentions($text as element(), $type as xs:string) {
         case 'person' return $text/descendant::tei:persName/@ref
         case 'place' return $text/descendant::tei:placeName/@ref
         case 'org' return $text/descendant::tei:orgName/@ref
-         default return
-                ()
+        case 'keyword' return $text/tei:teiHeader/descendant::tei:term/concat('key-', lower-case(.))
+        default return ()
     };

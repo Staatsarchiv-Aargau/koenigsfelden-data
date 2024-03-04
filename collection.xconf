@@ -16,15 +16,17 @@
                 
                 <field name="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
                 <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
-                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')" type="xs:date"/>
+                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')"/>
                 <field name="min-date" expression="nav:get-metadata(ancestor::tei:TEI, 'min-date')" type="xs:date"/>
                 <field name="max-date" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
+                <field name="dorsual" expression="nav:get-collection(util:document-name(.), 'dorsuals')"/>
                 <field name="file" expression="util:document-name(.)"/>
                 
                 <!-- Entities -->
                 <field name="person-mentioned" expression="nav:get-mentions(., 'person')"/>
                 <field name="place-mentioned" expression="nav:get-mentions(., 'place')"/>
                 <field name="org-mentioned" expression="nav:get-mentions(., 'org')"/>
+                <field name="keyword-mentioned" expression="nav:get-mentions(ancestor::tei:TEI, 'keyword')"/>
                 
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
