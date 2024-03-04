@@ -16,9 +16,9 @@
                 
                 <field name="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
                 <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
-                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')"/>
-                <field name="min-date" expression="nav:get-metadata(ancestor::tei:TEI, 'min-date')" type="xs:date"/>
-                <field name="max-date" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
+                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')" type="xs:date"/>
+                <field name="date-min" expression="nav:get-metadata(ancestor::tei:TEI, 'min-date')" type="xs:date"/>
+                <field name="date-max" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
                 <field name="dorsual" expression="nav:get-collection(util:document-name(.), 'dorsuals')"/>
                 <field name="file" expression="util:document-name(.)"/>
                 
@@ -34,6 +34,7 @@
                 <facet dimension="dorsual" expression="nav:get-collection(util:document-name(.), 'dorsuals')"/>
                 <facet dimension="collection" expression="nav:get-collection(util:document-name(.), 'collections')"/>
                 <facet dimension="keywords" expression="nav:get-metadata(ancestor::tei:TEI, 'keywords')"/>
+                <facet dimension="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date') =&gt; tokenize('-')" hierarchical="yes"/>
             </text>
             <text qname="tei:div">
                 <!-- exclude nested divs which are indexed separately -->
