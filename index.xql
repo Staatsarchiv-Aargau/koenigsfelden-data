@@ -27,7 +27,7 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
     let $header := $root/tei:teiHeader
     return
         switch ($field)
-            case "title" return $header/descendant::tei:msDesc/tei:head
+            case "title" return head($header/descendant::tei:title)
             case "regest" return $header/descendant::tei:msContents/tei:summary
             case "comment" return $root/descendant::tei:back
             case "notes" return $root/descendant::tei:body/descendant::tei:note | $root/descendant::tei:back/descendant::tei:note
