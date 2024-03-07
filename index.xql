@@ -80,6 +80,6 @@ declare function idx:get-mentions($text as element(), $type as xs:string) {
         case 'person' return $text/descendant::tei:persName/@ref
         case 'place' return $text/descendant::tei:placeName/@ref
         case 'org' return $text/descendant::tei:orgName/@ref
-        case 'keyword' return $text/tei:teiHeader/descendant::tei:term/concat('key-', lower-case(.))
+        case 'keyword' return $text/tei:teiHeader/descendant::tei:term
         default return ()
     };
