@@ -16,7 +16,7 @@
                 
                 <field name="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
                 <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
-                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')" type="xs:date"/>
+                <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')"/>
                 <field name="date-min" expression="nav:get-metadata(ancestor::tei:TEI, 'min-date')" type="xs:date"/>
                 <field name="date-max" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
                 <field name="dorsual" expression="nav:get-collection(util:document-name(.), 'dorsuals')"/>
