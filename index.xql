@@ -83,3 +83,8 @@ declare function idx:get-mentions($text as element(), $type as xs:string) {
         case 'keyword' return $text/tei:teiHeader/descendant::tei:term
         default return ()
     };
+
+declare function idx:get-foliant($header as element()) {
+    let $foliant := $header/descendant::tei:msIdentifier/tei:idno/@n
+    return
+    if (string-length($foliant) gt 0) then $foliant else '9999'};

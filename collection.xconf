@@ -21,6 +21,8 @@
                 <field name="date-max" expression="nav:get-metadata(ancestor::tei:TEI, 'max-date')" type="xs:date"/>
                 <field name="dorsual" expression="nav:get-collection(util:document-name(.), 'dorsuals')"/>
                 <field name="file" expression="util:document-name(.)"/>
+                <field name="foliant" expression="nav:get-foliant(ancestor::tei:TEI/tei:teiHeader)"/>
+                
                 
                 <!-- Entities -->
                 <field name="person-mentioned" expression="nav:get-mentions(., 'person')"/>
