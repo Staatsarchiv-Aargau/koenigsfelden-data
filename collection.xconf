@@ -5,6 +5,9 @@
             <module uri="http://teipublisher.com/index" prefix="nav" at="index.xql"/>
             <text match="/tei:TEI/tei:text">
                 <ignore qname="tei:div"/>
+                <ignore qname="tei:listPerson"/>
+                <ignore qname="tei:listPlace"/>
+                <ignore qname="tei:listOrg"/>
                 <!-- Search fields -->
                 <field name="title" expression="nav:get-metadata(ancestor::tei:TEI, 'title')"/>
                 <field name="regest" expression="nav:get-metadata(ancestor::tei:TEI, 'regest')"/>
